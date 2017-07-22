@@ -24,7 +24,7 @@ author:
 name: The Film Dream Academy
 url: 'https://thegrid.ai/thefilmdreamacademy/'
 navigation:
-  - name: Masterclass
+  - name: Film News & Festivals
     id: 8f11bbc1-2a04-4175-a691-267947b7bf39
     type: content
 collections:
