@@ -30,6 +30,9 @@ navigation:
   - name: Indie 101
     id: 0a3413a1-00b7-4086-9406-2cb545066de3
     type: content
+  - name: Spotlight
+    id: 5a15cb91-ee5a-4a28-b224-6c4f0f010adb
+    type: content
   - name: News & Festivals
     id: 8f11bbc1-2a04-4175-a691-267947b7bf39
     type: content
@@ -38,9 +41,6 @@ navigation:
     type: content
   - name: Arts & Culture
     id: 1c896d13-7b2f-48b0-a09d-c1af33e84cd3
-    type: content
-  - name: Spotlight
-    id: 5a15cb91-ee5a-4a28-b224-6c4f0f010adb
     type: content
 collections:
   - index:
