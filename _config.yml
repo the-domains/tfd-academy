@@ -5,6 +5,8 @@ github: true
 description: Unleash the Storyteller in you!
 author:
   url: 'http://thefilmdream.com'
+  email: thefilmdream@icloud.com
+  name: The Film Dream
 collections:
   - index:
       path: /
