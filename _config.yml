@@ -36,6 +36,9 @@ navigation:
   - name: Masterclass
     id: d1495fa5-9495-426c-974b-8c246a8fe916
     type: content
+  - name: Arts & Culture
+    id: 1c896d13-7b2f-48b0-a09d-c1af33e84cd3
+    type: content
 collections:
   - index:
       path: /
