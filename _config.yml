@@ -39,6 +39,9 @@ navigation:
   - name: Arts & Culture
     id: 1c896d13-7b2f-48b0-a09d-c1af33e84cd3
     type: content
+  - name: Spotlight
+    id: 5a15cb91-ee5a-4a28-b224-6c4f0f010adb
+    type: content
 collections:
   - index:
       path: /
