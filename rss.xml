@@ -4,9 +4,16 @@
         <description><![CDATA[The Film Dream Academy]]></description>
         <link>https://thegrid.ai/thefilmdreamacademy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Jul 2017 03:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2017 03:13:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thefilmdreamacademy/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Jul 2017 03:13:14 GMT</pubDate>
+        <pubDate>Sat, 22 Jul 2017 03:13:20 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://thefilmdream.com/image/104969123_scaled_354x516.jpg"></article>]]></description>
+            <link>http://thefilmdream.com/the-fury-road-of-george-miller.html</link>
+            <guid isPermaLink="false">04b4b20c-fc54-46ab-a61f-63706b800833</guid>
+            <pubDate>Sat, 22 Jul 2017 03:13:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="http://thefilmdream.com/image/106806829_scaled_350x519.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://nofilmschool.com/2017/07/10-things-beginners-should-know-about-when-they-start-making-films</link>
             <guid isPermaLink="false">f0523ef0-1683-4add-812c-140de8bfd7fc</guid>
             <pubDate>Sat, 22 Jul 2017 03:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We are…</p>]]></description>
-            <link>https://thegrid.ai/thefilmdreamacademy/we-are/index.html</link>
-            <guid isPermaLink="false">a6d4f0bf-181a-4cda-ad38-82587aa385c8</guid>
-            <pubDate>Sat, 22 Jul 2017 03:07:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
