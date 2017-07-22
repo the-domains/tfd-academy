@@ -20,17 +20,17 @@ keywords:
 description: ''
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://nofilmschool.com/2016/04/quentin-tarantino-approach-becoming-successful-filmmaker
 title: The Quentin Tarantino Approach to Becoming a Successful Filmmaker
-datePublished: '2017-07-22T03:20:22.239Z'
-dateModified: '2017-07-22T03:20:22.031Z'
+datePublished: '2017-07-22T03:26:03.798Z'
+dateModified: '2017-07-22T03:26:02.255Z'
 sourcePath: >-
   _posts/2016-04-10-the-quentin-tarantino-approach-to-becoming-a-successful-film.md
 via: {}
 inFeed: true
-datePublishedOriginal: '2017-07-22T03:20:22.239Z'
+hasPage: true
 starred: true
+datePublishedOriginal: '2017-07-22T03:20:22.239Z'
+url: the-quentin-tarantino-approach-to-becoming-a-successful-film/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
