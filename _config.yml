@@ -1,12 +1,32 @@
-name: The Film Dream Academy
+typography_spectrum: 0.6341172032989562
+content_rating:
+  adult: false
+color:
+  lightness: 0.6110481071777288
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  saturation: 0.1259706609710051
+  brandStrength: 0.5054697248864616
+  rhythmicContrast: 0.7675158366950964
+github: true
+opengraph: {}
+layout_spectrum: 0.5337044359184802
 analytics:
   google: UA-64070424-1
-github: true
-description: Unleash the Storyteller Within You!
 author:
   url: 'http://thefilmdream.com'
   email: thefilmdream@icloud.com
   name: The Film Dream
+name: The Film Dream Academy
+url: 'https://thegrid.ai/thefilmdreamacademy/'
+navigation:
+  - name: About us
+    id: 8f11bbc1-2a04-4175-a691-267947b7bf39
+    type: content
 collections:
   - index:
       path: /
@@ -19,25 +39,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content: []
-layout_spectrum: 0.5337044359184802
-color:
-  lightness: 0.6110481071777288
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  saturation: 0.1259706609710051
-  brandStrength: 0.5054697248864616
-  rhythmicContrast: 0.7675158366950964
-content_rating:
-  adult: false
-typography_spectrum: 0.6341172032989562
-opengraph: {}
 title: The Film Dream Academy
-url: 'https://thegrid.ai/thefilmdreamacademy/'
+content: []
+description: Unleash the Storyteller Within You!
 purpose:
   - type: contact
     url: 'mailto:thefilmdream@icloud.com'
