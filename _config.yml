@@ -24,11 +24,11 @@ author:
 name: The Film Dream Academy
 url: 'https://thegrid.ai/thefilmdreamacademy/'
 navigation:
-  - name: Film News & Festivals
-    id: 8f11bbc1-2a04-4175-a691-267947b7bf39
-    type: content
   - name: About us
     id: a6d4f0bf-181a-4cda-ad38-82587aa385c8
+    type: content
+  - name: Film News & Festivals
+    id: 8f11bbc1-2a04-4175-a691-267947b7bf39
     type: content
 collections:
   - index:
