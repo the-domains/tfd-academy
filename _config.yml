@@ -39,6 +39,9 @@ navigation:
   - name: Masterclass
     id: d1495fa5-9495-426c-974b-8c246a8fe916
     type: content
+  - name: Filmmakers' Society
+    id: 3c730bc7-ae1e-480e-bcc0-35483336c5a8
+    type: content
 collections:
   - index:
       path: /
