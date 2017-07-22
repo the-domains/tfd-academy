@@ -4,9 +4,16 @@
         <description><![CDATA[The Film Dream Academy]]></description>
         <link>https://thegrid.ai/thefilmdreamacademy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Jul 2017 03:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2017 03:13:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thefilmdreamacademy/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Jul 2017 03:13:36 GMT</pubDate>
+        <pubDate>Sat, 22 Jul 2017 03:13:41 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://thefilmdream.com/image/116248214_scaled_801x392.jpg"></article>]]></description>
+            <link>http://thefilmdream.com/share-the-idea--maintain-the-connection.html</link>
+            <guid isPermaLink="false">9f86f539-b7e0-4203-9385-595c3d3238c0</guid>
+            <pubDate>Sat, 22 Jul 2017 03:13:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[An Oscar That's Worth the Oscars?]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/71e62cf5a3ca91494363c1d67b9300b9/noop.jpg?input=http%3A%2F%2Fthefilmdream.com%2Fimage%2F115475268_scaled_546x273.jpg"><h1>An Oscar That&apos;s Worth the Oscars?</h1><p>A look into the surging career of up and coming actor, Oscar Isaac, and his rapid rise to fame, bringing forth the possibility for a future Academy Award triumph.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://nofilmschool.com/2017/07/following-dunkirk-christopher-nolans-filmography-lesson-cinematic-magic</link>
             <guid isPermaLink="false">a698ac2d-4d27-49d8-b8da-5755e2d4fea3</guid>
             <pubDate>Sat, 22 Jul 2017 03:11:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[30+ Free E-Books That Will Help You Master Filmmaking]]></title>
-            <description><![CDATA[<article><h1>30+ Free E-Books That Will Help You Master Filmmaking</h1><p>These free online resources cover many aspects of filmmaking that you need to know, from screenwriting to post. [Editor&apos;s Note: No Film School asked Soukaina El Gharbaoui to collect these resources because of her expertise working with filmmakers at Filestage.io.]</p><img src="http://nofilmschool.com/sites/default/files/styles/facebook/public/shutterstock_588339611.jpg?itok=rWF0o5Hz"></article>]]></description>
-            <link>http://nofilmschool.com/2017/03/30-free-e-books-will-help-you-master-filmmaking</link>
-            <guid isPermaLink="false">de77c255-e335-47e8-bf8b-b7630d74eca3</guid>
-            <pubDate>Sat, 22 Jul 2017 03:11:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
