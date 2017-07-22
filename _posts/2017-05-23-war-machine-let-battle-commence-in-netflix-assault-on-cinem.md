@@ -57,8 +57,8 @@ app_links:
     namespace: google
     package: '409128287'
 title: 'War Machine: let battle commence in Netflix assault on cinema'
-datePublished: '2017-07-22T03:03:57.949Z'
-dateModified: '2017-07-22T03:03:56.128Z'
+datePublished: '2017-07-22T04:02:44.629Z'
+dateModified: '2017-07-22T04:02:43.270Z'
 via: {}
 inFeed: true
 sourcePath: >-
@@ -71,4 +71,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>War Machine: let battle commence in Netflix assault on cinema</h1><p>Netflix's new feature film is a big deal in many ways. Called War Machine, it combines the star power of Brad Pitt and the indie credibility of David Michôd, the director of Animal Kingdom. It boasts big themes: the absurdity of war and the ambition of men.</p><img src="https://i.guim.co.uk/img/media/5e54ff6d258e218b1607ecf1bb53287ba71d183d/0_4_3600_2160/master/3600.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=567e20e46fbbfd7567e0336ecd80dc81" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/db0debc5cb6eabe178852ea602c5229f/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F5e54ff6d258e218b1607ecf1bb53287ba71d183d%2F0_4_3600_2160%2Fmaster%2F3600.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26crop%3Dfaces%252Centropy%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D567e20e46fbbfd7567e0336ecd80dc81" /><h1>War Machine: let battle commence in Netflix assault on cinema</h1><p>Netflix's new feature film is a big deal in many ways. Called War Machine, it combines the star power of Brad Pitt and the indie credibility of David Michôd, the director of Animal Kingdom. It boasts big themes: the absurdity of war and the ambition of men.</p></article>
