@@ -58,6 +58,6 @@ title: The Film Dream Academy
 content: []
 description: Unleash the Storyteller Within You!
 purpose:
-  - type: contact
-    url: 'mailto:thefilmdream@icloud.com'
-    label: Powered by thefilmdream.com
+  - type: external
+    url: 'http://thefilmdream.com'
+    label: 'http://thefilmdream.com'
