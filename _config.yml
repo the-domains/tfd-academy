@@ -27,11 +27,11 @@ navigation:
   - name: About us
     id: a6d4f0bf-181a-4cda-ad38-82587aa385c8
     type: content
-  - name: Film News & Festivals
-    id: 8f11bbc1-2a04-4175-a691-267947b7bf39
-    type: content
   - name: Indie 101
     id: 0a3413a1-00b7-4086-9406-2cb545066de3
+    type: content
+  - name: Film News & Festivals
+    id: 8f11bbc1-2a04-4175-a691-267947b7bf39
     type: content
 collections:
   - index:
