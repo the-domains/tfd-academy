@@ -6,7 +6,14 @@
         <generator>The Grid</generator>
         <lastBuildDate>Sat, 22 Jul 2017 03:20:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thefilmdreamacademy/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Jul 2017 03:19:40 GMT</pubDate>
+        <pubDate>Sat, 22 Jul 2017 03:19:47 GMT</pubDate>
+        <item>
+            <title><![CDATA[A camera technique from the film "Creed"]]></title>
+            <description><![CDATA[<h1>A camera technique from the film "Creed"</h1>,<article><h1>How They Pulled Off Creed&apos;s Two Biggest Shots: A-Camera Operator Ben Semanoff | Filmmaker Magazine</h1><p>There are few moments in cinema as iconic as Rocky Balboa bounding up the steps of the Philadelphia Museum of Art, with Steadicam inventor Garrett Brown galloping alongside him off-screen.</p><img src="http://static.filmmakermagazine.com/wp-content/uploads/2016/03/Creed-Movie-1-8-size.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thefilmdreamacademy/a-camera-technique-from-the-film-creed/index.html</link>
+            <guid isPermaLink="false">33348454-15e3-4eaf-b6f1-beb336617d3a</guid>
+            <pubDate>Sat, 22 Jul 2017 03:19:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lighting Tip for "no budget" indie filmmakers.]]></title>
             <description><![CDATA[<h1>Lighting Tip for "no budget" indie filmmakers.</h1>,<p>5 Considerations for One-Light Setups | Videomaker.com</p>]]></description>
@@ -69,13 +76,6 @@
             <link>urn:uuid:03f497b9-c1c9-4028-86e7-9232bba34650</link>
             <guid isPermaLink="false">fb2dee73-2abf-450d-92f2-99a9bfe42e57</guid>
             <pubDate>Sat, 22 Jul 2017 03:18:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016 Cannes Film Festival Unveils Directors' Fortnight Picks, Including New Films From Paul Schrader and Laura Poitras]]></title>
-            <description><![CDATA[<p>2016 Cannes Film Festival Announces Directors&#39; Fortnight | Indiewire</p>,<article><h1>2016 Cannes Film Festival Unveils Directors&apos; Fortnight Picks, Including New Films From Paul Schrader and Laura Poitras</h1><p>The 48th annual edition of the Cannes Film Festival&apos;s lauded Directors&apos; Fortnight section announced its picks this morning and, as ever, it includes a hefty number of new works from rising stars, festival favorites already garnering serious acclaim and some of the most buzzed-about international offerings on the circuit.</p><img src="http://cdn.indiewire.psdops.com/dims4/INDIEWIRE/b6b4656/2147483647/resize/1024x633%3E/quality/90/?url=http%3A%2F%2Fdl9fvu4r30qs1.cloudfront.net%2F71%2F9a%2F85ba68e245b7bb2daf110f484a57%2Fgael-garcia-bernal-nerdua-pablo-larrain.jpg"></article>]]></description>
-            <link>urn:uuid:0f9dc4cb-bd67-44cf-840c-def2c49eac91</link>
-            <guid isPermaLink="false">c94be005-533c-448b-98d4-008fa5bad7f1</guid>
-            <pubDate>Sat, 22 Jul 2017 03:17:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
