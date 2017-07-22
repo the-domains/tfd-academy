@@ -38,3 +38,7 @@ typography_spectrum: 0.6341172032989562
 opengraph: {}
 title: The Film Dream Academy
 url: 'https://thegrid.ai/thefilmdreamacademy/'
+purpose:
+  - type: contact
+    url: 'mailto:thefilmdream@icloud.com'
+    label: Powered by thefilmdream.com
