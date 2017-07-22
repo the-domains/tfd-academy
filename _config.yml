@@ -36,11 +36,11 @@ navigation:
   - name: News & Festivals
     id: 8f11bbc1-2a04-4175-a691-267947b7bf39
     type: content
-  - name: Masterclass
-    id: d1495fa5-9495-426c-974b-8c246a8fe916
-    type: content
   - name: Filmmakers' Society
     id: 3c730bc7-ae1e-480e-bcc0-35483336c5a8
+    type: content
+  - name: Masterclass
+    id: d1495fa5-9495-426c-974b-8c246a8fe916
     type: content
 collections:
   - index:
