@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   If you want your work as a starting filmmaker featured in our site, contact us
   at thefilmdream@icloud.com and danpascual@thefilmdream.com
-dateModified: '2017-07-24T12:10:07.120Z'
-datePublished: '2017-07-24T12:10:08.026Z'
+dateModified: '2017-07-24T13:03:51.040Z'
+datePublished: '2017-07-24T13:03:52.775Z'
 title: ''
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ _type: Article
 
 If you want your work as a starting filmmaker featured in our site, contact us at [thefilmdream@icloud.com][0] and [danpascual@thefilmdream.com][1]
 
-We are more than happy to work with you on your next [Film Dream.][2]
+We are more than happy to work with you on your next [film dream.][2]
 
 [0]: http://thefilmdream@icloud.com/
 [1]: http://danpascual@thefilmdream.com/
