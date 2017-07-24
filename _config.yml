@@ -42,7 +42,7 @@ navigation:
   - name: Masterclass
     id: d1495fa5-9495-426c-974b-8c246a8fe916
     type: content
-  - name: News & Film Festivals
+  - name: News & Festivals
     id: bd0f5d5a-6c1b-4f27-a53f-4555389ac0c0
     type: content
 collections:
