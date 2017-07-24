@@ -31,9 +31,6 @@ navigation:
     id: 5cd0fa33-4eac-43c2-8c93-1458332b7332
     type: content
   - name: Masterclass
-    id: d1495fa5-9495-426c-974b-8c246a8fe916
-    type: content
-  - name: Masterclass
     id: 1708e7ec-c485-4578-a381-02b522942b8f
     type: content
 collections:
