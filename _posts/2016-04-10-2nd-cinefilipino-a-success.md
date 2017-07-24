@@ -25,18 +25,18 @@ description: >-
   cinemas as well as extra screenings of Ice Idanan's Sakaling Hindi Makarating.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.philstar.com/entertainment/2016/04/10/1571162/2nd-cinefilipino-success
 title: 2nd CineFilipino a success
-datePublished: '2017-07-22T03:20:25.909Z'
-dateModified: '2017-07-22T03:20:25.689Z'
+datePublished: '2017-07-24T13:15:55.122Z'
+dateModified: '2017-07-24T13:15:54.201Z'
 sourcePath: _posts/2016-04-10-2nd-cinefilipino-a-success.md
 via: {}
 inFeed: true
-datePublishedOriginal: '2017-07-22T03:20:25.909Z'
+hasPage: true
 starred: true
+datePublishedOriginal: '2017-07-22T03:20:25.909Z'
+url: 2nd-cinefilipino-a-success/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>2nd CineFilipino a success</h1><p>MANILA, Philippines - The second run of the biennial CineFilipino Film Festival, organized and led by Unitel Productions and in partnership with the MVP Group of Companies and PLDT Smart Foundation, was a resounding success. It surpassed expectations with extended screenings of the films in selected cinemas as well as extra screenings of Ice Idanan's Sakaling Hindi Makarating.</p><img src="http://media.philstar.com/images/the-philippine-star/entertainment/20160410/ent9-Angeli-Bayani.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67bc34dfdbbc6552d0c6b92ed26a61aac53f9ba3.jpg" /><h1>2nd CineFilipino a success</h1><p>MANILA, Philippines - The second run of the biennial CineFilipino Film Festival, organized and led by Unitel Productions and in partnership with the MVP Group of Companies and PLDT Smart Foundation, was a resounding success. It surpassed expectations with extended screenings of the films in selected cinemas as well as extra screenings of Ice Idanan's Sakaling Hindi Makarating.</p></article>
