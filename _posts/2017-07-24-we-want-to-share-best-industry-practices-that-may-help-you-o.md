@@ -3,17 +3,19 @@ inFeed: true
 description: >-
   We want to share best industry practices that may help you on your way to
   making your Film Dream. 
-dateModified: '2017-07-24T12:09:23.021Z'
-datePublished: '2017-07-24T12:09:24.263Z'
+dateModified: '2017-07-24T12:13:11.205Z'
+datePublished: '2017-07-24T12:13:12.888Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-07-24T12:09:24.263Z'
 sourcePath: >-
   _posts/2017-07-24-we-want-to-share-best-industry-practices-that-may-help-you-o.md
-_type: Blurb
+hasPage: true
+starred: false
+datePublishedOriginal: '2017-07-24T12:09:24.263Z'
+url: we-want-to-share-best-industry-practices-that-may-help-you-o/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c72784a6-363c-4145-ae5c-c1bed1f6f0d5.jpg)
