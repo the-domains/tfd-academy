@@ -17,16 +17,17 @@ description: >-
   exciting short film competition, post-production workshops, up for grab film
   grants, and in store-games.
 app_links: []
+isBasedOnUrl: >-
+  http://www.gadgetsmagazine.com.ph/features/visual-space/power-mac-centers-cinemansanas-2017.html
 title: Power Mac Center's 'Cinemansanas' 2017
-datePublished: '2017-07-24T09:09:11.856Z'
-dateModified: '2017-07-24T09:09:10.237Z'
+datePublished: '2017-07-24T13:14:35.745Z'
+dateModified: '2017-07-24T13:14:34.554Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-24-power-mac-centers-cinemansanas-2017.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-07-24T00:27:51.506Z'
-url: power-mac-centers-cinemansanas-2017/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
