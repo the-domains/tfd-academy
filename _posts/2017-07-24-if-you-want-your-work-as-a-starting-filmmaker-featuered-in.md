@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   If you want your work as a starting filmmaker featured in our site, contact us
   at thefilmdream@icloud.com and danpascual@thefilmdream.com
-dateModified: '2017-07-24T13:04:01.174Z'
-datePublished: '2017-07-24T13:04:02.294Z'
+dateModified: '2017-07-24T14:21:11.686Z'
+datePublished: '2017-07-24T14:21:13.853Z'
 title: ''
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-24T11:57:09.326Z'
 url: if-you-want-your-work-as-a-starting-filmmaker-featured-in-o/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc621b34-3ef5-4517-adc0-c560cc09174e.jpg)
