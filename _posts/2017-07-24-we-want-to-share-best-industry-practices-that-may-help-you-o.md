@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   We want to share best industry practices that may help you on your way to
-  making your Film Dream. 
-dateModified: '2017-07-24T12:13:11.205Z'
-datePublished: '2017-07-24T12:13:12.888Z'
+  making your Film Dream.
+dateModified: '2017-07-24T13:27:43.211Z'
+datePublished: '2017-07-24T13:27:45.662Z'
 title: ''
 author: []
 publisher: {}
@@ -20,9 +20,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c72784a6-363c-4145-ae5c-c1bed1f6f0d5.jpg)
 
-We want to share best industry practices that may help you on your way to making your [Film Dream][0]. 
+We want to share best industry practices that may help you on your way to making your [Film Dream][0].
 
-If you're interested in joining our free seminars, workshops and other talent development and management programs, kindly send us an email at [thefilmdream@icloud.com][1] and [danpascual@thefilmdream.com][2].
+If you're interested in joining our free Masterclasses including seminars, workshops and other talent development and management programs, kindly send us an email at [thefilmdream@icloud.com][1] and [danpascual@thefilmdream.com][2].
 
 We can't wait to hear from you!
 
