@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   We want to share best industry practices that may help you on your way to
   making your Film Dream.
-dateModified: '2017-07-24T13:27:55.636Z'
-datePublished: '2017-07-24T13:27:57.142Z'
+dateModified: '2017-07-24T14:21:34.634Z'
+datePublished: '2017-07-24T14:21:36.267Z'
 title: ''
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-24T12:09:24.263Z'
 url: we-want-to-share-best-industry-practices-that-may-help-you-o/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c72784a6-363c-4145-ae5c-c1bed1f6f0d5.jpg)
