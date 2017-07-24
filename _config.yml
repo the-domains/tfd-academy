@@ -33,6 +33,9 @@ navigation:
   - name: Masterclass
     id: d1495fa5-9495-426c-974b-8c246a8fe916
     type: content
+  - name: Spotlight
+    id: 5cd0fa33-4eac-43c2-8c93-1458332b7332
+    type: content
 collections:
   - index:
       path: /
