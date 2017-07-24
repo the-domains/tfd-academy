@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We want to share best industry practices that may help you on your way to
   making your Film Dream.
-dateModified: '2017-07-24T13:27:43.211Z'
-datePublished: '2017-07-24T13:27:45.662Z'
+dateModified: '2017-07-24T13:27:55.636Z'
+datePublished: '2017-07-24T13:27:57.142Z'
 title: ''
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ _type: Article
 
 We want to share best industry practices that may help you on your way to making your [Film Dream][0].
 
-If you're interested in joining our free Masterclasses including seminars, workshops and other talent development and management programs, kindly send us an email at [thefilmdream@icloud.com][1] and [danpascual@thefilmdream.com][2].
+If you're interested in joining our Masterclasses including seminars, workshops and other talent development and management programs, kindly send us an email at [thefilmdream@icloud.com][1] and [danpascual@thefilmdream.com][2].
 
 We can't wait to hear from you!
 
