@@ -15,20 +15,20 @@ description: >-
   status in the film industry isn't the only thing that makes him unique, it's
   also his cerebral style of filmmaking.
 app_links: []
-isBasedOnUrl: >-
-  http://nofilmschool.com/2017/07/following-dunkirk-christopher-nolans-filmography-lesson-cinematic-magic
 title: >-
   From 'Following' to 'Dunkirk': Christopher Nolan's Filmography Is a Lesson in
   Cinematic Magic
-datePublished: '2017-07-22T03:11:59.331Z'
-dateModified: '2017-07-22T03:11:59.104Z'
+datePublished: '2017-07-24T13:16:38.623Z'
+dateModified: '2017-07-24T13:16:37.111Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-21-from-following-to-dunkirk-christopher-nolans-filmograp.md
-datePublishedOriginal: '2017-07-22T03:11:59.331Z'
+hasPage: true
 starred: false
+datePublishedOriginal: '2017-07-22T03:11:59.331Z'
+url: from-following-to-dunkirk-christopher-nolans-filmograp/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>From 'Following' to 'Dunkirk': Christopher Nolan's Filmography Is a Lesson in Cinematic Magic</h1><p>What should you know about Christopher Nolan's brand of filmmaking before you see 'Dunkirk?' Christopher Nolan is one of the most successful (and most trusted) directors in Hollywood today. He is able to make pretty much any film he wants with virtually complete creative freedom, and this kind of elite status in the film industry isn't the only thing that makes him unique, it's also his cerebral style of filmmaking.</p><img src="http://nofilmschool.com/sites/default/files/styles/facebook/public/dunkirk_0.jpg?itok=k0ku2CBJ" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/01e78778dc44b0728f93bfb3ef47b82f/noop.jpg?input=http%3A%2F%2Fnofilmschool.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ffacebook%2Fpublic%2Fdunkirk_0.jpg%3Fitok%3Dk0ku2CBJ" /><h1>From 'Following' to 'Dunkirk': Christopher Nolan's Filmography Is a Lesson in Cinematic Magic</h1><p>What should you know about Christopher Nolan's brand of filmmaking before you see 'Dunkirk?' Christopher Nolan is one of the most successful (and most trusted) directors in Hollywood today. He is able to make pretty much any film he wants with virtually complete creative freedom, and this kind of elite status in the film industry isn't the only thing that makes him unique, it's also his cerebral style of filmmaking.</p></article>
