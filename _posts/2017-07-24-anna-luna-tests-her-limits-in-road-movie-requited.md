@@ -16,17 +16,16 @@ description: >-
   across lahar-covered Mt. Pinatubo in Pampanga with her costar, Jake Cuenca.
   "This is the most physically draining film I have made so far.
 app_links: []
-isBasedOnUrl: >-
-  http://entertainment.inquirer.net/235613/anna-luna-tests-limits-road-movie-requited
 title: Anna Luna tests her limits in road movie 'Requited'
-datePublished: '2017-07-24T13:13:18.175Z'
-dateModified: '2017-07-24T13:13:16.689Z'
+datePublished: '2017-07-24T13:16:21.228Z'
+dateModified: '2017-07-24T13:16:20.236Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-24-anna-luna-tests-her-limits-in-road-movie-requited.md
-hasPage: false
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-24T13:11:05.333Z'
+url: anna-luna-tests-her-limits-in-road-movie-requited/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
