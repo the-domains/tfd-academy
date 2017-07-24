@@ -20,15 +20,16 @@ app_links: []
 isBasedOnUrl: >-
   http://www.gadgetsmagazine.com.ph/features/visual-space/power-mac-centers-cinemansanas-2017.html
 title: Power Mac Center's 'Cinemansanas' 2017
-datePublished: '2017-07-24T00:27:51.506Z'
-dateModified: '2017-07-24T00:27:10.882Z'
-datePublishedOriginal: '2017-07-24T00:27:51.506Z'
+datePublished: '2017-07-24T08:55:36.335Z'
+dateModified: '2017-07-24T08:55:34.708Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-07-24-power-mac-centers-cinemansanas-2017.md
+hasPage: false
+starred: false
+datePublishedOriginal: '2017-07-24T00:27:51.506Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Power Mac Center's 'Cinemansanas' 2017</h1><p>For the second time since its conception, Power Mac Center's Pixelworx entitled 'Cinemansanas' 2017 is set to go all out with activities that include a master class with award-winning film director, Brillante Mendoza, an exciting short film competition, post-production workshops, up for grab film grants, and in store-games.</p><img src="http://www.gadgetsmagazine.com.ph/wp-content/uploads/2017/07/cinemansanas-a4-posters2.png" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dadecdbebaeac9b6003ca4ba5a9f2ac0/croprotate.png?cropheight=1754&amp;cropwidth=1073&amp;degrees=0&amp;input=http%3A%2F%2Fwww.gadgetsmagazine.com.ph%2Fwp-content%2Fuploads%2F2017%2F07%2Fcinemansanas-a4-posters2.png&amp;x=86&amp;y=0" /><h1>Power Mac Center's 'Cinemansanas' 2017</h1><p>For the second time since its conception, Power Mac Center's Pixelworx entitled 'Cinemansanas' 2017 is set to go all out with activities that include a master class with award-winning film director, Brillante Mendoza, an exciting short film competition, post-production workshops, up for grab film grants, and in store-games.</p></article>
