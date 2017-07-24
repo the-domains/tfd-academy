@@ -1,5 +1,6 @@
-layout_spectrum: 0.15773106976227816
 typography_spectrum: 0.5693058423959826
+content_rating:
+  adult: false
 color:
   lightness: 0.5803718049011866
   brandColors:
@@ -11,10 +12,9 @@ color:
   saturation: 0.21881641281372174
   brandStrength: 0.18896284108206923
   rhythmicContrast: 0.0039100550059782396
-content_rating:
-  adult: false
 github: true
 opengraph: {}
+layout_spectrum: 0.15773106976227816
 analytics:
   google: UA-64070424-1
 author:
@@ -42,6 +42,9 @@ navigation:
   - name: Masterclass
     id: d1495fa5-9495-426c-974b-8c246a8fe916
     type: content
+  - name: News & Film Festivals
+    id: bd0f5d5a-6c1b-4f27-a53f-4555389ac0c0
+    type: content
 collections:
   - index:
       path: /
@@ -64,19 +67,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a754d2e-3cc2-4994-8f46-7abae99b8be2.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -88,20 +91,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/3414dee6-4495-42a9-825c-64c188a46a0d.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
