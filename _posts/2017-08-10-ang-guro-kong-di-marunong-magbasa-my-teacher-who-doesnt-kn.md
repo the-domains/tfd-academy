@@ -13,15 +13,15 @@ description: >-
   by Perry Escano
 app_links: []
 isBasedOnUrl: 'http://thefilmdream.com/a-quick-guide-to-c13-films-in-competition.html'
-datePublished: '2017-08-10T06:09:23.355Z'
-dateModified: '2017-08-10T06:09:16.125Z'
-datePublishedOriginal: '2017-08-10T06:09:23.355Z'
+datePublished: '2017-08-11T00:42:23.190Z'
+dateModified: '2017-08-11T00:42:19.761Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-08-10-ang-guro-kong-di-marunong-magbasa-my-teacher-who-doesnt-kn.md
+starred: false
+datePublishedOriginal: '2017-08-10T06:09:23.355Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
