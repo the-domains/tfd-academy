@@ -16,15 +16,15 @@ description: >-
   Pre-selected entries will be screened on August 5 to 7, 2017, at the CCP.
 app_links: []
 isBasedOnUrl: 'http://www.thefilmdream.com/cinemalaya13.html'
-datePublished: '2017-08-11T00:43:00.499Z'
-dateModified: '2017-08-05T23:50:28.266Z'
-datePublishedOriginal: '2017-08-11T00:43:00.499Z'
+datePublished: '2017-08-11T01:02:44.349Z'
+dateModified: '2017-08-11T01:02:42.164Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-08-11-the-29th-gawad-ccp-para-sa-alternatibong-pelikula-at-video.md
+starred: false
+datePublishedOriginal: '2017-08-11T00:43:00.499Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
