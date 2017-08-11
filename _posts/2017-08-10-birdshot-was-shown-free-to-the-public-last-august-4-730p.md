@@ -13,8 +13,8 @@ description: >-
   Tanghalang Nicanor Abelardo (CCP main theater).
 app_links: []
 isBasedOnUrl: 'http://thefilmdream.com/see-the-big-picture-at-the-c13.html'
-datePublished: '2017-08-11T00:42:23.079Z'
-dateModified: '2017-08-11T00:42:19.761Z'
+datePublished: '2017-08-11T01:02:44.265Z'
+dateModified: '2017-08-11T01:02:42.164Z'
 title: ''
 via: {}
 inFeed: true
