@@ -1,21 +1,21 @@
 ---
 description: In the gaily flamboyant footsteps of ‘Zombadings’ | Inquirer Entertainment
 author: []
-datePublished: '2017-07-22T03:19:33.876Z'
+datePublished: '2017-08-11T00:42:23.331Z'
 publisher:
   url: 'http://entertainment.inquirer.net'
   name: Inquirer
   favicon: >-
     http://entertainment.inquirer.net/wp-content/themes/ent2014/inq2013/favicon.ico
   domain: entertainment.inquirer.net
-dateModified: '2017-07-22T03:19:33.697Z'
+dateModified: '2017-08-11T00:42:19.761Z'
 title: In the gaily flamboyant footsteps of 'Zombadings'
 sourcePath: _posts/2016-04-11-spotlight-inspirational-filipino-independent-filmmaker.md
 via: {}
 hasPage: true
 inFeed: true
-datePublishedOriginal: '2017-07-22T03:19:33.876Z'
 starred: true
+datePublishedOriginal: '2017-07-22T03:19:33.876Z'
 url: in-the-gaily-flamboyant-footsteps-of-zombadings/index.html
 _context: 'http://schema.org'
 _type: Article
