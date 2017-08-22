@@ -19,8 +19,8 @@ description: >-
   "chronicles the events leading to the Third American Civil War.
 app_links: []
 title: '''Game of Thrones'' showrunners reveal their next epic HBO series'
-datePublished: '2017-07-24T13:19:37.084Z'
-dateModified: '2017-07-24T13:19:35.953Z'
+datePublished: '2017-08-22T01:57:18.715Z'
+dateModified: '2017-08-22T01:57:15.303Z'
 via: {}
 inFeed: true
 sourcePath: >-
