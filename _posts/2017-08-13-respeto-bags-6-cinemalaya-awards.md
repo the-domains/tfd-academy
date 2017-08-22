@@ -17,13 +17,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://lifestyle.inquirer.net/270800/respeto-bags-6-cinemalaya-awards/'
 title: '''Respeto'' bags 6 Cinemalaya awards'
-datePublished: '2017-08-13T23:31:15.576Z'
-dateModified: '2017-08-13T23:00:55.306Z'
-datePublishedOriginal: '2017-08-13T23:31:15.576Z'
+datePublished: '2017-08-22T01:55:06.845Z'
+dateModified: '2017-08-22T01:55:05.268Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-08-13-respeto-bags-6-cinemalaya-awards.md
+starred: false
+datePublishedOriginal: '2017-08-13T23:31:15.576Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
