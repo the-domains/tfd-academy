@@ -15,13 +15,13 @@ app_links: []
 isBasedOnUrl: >-
   http://www.hollywoodreporter.com/lists/top-15-international-film-schools-revealed-1029763
 title: Top 15 International Film Schools Revealed
-datePublished: '2017-08-18T03:55:18.637Z'
-dateModified: '2017-08-18T03:54:58.515Z'
-datePublishedOriginal: '2017-08-18T03:55:18.637Z'
+datePublished: '2017-08-22T01:54:35.578Z'
+dateModified: '2017-08-22T01:54:35.289Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-08-18-top-15-international-film-schools-revealed.md
+starred: false
+datePublishedOriginal: '2017-08-18T03:55:18.637Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
