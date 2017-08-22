@@ -29,14 +29,14 @@ app_links: []
 isBasedOnUrl: >-
   http://nofilmschool.com/2016/08/grab-every-filmmaking-form-youll-ever-need-these-99-free-templates
 title: Every Filmmaking Form You'll Ever Need in 99 Free Templates
-datePublished: '2017-07-22T03:12:33.876Z'
-dateModified: '2017-07-22T03:12:33.675Z'
+datePublished: '2017-08-22T01:57:18.710Z'
+dateModified: '2017-08-22T01:57:15.303Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2017-03-07-every-filmmaking-form-youll-ever-need-in-99-free-templates.md
-datePublishedOriginal: '2017-07-22T03:12:33.876Z'
 starred: false
+datePublishedOriginal: '2017-07-22T03:12:33.876Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
