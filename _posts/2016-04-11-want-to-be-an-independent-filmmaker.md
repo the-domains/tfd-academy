@@ -1,14 +1,14 @@
 ---
 description: How Do You Make a Living as an Independent Filmmaker? It' | Indiewire
 author: []
-datePublished: '2017-08-22T02:18:11.312Z'
+datePublished: '2017-08-22T02:18:53.141Z'
 publisher:
   url: 'http://www.indiewire.com'
   name: Indiewire
   favicon: >-
     http://d1oi7t5trwfj5d.cloudfront.net/36/9e/83a6781c4a9185774b29cb59594b/favicon.ico
   domain: www.indiewire.com
-dateModified: '2017-08-22T02:18:09.716Z'
+dateModified: '2017-08-22T02:18:52.321Z'
 title: How Do You Make a Living as an Independent Filmmaker? It's Not Easy
 sourcePath: _posts/2016-04-11-want-to-be-an-independent-filmmaker.md
 via: {}
