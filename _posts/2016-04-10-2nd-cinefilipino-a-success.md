@@ -26,8 +26,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: 2nd CineFilipino a success
-datePublished: '2017-08-22T01:54:01.510Z'
-dateModified: '2017-08-22T01:53:59.870Z'
+datePublished: '2017-08-22T01:55:06.773Z'
+dateModified: '2017-08-22T01:55:05.268Z'
 sourcePath: _posts/2016-04-10-2nd-cinefilipino-a-success.md
 via: {}
 inFeed: true
