@@ -16,8 +16,8 @@ app_links: []
 isBasedOnUrl: >-
   http://nofilmschool.com/2017/07/mark-duplass-9-secrets-launching-career-indie-film
 title: Mark Duplass' 9 Secrets to Launching a Career in Indie Film
-datePublished: '2017-08-22T01:53:27.433Z'
-dateModified: '2017-08-22T01:53:25.894Z'
+datePublished: '2017-08-22T01:54:01.444Z'
+dateModified: '2017-08-22T01:53:59.870Z'
 via: {}
 inFeed: true
 sourcePath: >-
