@@ -17,8 +17,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.vox.com/culture/2017/7/25/15985480/christopher-nolan-explained-dunkirk-inception-dark-knight
 title: 'The films of Christopher Nolan, explained'
-datePublished: '2017-08-22T01:55:06.773Z'
-dateModified: '2017-08-22T01:55:05.268Z'
+datePublished: '2017-08-22T01:56:19.606Z'
+dateModified: '2017-08-22T01:56:17.265Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-26-the-films-of-christopher-nolan-explained.md
