@@ -37,8 +37,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: 7 Directing Tips From A First Time Feature Director
-datePublished: '2017-08-11T01:02:44.343Z'
-dateModified: '2017-08-11T01:02:42.164Z'
+datePublished: '2017-08-22T01:52:51.600Z'
+dateModified: '2017-08-22T01:52:50.345Z'
 sourcePath: _posts/2016-04-10-7-directing-tips-from-a-first-time-feature-director.md
 via: {}
 inFeed: true
