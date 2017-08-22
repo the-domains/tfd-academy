@@ -37,8 +37,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'http://m.huffpost.com/us/entry/6418998'
 title: 'IndieFlix: A Movement to Change the World One Indie Movie at a Time'
-datePublished: '2017-08-22T02:03:22.128Z'
-dateModified: '2017-08-22T02:03:20.916Z'
+datePublished: '2017-08-22T02:04:35.248Z'
+dateModified: '2017-08-22T02:04:34.163Z'
 via: {}
 inFeed: true
 sourcePath: >-
