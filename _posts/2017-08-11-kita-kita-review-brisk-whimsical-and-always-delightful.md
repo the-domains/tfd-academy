@@ -43,8 +43,8 @@ app_links:
 isBasedOnUrl: >-
   http://www.rappler.com/entertainment/movies/176386-kita-kita-movie-review-alessandra-de-rossi-empoy-marquez
 title: '''Kita Kita'' review: brisk, whimsical and always delightful'
-datePublished: '2017-08-22T02:20:23.671Z'
-dateModified: '2017-08-22T02:20:22.801Z'
+datePublished: '2017-08-22T02:23:12.269Z'
+dateModified: '2017-08-22T02:23:11.243Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-11-kita-kita-review-brisk-whimsical-and-always-delightful.md
