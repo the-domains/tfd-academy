@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://swagger-media.com/4-ways-to-make-your-dslr-video-look-like-film/'
 title: 4 Ways to Make Your DSLR Video Look Like Film | Swagger Media
-datePublished: '2017-08-22T02:00:52.727Z'
-dateModified: '2017-08-22T02:00:51.604Z'
+datePublished: '2017-08-22T02:03:22.135Z'
+dateModified: '2017-08-22T02:03:20.916Z'
 sourcePath: >-
   _posts/2016-04-10-4-ways-to-make-your-dslr-video-look-like-film-or-swagger-medi.md
 via: {}
