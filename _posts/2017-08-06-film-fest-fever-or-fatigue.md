@@ -19,8 +19,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://entertainment.inquirer.net/237443/film-fest-fever-fatigue'
 title: Film fest fever or fatigue?
-datePublished: '2017-08-22T01:59:18.862Z'
-dateModified: '2017-08-22T01:59:16.490Z'
+datePublished: '2017-08-22T02:00:52.727Z'
+dateModified: '2017-08-22T02:00:51.604Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-06-film-fest-fever-or-fatigue.md
