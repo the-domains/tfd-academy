@@ -17,8 +17,8 @@ app_links: []
 isBasedOnUrl: >-
   http://nofilmschool.com/2015/03/complete-mark-duplass-filmmaking-bible-becoming-successful-director
 title: The Complete Mark Duplass Filmmaking Bible on Becoming a Successful Director
-datePublished: '2017-08-22T02:02:17.866Z'
-dateModified: '2017-08-22T02:02:17.586Z'
+datePublished: '2017-08-22T02:03:22.105Z'
+dateModified: '2017-08-22T02:03:20.916Z'
 via: {}
 inFeed: true
 sourcePath: >-
