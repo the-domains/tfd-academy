@@ -34,8 +34,8 @@ description: ''
 inLanguage: en
 app_links: []
 title: How 3 Women Made Estonia's 'Fargo' in 6 Weeks
-datePublished: '2017-08-22T01:55:38.506Z'
-dateModified: '2017-08-22T01:55:37.883Z'
+datePublished: '2017-08-22T01:57:18.675Z'
+dateModified: '2017-08-22T01:57:15.303Z'
 sourcePath: _posts/2016-04-20-how-3-women-made-estonias-fargo-in-6-weeks.md
 via: {}
 inFeed: true
