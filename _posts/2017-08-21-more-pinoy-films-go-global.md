@@ -13,8 +13,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://m.inquirer.net/entertainment/239329'
 title: More Pinoy films 'go global'
-datePublished: '2017-08-22T02:00:52.747Z'
-dateModified: '2017-08-22T02:00:51.604Z'
+datePublished: '2017-08-22T02:06:33.458Z'
+dateModified: '2017-08-22T02:06:31.352Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-21-more-pinoy-films-go-global.md
