@@ -46,8 +46,8 @@ app_links:
     type: android
 isBasedOnUrl: 'http://www.clickthecity.com/movies/a/33057'
 title: 2017 Cinemalaya Features Award-winning Filipino Indie Films
-datePublished: '2017-08-22T01:55:06.820Z'
-dateModified: '2017-08-22T01:55:05.268Z'
+datePublished: '2017-08-22T01:55:38.523Z'
+dateModified: '2017-08-22T01:55:37.883Z'
 via: {}
 inFeed: true
 sourcePath: >-
