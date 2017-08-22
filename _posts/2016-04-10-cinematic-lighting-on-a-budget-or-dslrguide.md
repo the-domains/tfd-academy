@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://dslrguide.tv/cinematic-lighting-on-a-budget/'
 title: Cinematic Lighting On A Budget | DSLRguide
-datePublished: '2017-08-22T02:00:52.743Z'
-dateModified: '2017-08-22T02:00:51.604Z'
+datePublished: '2017-08-22T02:03:22.141Z'
+dateModified: '2017-08-22T02:03:20.916Z'
 sourcePath: _posts/2016-04-10-cinematic-lighting-on-a-budget-or-dslrguide.md
 via: {}
 inFeed: true
