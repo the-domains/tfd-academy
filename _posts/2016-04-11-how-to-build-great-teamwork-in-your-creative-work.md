@@ -32,8 +32,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: How to build great teamwork in your creative work
-datePublished: '2017-08-22T01:57:18.641Z'
-dateModified: '2017-08-22T01:57:15.303Z'
+datePublished: '2017-08-22T01:59:18.903Z'
+dateModified: '2017-08-22T01:59:16.490Z'
 sourcePath: _posts/2016-04-11-how-to-build-great-teamwork-in-your-creative-work.md
 via: {}
 hasPage: true
