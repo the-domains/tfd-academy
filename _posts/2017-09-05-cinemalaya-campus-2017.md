@@ -1,21 +1,22 @@
 ---
 publisher: {}
-dateModified: '2017-09-05T14:16:58.974Z'
+datePublished: '2017-09-05T14:22:11.757Z'
+dateModified: '2017-09-05T14:22:03.464Z'
 via: {}
 description: Cinemalaya Campus 2017
 title: ''
+sourcePath: _posts/2017-09-05-cinemalaya-campus-2017.md
 inFeed: true
 author: []
-datePublished: '2017-09-05T14:18:25.226Z'
 starred: true
 datePublishedOriginal: '2017-09-05T14:18:25.226Z'
-sourcePath: _posts/2017-09-05-cinemalaya-campus-2017.md
 _type: Blurb
 
 ---
 **Cinemalaya Campus 2017**
 
 **Ano ba talaga ang gusto mong sabihin?: Pinoy society through the lens, cinema and meaning.**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fdf95a8-8c0c-41d8-99ff-67e32ebdabd3.jpg)
 
 The Philippines had faced various issues from the past and had always been recurrently previewed through films and documentaries. These major problems, such as corruption and poverty, are common among them. As everything changes throughout time, these issues changes as well either for the better or for worse as more relevant problems sprout from its roots. Filmmakers, as part of the media industry with all these changes, have this responsibility as an instrument in the real portrayal of the Philippine society's major issues and possibly their solutions
 
