@@ -1,13 +1,13 @@
 ---
 publisher: {}
-datePublished: '2017-09-28T11:44:53.581Z'
-dateModified: '2017-09-28T11:44:12.004Z'
+datePublished: '2017-09-28T11:46:18.032Z'
+dateModified: '2017-09-28T11:46:14.198Z'
 via: {}
 description: >-
   This is the “beginning” of Doy’s dream and he plans to transform this into a
   full-length film that hopes to inspire, bring joy and touch hearts and
   minds...especially to our youth of today.
-title: ''
+title: “Pormalin” official poster
 sourcePath: _posts/2017-09-28-this-is-the-beginning-of-doys-dream-and-he-plans-to-trans.md
 inFeed: true
 author: []
@@ -16,7 +16,7 @@ datePublishedOriginal: '2017-09-28T11:35:17.924Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b462be8-2298-4550-8f43-0dcc10f0358a.jpg)
+![Based on a true story of hope and inspiration in times of adversities.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b462be8-2298-4550-8f43-0dcc10f0358a.jpg)
 
 This is the "beginning" of Doy's dream and he plans to transform this into a full-length film that hopes to inspire, bring joy and touch hearts and minds...especially to our youth of today.
 ![Enjoying the official poster right after the film showing highlighted by a live performance of the musical score composed by Mr. Nonong Buencamino](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9180cf0b-7f52-4d83-8f51-93f592513b04.jpg)
