@@ -2,14 +2,14 @@
 description: 2016 Cannes Film Festival Announces Directors' Fortnight | Indiewire
 isBasedOnUrl: 'urn:uuid:0f9dc4cb-bd67-44cf-840c-def2c49eac91'
 author: []
-datePublished: '2017-09-29T14:27:56.867Z'
+datePublished: '2017-09-29T14:31:44.039Z'
 publisher:
   url: 'http://www.indiewire.com'
   name: Indiewire
   favicon: >-
     http://d1oi7t5trwfj5d.cloudfront.net/36/9e/83a6781c4a9185774b29cb59594b/favicon.ico
   domain: www.indiewire.com
-dateModified: '2017-09-29T14:27:53.898Z'
+dateModified: '2017-09-29T14:31:40.786Z'
 title: >-
   2016 Cannes Film Festival Unveils Directors' Fortnight Picks, Including New
   Films From Paul Schrader and Laura Poitras
