@@ -41,8 +41,8 @@ app_links:
     type: googleplay
     name: Inquirer Mobile
 title: 5 Sinag Maynila Filmmakers that inspire us
-datePublished: '2017-08-22T02:23:12.344Z'
-dateModified: '2017-08-22T02:23:11.243Z'
+datePublished: '2017-09-29T14:27:56.867Z'
+dateModified: '2017-09-29T14:27:53.898Z'
 sourcePath: _posts/2016-04-18-5-sinag-maynila-filmmakers-that-inspire-us.md
 via: {}
 hasPage: true
