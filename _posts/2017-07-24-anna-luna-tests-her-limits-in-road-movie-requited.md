@@ -17,8 +17,8 @@ description: >-
   "This is the most physically draining film I have made so far.
 app_links: []
 title: Anna Luna tests her limits in road movie 'Requited'
-datePublished: '2017-09-29T14:29:01.757Z'
-dateModified: '2017-09-29T14:29:00.353Z'
+datePublished: '2017-09-29T14:29:10.430Z'
+dateModified: '2017-09-29T14:29:09.334Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-24-anna-luna-tests-her-limits-in-road-movie-requited.md
