@@ -37,8 +37,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: A camera technique from the film "Creed"
-datePublished: '2017-09-29T14:41:18.852Z'
-dateModified: '2017-09-29T14:41:16.960Z'
+datePublished: '2017-09-29T14:42:04.471Z'
+dateModified: '2017-09-29T14:42:03.063Z'
 sourcePath: _posts/2016-04-11-a-camera-technique-from-the-film-creed.md
 via: {}
 hasPage: true
