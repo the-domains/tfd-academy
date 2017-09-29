@@ -1,15 +1,15 @@
 ---
 publisher: {}
-dateModified: '2017-09-06T09:51:28.286Z'
+dateModified: '2017-09-29T14:27:53.898Z'
 via: {}
 description: 'Cinemalaya 13: See it BIG'
 title: ''
 inFeed: true
 author: []
-datePublished: '2017-09-06T09:53:06.613Z'
+datePublished: '2017-09-29T14:27:56.908Z'
+sourcePath: _posts/2017-09-06-cinemalaya-13-see-it-big.md
 starred: true
 datePublishedOriginal: '2017-09-06T09:53:06.613Z'
-sourcePath: _posts/2017-09-06-cinemalaya-13-see-it-big.md
 _type: Blurb
 
 ---
