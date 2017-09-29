@@ -61,8 +61,8 @@ isBasedOnUrl: >-
 title: >-
   Berlin film festival: director defends eight-hour movie that features
   hour-long lunch break
-datePublished: '2017-09-29T14:31:44.040Z'
-dateModified: '2017-09-29T14:31:40.786Z'
+datePublished: '2017-09-29T14:32:57.168Z'
+dateModified: '2017-09-29T14:32:55.090Z'
 sourcePath: >-
   _posts/2016-04-19-berlin-film-festival-director-defends-eight-hour-movie-that.md
 via: {}
