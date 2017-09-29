@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   We want to share best industry practices that may help you on your way to
   making your Film Dream.
-dateModified: '2017-08-22T01:58:14.490Z'
-datePublished: '2017-08-22T01:58:14.752Z'
+dateModified: '2017-09-29T14:27:53.898Z'
+datePublished: '2017-09-29T14:27:56.903Z'
 title: ''
 author: []
 publisher: {}
