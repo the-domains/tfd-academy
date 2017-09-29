@@ -16,8 +16,8 @@ description: >-
   Pre-selected entries will be screened on August 5 to 7, 2017, at the CCP.
 app_links: []
 isBasedOnUrl: 'http://www.thefilmdream.com/cinemalaya13.html'
-datePublished: '2017-09-29T14:27:56.822Z'
-dateModified: '2017-09-29T14:27:53.898Z'
+datePublished: '2017-09-29T14:29:01.777Z'
+dateModified: '2017-09-29T14:29:00.353Z'
 title: ''
 via: {}
 inFeed: true
