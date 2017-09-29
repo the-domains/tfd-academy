@@ -19,8 +19,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://m.inquirer.net/entertainment/239155'
 title: Make August the month you rediscover the Pinoy film industry
-datePublished: '2017-09-29T14:29:01.674Z'
-dateModified: '2017-09-29T14:29:00.353Z'
+datePublished: '2017-09-29T14:29:10.432Z'
+dateModified: '2017-09-29T14:29:09.334Z'
 via: {}
 inFeed: true
 sourcePath: >-
