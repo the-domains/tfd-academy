@@ -19,13 +19,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://entertainment.inquirer.net/253401/not-enough-filipino-film-buffs'
 title: Not enough Filipino film buffs
-datePublished: '2017-12-07T02:07:47.486Z'
-dateModified: '2017-12-07T02:07:39.940Z'
-datePublishedOriginal: '2017-12-07T02:07:47.486Z'
+datePublished: '2017-12-07T13:56:14.372Z'
+dateModified: '2017-12-07T13:56:10.610Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-12-07-not-enough-filipino-film-buffs.md
+starred: false
+datePublishedOriginal: '2017-12-07T02:07:47.486Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
