@@ -49,13 +49,13 @@ isBasedOnUrl: 'http://www.clickthecity.com/movies/a/33746'
 title: >-
   New Movies This Week: Barbi D' Wonder Beki, Murder on the Orient Express and
   more!
-datePublished: '2017-11-30T11:31:29.670Z'
-dateModified: '2017-11-30T11:31:22.195Z'
-datePublishedOriginal: '2017-11-30T11:31:29.670Z'
+datePublished: '2017-12-07T13:56:14.543Z'
+dateModified: '2017-12-07T13:56:10.610Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-11-30-new-movies-this-week-barbi-d-wonder-beki-murder-on-the-or.md
+starred: false
+datePublishedOriginal: '2017-11-30T11:31:29.670Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
