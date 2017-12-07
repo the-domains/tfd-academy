@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2017-09-29T14:41:18.887Z'
-dateModified: '2017-09-29T14:41:16.960Z'
+datePublished: '2017-12-07T13:56:14.449Z'
+dateModified: '2017-12-07T13:56:10.610Z'
 author: []
 title: '''Do What You Love. You''ll Be Better at It'': Making Choices in Your Film Career'
 sourcePath: _posts/2016-04-15-is-filmmaking-what-you-love-then-do-it.md
