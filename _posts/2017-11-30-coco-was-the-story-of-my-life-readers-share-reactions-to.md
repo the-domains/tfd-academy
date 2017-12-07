@@ -50,13 +50,13 @@ app_links:
 isBasedOnUrl: >-
   https://mobile.nytimes.com/2017/11/28/movies/coco-mexico-audiences-react-pixars.amp.html
 title: '''Coco'' Was the Story of My Life: Readers Share Reactions to Pixar''s Film'
-datePublished: '2017-11-30T11:19:37.255Z'
-dateModified: '2017-11-30T11:19:18.000Z'
-datePublishedOriginal: '2017-11-30T11:19:37.255Z'
+datePublished: '2017-12-07T13:56:14.550Z'
+dateModified: '2017-12-07T13:56:10.610Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-11-30-coco-was-the-story-of-my-life-readers-share-reactions-to.md
+starred: false
+datePublishedOriginal: '2017-11-30T11:19:37.255Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
