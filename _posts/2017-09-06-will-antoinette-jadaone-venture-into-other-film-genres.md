@@ -29,8 +29,8 @@ app_links: []
 isBasedOnUrl: >-
   http://entertainment.mb.com.ph/2017/09/06/will-antoinette-jadaone-venture-into-other-film-genres/
 title: Will Antoinette Jadaone venture into other film genres?
-datePublished: '2017-09-29T14:31:44.088Z'
-dateModified: '2017-09-29T14:31:40.786Z'
+datePublished: '2017-12-07T13:56:14.532Z'
+dateModified: '2017-12-07T13:56:10.610Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-06-will-antoinette-jadaone-venture-into-other-film-genres.md
