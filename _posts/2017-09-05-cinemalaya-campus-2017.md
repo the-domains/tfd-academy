@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-29T15:37:19.084Z'
-dateModified: '2017-09-29T15:37:15.170Z'
+datePublished: '2017-12-07T13:56:14.390Z'
+dateModified: '2017-12-07T13:56:10.610Z'
 via: {}
 description: Cinemalaya Campus 2017
 title: ''
