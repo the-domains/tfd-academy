@@ -15,13 +15,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://rogue.ph/festival-report-cinema-one-originals-2017-part-2/'
 title: 'Festival Report - Cinema One Originals 2017, Part 2 | Rogue Media Inc.'
-datePublished: '2017-12-04T10:20:39.299Z'
-dateModified: '2017-12-04T10:20:24.433Z'
-datePublishedOriginal: '2017-12-04T10:20:39.299Z'
+datePublished: '2017-12-07T13:56:14.533Z'
+dateModified: '2017-12-07T13:56:10.610Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-12-04-festival-report-cinema-one-originals-2017-part-2-or-rogue.md
+starred: false
+datePublishedOriginal: '2017-12-04T10:20:39.299Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
