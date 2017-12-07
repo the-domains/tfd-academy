@@ -21,8 +21,8 @@ description: ''
 inLanguage: en
 app_links: []
 title: The Quentin Tarantino Approach to Becoming a Successful Filmmaker
-datePublished: '2017-09-29T15:37:19.088Z'
-dateModified: '2017-09-29T15:37:15.170Z'
+datePublished: '2017-12-07T13:56:14.417Z'
+dateModified: '2017-12-07T13:56:10.610Z'
 sourcePath: >-
   _posts/2016-04-10-the-quentin-tarantino-approach-to-becoming-a-successful-film.md
 via: {}
