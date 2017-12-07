@@ -36,7 +36,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-datePublished: '2017-11-01T14:58:06.132Z'
+datePublished: '2017-12-07T13:56:14.343Z'
 description: >-
   An inspirational message from Direk Alfredo for the young ones aspiring to
   become a filmmaker. This is the "beginning" of Direk’s dream and he plans to
@@ -52,7 +52,7 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
   url: 'https://www.youtube.com/'
   domain: www.youtube.com
-dateModified: '2017-11-01T14:58:01.444Z'
+dateModified: '2017-12-07T13:56:10.610Z'
 related: []
 sourcePath: >-
   _posts/2017-09-28-a-message-from-direk-doy-ongleo-of-the-short-film-pormalin.md
