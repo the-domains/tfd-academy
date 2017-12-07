@@ -48,13 +48,13 @@ app_links:
     type: android
 isBasedOnUrl: 'http://www.clickthecity.com/movies/a/33716'
 title: A Guide to the 2017 Metro Manila Film Festival
-datePublished: '2017-11-30T11:30:01.919Z'
-dateModified: '2017-11-30T11:29:54.365Z'
-datePublishedOriginal: '2017-11-30T11:30:01.919Z'
+datePublished: '2017-12-07T13:56:14.541Z'
+dateModified: '2017-12-07T13:56:10.610Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-11-30-a-guide-to-the-2017-metro-manila-film-festival.md
+starred: false
+datePublishedOriginal: '2017-11-30T11:30:01.919Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
