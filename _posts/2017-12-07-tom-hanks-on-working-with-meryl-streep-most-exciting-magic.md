@@ -19,14 +19,14 @@ app_links: []
 isBasedOnUrl: >-
   http://entertainment.inquirer.net/253404/tom-hanks-working-meryl-streep-exciting-magical-days
 title: 'Tom Hanks on working with Meryl Streep: Most exciting, magical days'
-datePublished: '2017-12-07T02:12:01.014Z'
-dateModified: '2017-12-07T02:11:49.113Z'
-datePublishedOriginal: '2017-12-07T02:12:01.014Z'
+datePublished: '2017-12-07T13:56:14.531Z'
+dateModified: '2017-12-07T13:56:10.610Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-12-07-tom-hanks-on-working-with-meryl-streep-most-exciting-magic.md
+starred: false
+datePublishedOriginal: '2017-12-07T02:12:01.014Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
