@@ -1,51 +1,31 @@
-typography_spectrum: 0.5693058423959826
-content_rating:
-  adult: false
-color:
-  lightness: 0.5803718049011866
-  brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#C01616'
-    - '#A5A5A5'
-    - '#FED52E'
-  saturation: 0.21881641281372174
-  brandStrength: 0.18896284108206923
-  rhythmicContrast: 0.0039100550059782396
-github: true
-opengraph: {}
-layout_spectrum: 0.15773106976227816
+name: The Film Dream Academy
 analytics:
   google: UA-64070424-1
+purpose:
+  - type: external
+    url: 'http://thefilmdream.com'
+    label: 'http://thefilmdream.com'
+  - type: contact
+    url: 'mailto:thefilmdream@icloud.com'
+    label: Let's collaborate!
+github: true
+description: Unleash the Storyteller Within You!
 author:
-  url: 'http://thefilmdream.com'
-  email: thefilmdream@icloud.com
   name: The Film Dream
-name: The Film Dream Academy
-url: 'http://thefilmdreamacademy.com'
-navigation:
-  - name: About us
-    id: a6d4f0bf-181a-4cda-ad38-82587aa385c8
-    type: content
-  - name: Spotlight
-    id: 5cd0fa33-4eac-43c2-8c93-1458332b7332
-    type: content
-  - name: Indie 101
-    id: 1708e7ec-c485-4578-a381-02b522942b8f
-    type: content
+  url: 'http://www.thefilmdream.com'
+  email: thefilmdream@icloud.com
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: The Film Dream Academy
+    permalink:
+      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -55,19 +35,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a754d2e-3cc2-4994-8f46-7abae99b8be2.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
       author: []
       '@context': 'http://schema.org'
+      keywords: []
       '@type': MediaObject
-      app_links: []
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
       description: ''
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -79,27 +59,47 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/3414dee6-4495-42a9-825c-64c188a46a0d.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
       author: []
       '@context': 'http://schema.org'
+      keywords: []
       '@type': MediaObject
-      app_links: []
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
       description: ''
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Unleash the Storyteller Within You!
-purpose:
-  - type: external
-    url: 'http://thefilmdream.com'
-    label: 'http://thefilmdream.com'
-  - type: contact
-    url: 'mailto:thefilmdream@icloud.com'
-    label: Let's collaborate!
+navigation:
+  - id: a6d4f0bf-181a-4cda-ad38-82587aa385c8
+    name: About us
+    type: content
+  - id: 5cd0fa33-4eac-43c2-8c93-1458332b7332
+    name: Spotlight
+    type: content
+  - id: 1708e7ec-c485-4578-a381-02b522942b8f
+    name: Indie 101
+    type: content
+layout_spectrum: 0.15773106976227816
+color:
+  lightness: 0.5803718049011866
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#C01616'
+    - '#A5A5A5'
+    - '#FED52E'
+  saturation: 0.21881641281372174
+  brandStrength: 0.18896284108206923
+  rhythmicContrast: 0.0039100550059782396
+content_rating:
+  adult: false
+typography_spectrum: 0.5693058423959826
+opengraph: {}
+title: The Film Dream Academy
+url: 'http://thefilmdreamacademy.com'
