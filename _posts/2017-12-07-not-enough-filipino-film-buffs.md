@@ -1,33 +1,30 @@
 ---
-author:
-  - name: Nestor U. Torre
-    url: null
-    avatar: {}
-related: []
-publisher:
-  url: 'http://entertainment.inquirer.net'
-  name: Inquirer
-  favicon: 'http://newsinfo.inquirer.net/landing2017/images/favicon2.ico'
-  domain: entertainment.inquirer.net
-keywords: []
+app_links: []
+datePublished: '2018-05-20T01:20:30.977Z'
 description: >-
   Even as the Filipino indie film trend continues to make waves locally and
   internationally, many of its best productions have a hard time reaching their
   intended audience, which includes mainstream viewers. The big cineplexes tend
   to be leery of indies because, with only a few exceptions, they aren't
   "commercial" or accessible enough for many people to view and enjoy.
-app_links: []
-isBasedOnUrl: 'http://entertainment.inquirer.net/253401/not-enough-filipino-film-buffs'
-title: Not enough Filipino film buffs
-datePublished: '2017-12-07T13:56:14.372Z'
-dateModified: '2017-12-07T13:56:10.610Z'
 via: {}
+isBasedOnUrl: 'http://entertainment.inquirer.net/253401/not-enough-filipino-film-buffs'
+keywords: []
 inFeed: true
+publisher:
+  name: Inquirer
+  favicon: 'http://newsinfo.inquirer.net/landing2017/images/favicon2.ico'
+  url: 'http://entertainment.inquirer.net'
+  domain: entertainment.inquirer.net
+dateModified: '2018-05-17T06:53:54.336Z'
+related: []
 sourcePath: _posts/2017-12-07-not-enough-filipino-film-buffs.md
+title: Not enough Filipino film buffs
+author: []
 starred: false
 datePublishedOriginal: '2017-12-07T02:07:47.486Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Not enough Filipino film buffs</h1><p>Even as the Filipino indie film trend continues to make waves locally and internationally, many of its best productions have a hard time reaching their intended audience, which includes mainstream viewers. The big cineplexes tend to be leery of indies because, with only a few exceptions, they aren't "commercial" or accessible enough for many people to view and enjoy.</p><img src="http://entertainment.inquirer.net/wp-content/blogs.dir/6/files/2017/12/t0906kitakita-1-600x400.jpg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/823867aa453e27e9989db4bd10463f9c/noop.jpg?input=http%3A%2F%2Fentertainment.inquirer.net%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2017%2F12%2Ft0906kitakita-1-600x400.jpg" /><h1>Not enough Filipino film buffs</h1><p>Even as the Filipino indie film trend continues to make waves locally and internationally, many of its best productions have a hard time reaching their intended audience, which includes mainstream viewers. The big cineplexes tend to be leery of indies because, with only a few exceptions, they aren't "commercial" or accessible enough for many people to view and enjoy.</p></article>
