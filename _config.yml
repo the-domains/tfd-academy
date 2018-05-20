@@ -26,55 +26,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a754d2e-3cc2-4994-8f46-7abae99b8be2.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a754d2e-3cc2-4994-8f46-7abae99b8be2.jpg
-    metadata:
-      author: []
-      '@context': 'http://schema.org'
-      keywords: []
-      '@type': MediaObject
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      app_links: []
-      related: []
-      description: ''
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3414dee6-4495-42a9-825c-64c188a46a0d.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/3414dee6-4495-42a9-825c-64c188a46a0d.jpg
-    metadata:
-      author: []
-      '@context': 'http://schema.org'
-      keywords: []
-      '@type': MediaObject
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      app_links: []
-      related: []
-      description: ''
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 navigation:
   - name: About us
     id: a6d4f0bf-181a-4cda-ad38-82587aa385c8
