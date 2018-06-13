@@ -1,6 +1,5 @@
 name: The Film Dream Academy
-analytics:
-  google: UA-64070424-1
+analytics: {}
 purpose:
   - type: external
     url: 'http://thefilmdream.com'
@@ -20,12 +19,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -36,30 +35,30 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4994008-9d13-41c3-9a94-b6af0d58a5ec.png
     metadata:
       author: []
-      related: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
+      related: []
       app_links: []
       '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - name: About us
-    id: a6d4f0bf-181a-4cda-ad38-82587aa385c8
+  - id: a6d4f0bf-181a-4cda-ad38-82587aa385c8
+    name: About us
     type: content
-  - name: Spotlight
-    id: 5cd0fa33-4eac-43c2-8c93-1458332b7332
+  - id: 5cd0fa33-4eac-43c2-8c93-1458332b7332
+    name: Spotlight
     type: content
-  - name: Indie 101
-    id: 1708e7ec-c485-4578-a381-02b522942b8f
+  - id: 1708e7ec-c485-4578-a381-02b522942b8f
+    name: Indie 101
     type: content
 layout_spectrum: 0.15773106976227816
 color:
