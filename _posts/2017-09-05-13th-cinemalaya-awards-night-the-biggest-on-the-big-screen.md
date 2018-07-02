@@ -1,12 +1,15 @@
 ---
 publisher: {}
-dateModified: '2018-07-02T04:18:00.747Z'
+dateModified: '2018-07-02T12:19:34.350Z'
 via: {}
-description: '13th Cinemalaya Awards Night: the Biggest on the Big Screen'
-title: ''
+description: >-
+  The most awaited night for this year’s Cinemalaya 13: See the Big Picture has
+  finally arrived and it’s time to honor the best among the entries of the
+  independent film festival.
+title: '13th Cinemalaya Awards Night: the Biggest on the Big Screen'
 inFeed: true
 author: []
-datePublished: '2018-07-02T04:18:01.363Z'
+datePublished: '2018-07-02T12:19:36.621Z'
 sourcePath: >-
   _posts/2017-09-05-13th-cinemalaya-awards-night-the-biggest-on-the-big-screen.md
 starred: true
@@ -14,7 +17,7 @@ datePublishedOriginal: '2017-09-05T13:19:23.958Z'
 _type: Blurb
 
 ---
-**13th Cinemalaya Awards Night: the Biggest on the Big Screen**
+# **13th Cinemalaya Awards Night: the Biggest on the Big Screen**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f66e0d2e-4b13-4eb6-9e5d-8b2614f36aa1.jpg)
 
 The most awaited night for this year's Cinemalaya 13: See the Big Picture has finally arrived and it's time to honor the best among the entries of the independent film festival.
@@ -30,24 +33,24 @@ The awarding for the best of this year's festival was then announced. The winner
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f572708-1147-4e54-b04e-1fb9eaccd36b.jpg)
 
 * Best Full-length Feature Film: Respeto
-*  Best Director: Joseph Israel Laban (Baconaua)
+* Best Director: Joseph Israel Laban (Baconaua)
 * Best Actor: Noel Comia Jr. (Kiko Boksingero)
-* Best Actress: Angeli Bayani (Bagahe) 
+* Best Actress: Angeli Bayani (Bagahe)
 * Best Supporting Actor: Dido de la Paz (Respeto)
 * Best Supporting Actress: Yayo Aguila (Kiko Boksingero)
-* Best Sound: Corinne de San Jose (Respeto) 
-* Best Musical Score: Kiko Boksingero 
+* Best Sound: Corinne de San Jose (Respeto)
+* Best Musical Score: Kiko Boksingero
 * Best Editing: Lawrence Ang (Respeto)
-* Best Production Design: Marxie Maolen Fadul (Nabubulok) 
+* Best Production Design: Marxie Maolen Fadul (Nabubulok)
 * Best Cinematography: Ike Avellana(Respeto) and TM Malones (Baconaua)
 * Best Screenplay: Zig Dulay (Bagahe)
 * Special Jury Prize: Baconaua
-* NETPAC Jury Prize: Respeto 
+* NETPAC Jury Prize: Respeto
 * Audience Choice: Respeto
 
 **Short Film Feature**
 
-* Best Short Film: Hilom 
+* Best Short Film: Hilom
 * Best Screenplay: Duwi Monteagudo (Bawod)
 * Best Director: E. del Mundo (Manong ng Pa-aling)
 * Audience Choice: Nakauwi Na
