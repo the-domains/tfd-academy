@@ -1,13 +1,13 @@
 ---
 description: ''
 author: []
-datePublished: '2018-07-02T03:52:43.070Z'
+datePublished: '2018-07-02T04:03:22.824Z'
 publisher:
   url: 'http://dslrguide.tv'
   name: Dslrguide
   favicon: 'http://dslrguide.tv/favicon.ico'
   domain: dslrguide.tv
-dateModified: '2018-07-02T03:52:40.146Z'
+dateModified: '2018-07-02T04:03:19.180Z'
 title: How To Shoot A Short Film | DSLRguide
 sourcePath: _posts/2016-04-10-how-to-shoot-a-short-film-or-dslrguide.md
 via: {}
