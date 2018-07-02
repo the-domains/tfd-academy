@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: |-
-  PRESS RELEASE 
+  PRESS RELEASE
   June 22, 2018
-dateModified: '2018-07-02T03:46:38.921Z'
-datePublished: '2018-07-02T03:46:39.809Z'
-title: ''
+dateModified: '2018-07-02T03:47:30.047Z'
+datePublished: '2018-07-02T03:47:31.014Z'
+title: '                                            Mr. Ryan Cayabyab'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-07-02-press-release-june-22-2018.md
 starred: false
 datePublishedOriginal: '2018-07-02T03:46:39.809Z'
-sourcePath: _posts/2018-07-02-press-release-june-22-2018.md
 _type: Blurb
 
 ---
