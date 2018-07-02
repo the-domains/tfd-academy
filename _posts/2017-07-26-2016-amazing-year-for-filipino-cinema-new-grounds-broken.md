@@ -66,8 +66,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.google.com/amp/www.gmanetwork.com/news/story/594469/lifestyle/artandculture/2016-amazing-year-for-filipino-cinema-new-grounds-broken%3famp
 title: '2016: Amazing year for Filipino cinema, new grounds broken'
-datePublished: '2018-07-02T03:52:43.013Z'
-dateModified: '2018-07-02T03:52:40.146Z'
+datePublished: '2018-07-02T04:03:22.737Z'
+dateModified: '2018-07-02T04:03:19.180Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-26-2016-amazing-year-for-filipino-cinema-new-grounds-broken.md
