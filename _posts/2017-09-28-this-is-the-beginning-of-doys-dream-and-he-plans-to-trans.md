@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-12-07T13:56:14.373Z'
-dateModified: '2017-12-07T13:56:10.610Z'
+datePublished: '2018-07-02T03:52:43.036Z'
+dateModified: '2018-07-02T03:52:40.146Z'
 via: {}
 description: >-
   This is the “beginning” of Doy’s dream and he plans to transform this into a
