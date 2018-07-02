@@ -1,8 +1,11 @@
 ---
 inFeed: true
-description: PRESS RELEASE
-dateModified: '2018-07-02T04:03:16.136Z'
-datePublished: '2018-07-02T04:03:19.058Z'
+description: >-
+  PRESS
+  RELEASE                                                                                                                     
+  June 19, 2018
+dateModified: '2018-07-02T04:06:47.434Z'
+datePublished: '2018-07-02T04:06:48.572Z'
 title: ''
 author: []
 publisher: {}
@@ -13,9 +16,7 @@ datePublishedOriginal: '2018-07-02T03:55:30.135Z'
 _type: Blurb
 
 ---
-**PRESS RELEASE**
-
-**June 19, 2018**
+**PRESS RELEASE June 19, 2018**
 
 **PIANIST CLEMENT ACEVEDO OPENS CCP SPECIAL CONCERT SERIES IN JULY**
 ![Mr. Clement Acevedo](https://s3-us-west-2.amazonaws.com/the-grid-img/p/469256eb6e3b88fc1806430c9eb85f26455256f9.jpg)
