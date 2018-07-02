@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-02T03:55:29.257Z'
-datePublished: '2018-07-02T03:55:30.135Z'
+dateModified: '2018-07-02T03:57:47.135Z'
+datePublished: '2018-07-02T03:57:47.985Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-07-02-press-release.md
 starred: false
 datePublishedOriginal: '2018-07-02T03:55:30.135Z'
-sourcePath: _posts/2018-07-02-press-release.md
 _type: Blurb
 
 ---
@@ -18,6 +18,7 @@ _type: Blurb
 **June 19, 2018**
 
 **PIANIST CLEMENT ACEVEDO OPENS CCP SPECIAL CONCERT SERIES IN JULY  **
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf008f8e-f665-4a16-824b-3d59efa15b10.jpg)
 
 NOTED young Filipino pianist Clement Acevedo comes home after finishing his piano studies in the United States to open the CCP Special Concert Series on Wednesday, July 25, 2018 at 7:30 PM at the Tanghalang Aurelio Tolentino. Acevedo will also give a piano masterclass at the Tanghalang Aurelio Tolentino on July 26, 2018 at 1:00 PM. 
 
