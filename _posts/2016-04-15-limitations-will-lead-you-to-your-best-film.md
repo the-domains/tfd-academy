@@ -37,8 +37,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: Limitations will lead you to your best film
-datePublished: '2018-07-02T04:03:22.850Z'
-dateModified: '2018-07-02T04:03:19.180Z'
+datePublished: '2018-07-02T04:15:34.234Z'
+dateModified: '2018-07-02T04:15:30.821Z'
 sourcePath: _posts/2016-04-15-limitations-will-lead-you-to-your-best-film.md
 via: {}
 hasPage: true
