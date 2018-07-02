@@ -1,10 +1,18 @@
 ---
 publisher: {}
-datePublished: '2018-07-02T04:18:01.340Z'
-dateModified: '2018-07-02T04:18:00.747Z'
+datePublished: '2018-07-02T12:22:06.455Z'
+dateModified: '2018-07-02T12:22:05.416Z'
 via: {}
-description: Cinemalaya Campus 2017
-title: ''
+description: >-
+  The Philippines faced various issues from the past and had always been
+  recurrently previewed through films and documentaries. These major problems,
+  such as corruption and poverty, are common among them. As everything changes
+  throughout time, these issues changed as well either for the better or for
+  worse as more relevant problems sprouted from its roots. Filmmakers, as part
+  of the media industry with all these changes, have this responsibility as an
+  instrument in the real portrayal of the Philippine society’s major issues and
+  possibly their solutions
+title: Cinemalaya Campus 2017
 sourcePath: _posts/2017-09-05-cinemalaya-campus-2017.md
 inFeed: true
 author: []
@@ -13,12 +21,12 @@ datePublishedOriginal: '2017-09-05T14:18:25.226Z'
 _type: Blurb
 
 ---
-**Cinemalaya Campus 2017**
+# **Cinemalaya Campus 2017**
 
-**Ano ba talaga ang gusto mong sabihin?: Pinoy society through the lens, cinema and meaning.**
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/89a1f53e91fbffcd82b79ae83652ce1d/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2fdf95a8-8c0c-41d8-99ff-67e32ebdabd3.jpg&x=0&y=0)
+## **Ano ba talaga ang gusto mong sabihin?: Pinoy society through the lens, cinema and meaning.**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ead868c7f49396416b951194d7e2e90cdf1959.jpg)
 
-The Philippines had faced various issues from the past and had always been recurrently previewed through films and documentaries. These major problems, such as corruption and poverty, are common among them. As everything changes throughout time, these issues changes as well either for the better or for worse as more relevant problems sprout from its roots. Filmmakers, as part of the media industry with all these changes, have this responsibility as an instrument in the real portrayal of the Philippine society's major issues and possibly their solutions
+The Philippines faced various issues from the past and had always been recurrently previewed through films and documentaries. These major problems, such as corruption and poverty, are common among them. As everything changes throughout time, these issues changed as well either for the better or for worse as more relevant problems sprouted from its roots. Filmmakers, as part of the media industry with all these changes, have this responsibility as an instrument in the real portrayal of the Philippine society's major issues and possibly their solutions
 
 This year's Cinemalaya Campus focused on films and filmmakers that featured the new shortcomings regarding this agenda.
 
