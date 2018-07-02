@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-07-02T12:22:06.455Z'
-dateModified: '2018-07-02T12:22:05.416Z'
+datePublished: '2018-07-02T12:22:20.218Z'
+dateModified: '2018-07-02T12:22:18.910Z'
 via: {}
 description: >-
   The Philippines faced various issues from the past and had always been
@@ -11,7 +11,7 @@ description: >-
   worse as more relevant problems sprouted from its roots. Filmmakers, as part
   of the media industry with all these changes, have this responsibility as an
   instrument in the real portrayal of the Philippine society’s major issues and
-  possibly their solutions
+  possibly their solutions.
 title: Cinemalaya Campus 2017
 sourcePath: _posts/2017-09-05-cinemalaya-campus-2017.md
 inFeed: true
@@ -26,7 +26,7 @@ _type: Blurb
 ## **Ano ba talaga ang gusto mong sabihin?: Pinoy society through the lens, cinema and meaning.**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/59ead868c7f49396416b951194d7e2e90cdf1959.jpg)
 
-The Philippines faced various issues from the past and had always been recurrently previewed through films and documentaries. These major problems, such as corruption and poverty, are common among them. As everything changes throughout time, these issues changed as well either for the better or for worse as more relevant problems sprouted from its roots. Filmmakers, as part of the media industry with all these changes, have this responsibility as an instrument in the real portrayal of the Philippine society's major issues and possibly their solutions
+The Philippines faced various issues from the past and had always been recurrently previewed through films and documentaries. These major problems, such as corruption and poverty, are common among them. As everything changes throughout time, these issues changed as well either for the better or for worse as more relevant problems sprouted from its roots. Filmmakers, as part of the media industry with all these changes, have this responsibility as an instrument in the real portrayal of the Philippine society's major issues and possibly their solutions.
 
 This year's Cinemalaya Campus focused on films and filmmakers that featured the new shortcomings regarding this agenda.
 
