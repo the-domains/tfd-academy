@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-07-02T04:16:46.629Z'
-dateModified: '2018-07-02T04:16:45.024Z'
+datePublished: '2018-07-02T04:17:47.435Z'
+dateModified: '2018-07-02T04:17:46.096Z'
 via: {}
 description: 'An Expedition at the Sea: A Cinemalaya’s First'
 title: ''
