@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: 'PRESS RELEASEJune 22, 2018'
-dateModified: '2018-07-02T04:05:27.695Z'
-datePublished: '2018-07-02T04:05:28.663Z'
+dateModified: '2018-07-02T04:07:13.588Z'
+datePublished: '2018-07-02T04:07:14.566Z'
 title: '                            '
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-07-02-press-release-june-22-2018.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-07-02T03:46:39.809Z'
-_type: Blurb
+url: 97881663-da8a-453c-8f98-570d3208673d/index.html
+_type: Article
 
 ---
 **PRESS RELEASE  
