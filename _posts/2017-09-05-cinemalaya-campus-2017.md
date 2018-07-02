@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-07-02T12:22:20.218Z'
-dateModified: '2018-07-02T12:22:18.910Z'
+datePublished: '2018-07-02T12:23:22.258Z'
+dateModified: '2018-07-02T12:23:20.889Z'
 via: {}
 description: >-
   The Philippines faced various issues from the past and had always been
@@ -44,7 +44,7 @@ Ms. Flordeliza Abanto started and moderated the whole event from its first day t
 
 **Session 1: **Beyond the Story: What does the screenplay mean?
 
-The Cinemalaya Campus first session started with a short preview from Mr. Ricky Lee's short clips from his previous works such as: Lucia, Carnal and Himala. Mr. Lee shared his thoughts and experiences, then after, about his scriptwriting career.
+The Cinemalaya Campus' first session started with a short preview from Mr. Ricky Lee's short clips from his previous works such as: Lucia, Carnal and Himala. Mr. Lee shared his thoughts and experiences, then after, about his scriptwriting career.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2a2efed-e0a0-4e94-adb4-c6060ff9be0e.jpg)
 
 According to him, some of his works are based from his previous experiences during the Marcos regime.
