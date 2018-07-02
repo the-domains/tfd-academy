@@ -1,23 +1,24 @@
 ---
 inFeed: true
-description: PRESS RELEASE
-dateModified: '2018-07-02T04:09:08.894Z'
-datePublished: '2018-07-02T04:09:09.937Z'
+description: >-
+  PRESS
+  RELEASE                                                                                                                   
+  June 22, 2018
+dateModified: '2018-07-02T04:09:14.889Z'
+datePublished: '2018-07-02T04:09:16.800Z'
 title: TIRADA PUBLIC PROGRAMS AT CCP
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-07-02-tirada-public-programs-at-ccp.md
 starred: false
 datePublishedOriginal: '2018-07-02T04:09:09.937Z'
-sourcePath: _posts/2018-07-02-tirada-public-programs-at-ccp.md
 url: tirada-public-programs-at-ccp/index.html
 _type: Article
 
 ---
-**PRESS RELEASE**
-
-**June 22, 2018**
+**PRESS RELEASE June 22, 2018**
 
 # **TIRADA PUBLIC PROGRAMS AT CCP**
 
