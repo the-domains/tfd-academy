@@ -1,15 +1,15 @@
 ---
 publisher: {}
-dateModified: '2018-07-02T12:29:31.824Z'
+dateModified: '2018-07-02T12:29:35.292Z'
 via: {}
 description: >-
-  For the 13th time, Cinemalaya featuresd the independence and freedom of
+  For the 13th time, Cinemalaya featured the independence and freedom of
   independent filmmaking on the big screen showcasing the artistic talents of
   our local indie filmmakers of today.
 title: 'Cinemalaya 13: See it BIG'
 inFeed: true
 author: []
-datePublished: '2018-07-02T12:29:33.404Z'
+datePublished: '2018-07-02T12:29:36.122Z'
 sourcePath: _posts/2017-09-06-cinemalaya-13-see-it-big.md
 starred: true
 datePublishedOriginal: '2017-09-06T09:53:06.613Z'
@@ -19,7 +19,7 @@ _type: Blurb
 # **Cinemalaya 13: See it BIG**
 ![Red, Yellow and Blue – The colors of the Philippine flag illuminated the CCP’s beams as the festival night commenced](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f8b27e4-912f-4b8d-9f5f-1474b1e698a5.jpg)
 
-For the 13th time, Cinemalaya featuresd the independence and freedom of independent filmmaking on the big screen showcasing the artistic talents of our local indie filmmakers of today.
+For the 13th time, Cinemalaya featured the independence and freedom of independent filmmaking on the big screen showcasing the artistic talents of our local indie filmmakers of today.
 
 Cinemalaya 13: see the big picture opened its doors to the public at the Tanghalang Nicanor Abelardo (TNA, CCP Main Theater) as it officially started last August 4, 2017\.
 
