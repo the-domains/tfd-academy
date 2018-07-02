@@ -49,8 +49,8 @@ app_links:
 isBasedOnUrl: >-
   https://www.rappler.com/entertainment/news/186515-qcinema-international-film-festival-2017-winners
 title: 'FULL LIST: Winners, QCinema International Film Festival 2017 awards'
-datePublished: '2017-12-07T13:56:14.543Z'
-dateModified: '2017-12-07T13:56:10.610Z'
+datePublished: '2018-07-02T03:52:43.131Z'
+dateModified: '2018-07-02T03:52:40.146Z'
 via: {}
 inFeed: true
 sourcePath: >-
