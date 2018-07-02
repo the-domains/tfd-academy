@@ -4,16 +4,18 @@ description: >-
   PRESS
   RELEASE                                                                                                                     
   June 19, 2018
-dateModified: '2018-07-02T04:06:47.434Z'
-datePublished: '2018-07-02T04:06:48.572Z'
+dateModified: '2018-07-02T04:07:00.250Z'
+datePublished: '2018-07-02T04:07:01.232Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-07-02-press-release.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-07-02T03:55:30.135Z'
-_type: Blurb
+url: press-release/index.html
+_type: Article
 
 ---
 **PRESS RELEASE June 19, 2018**
