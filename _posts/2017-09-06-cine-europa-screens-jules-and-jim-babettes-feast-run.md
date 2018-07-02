@@ -15,8 +15,8 @@ isBasedOnUrl: 'http://m.inquirer.net/entertainment/241230'
 title: >-
   Cine Europa screens 'Jules and Jim', 'Babette's Feast', 'Run Lola Run' for
   20th year
-datePublished: '2018-07-02T04:03:22.899Z'
-dateModified: '2018-07-02T04:03:19.180Z'
+datePublished: '2018-07-02T04:15:34.268Z'
+dateModified: '2018-07-02T04:15:30.821Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-06-cine-europa-screens-jules-and-jim-babettes-feast-run.md
