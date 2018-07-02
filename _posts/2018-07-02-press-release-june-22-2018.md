@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-02T04:17:46.096Z'
-datePublished: '2018-07-02T04:17:47.412Z'
+dateModified: '2018-07-02T04:18:00.747Z'
+datePublished: '2018-07-02T04:18:01.348Z'
 title: CCP-NCCA BRINGS AKAPELA OPEN WORKSHOPS IN THE REGIONS
 author: []
 publisher: {}
