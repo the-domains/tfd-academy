@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: 'PRESS RELEASEJune 22, 2018'
-dateModified: '2018-07-02T04:07:13.588Z'
-datePublished: '2018-07-02T04:07:14.566Z'
-title: '                            '
+dateModified: '2018-07-02T04:09:57.068Z'
+datePublished: '2018-07-02T04:09:58.189Z'
+title: CCP-NCCA BRINGS AKAPELA OPEN WORKSHOPS IN THE REGIONS
 author: []
 publisher: {}
 via: {}
@@ -18,7 +18,7 @@ _type: Article
 **PRESS RELEASE  
 June 22, 2018**
 
-**CCP-NCCA BRINGS AKAPELA OPEN WORKSHOPS IN THE REGIONS**
+# **CCP-NCCA BRINGS AKAPELA OPEN WORKSHOPS IN THE REGIONS**
 
 THE Cultural Center of the Philippines (CCP) in cooperation with the National Commission for Culture and the Arts (NCCA) bring to the regions a three-day in depth workshop on contemporary a cappella singing and music arranging intended for regional a cappella singers and groups, facilitated by a team of experts led by 2004 Gawad CCP Para sa Sining Awardee Ryan Cayabyab.
 
