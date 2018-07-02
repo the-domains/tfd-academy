@@ -1,10 +1,14 @@
 ---
 publisher: {}
-datePublished: '2018-07-02T04:18:01.358Z'
-dateModified: '2018-07-02T04:18:00.747Z'
+datePublished: '2018-07-02T12:28:53.184Z'
+dateModified: '2018-07-02T12:28:51.156Z'
 via: {}
-description: 'An Expedition at the Sea: A Cinemalaya’s First'
-title: ''
+description: >-
+  Cinemalaya Foundation Incorporated in cooperation of Kaya ng Pinoy Inc. held
+  its first expedition at the seas of Manila Bay last August 12, 2017. This
+  event symbolizes the festival’s voyage on discovering new filmmaking
+  exhibitions that flourishes the country’s culture and art.
+title: 'An Expedition at the Sea: A Cinemalaya’s First'
 sourcePath: _posts/2017-09-05-an-expedition-at-the-sea-a-cinemalayas-first.md
 inFeed: true
 author: []
@@ -13,13 +17,13 @@ datePublishedOriginal: '2017-09-05T11:24:58.741Z'
 _type: Blurb
 
 ---
-**An Expedition at the Sea: A Cinemalaya's First**
+# **An Expedition at the Sea: A Cinemalaya's First**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b740106-4b1b-4359-acac-ffdec95d5f90.jpg)
 
 Cinemalaya Foundation Incorporated in cooperation of Kaya ng Pinoy Inc. held its first expedition at the seas of Manila Bay last August 12, 2017\. This event symbolizes the festival's voyage on discovering new filmmaking exhibitions that flourishes the country's culture and art.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99cf98c6-04f3-439e-81b2-11f15ebaf800.jpg)
 
-The Balangay or Butuan Boat has been the symbol and logo of the Cinemalaya Independent Film Festival throughout the years. The colors red, blue and yellow equally dominate as it casts its travels among the waters of the bay. The Balangay boards the juries for this year's film festival, main completion jury: Padmashri Dr. Girish Kasaravalli and NETPAC juries: Ismail Basbeth andTsengel Davaasambuu, to let them experience the Balangay's cruise.
+The Balangay or Butuan Boat has been the symbol and logo of the Cinemalaya Independent Film Festival throughout the years. The colors red, blue and yellow equally dominate as it casts its travels among the waters of the bay. The Balangay boards the juries for this year's film festival, main completion jury: Padmashri Dr. Girish Kasaravalli and NETPAC juries: Ismail Basbeth and Tsengel Davaasambuu, to let them experience the Balangay's cruise.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2ec0bf6-20d7-4ef7-99c2-7aab28b82c3a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a48af1a-e314-4f17-b018-d0d3362cdeb2.jpg)
 
