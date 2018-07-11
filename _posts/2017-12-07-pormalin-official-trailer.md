@@ -5,8 +5,8 @@ description: >-
   story of hope, courage and triumph of the human spirit over life's challenges
   and adversities. Catch the December 2017 and 2018 viewing schedules and venues
   in our social media announcements.
-dateModified: '2018-07-04T23:00:34.255Z'
-datePublished: '2018-07-04T23:00:34.730Z'
+dateModified: '2018-07-11T23:03:57.064Z'
+datePublished: '2018-07-11T23:03:59.051Z'
 title: '"PORMALIN" Official Trailer'
 author:
   - name: The Film Dream
