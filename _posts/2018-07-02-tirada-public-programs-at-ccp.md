@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'PRESS RELEASE '
-dateModified: '2018-07-04T23:00:34.255Z'
-datePublished: '2018-07-04T23:00:34.777Z'
+dateModified: '2018-07-11T23:03:57.064Z'
+datePublished: '2018-07-11T23:03:59.063Z'
 title: TIRADA PUBLIC PROGRAMS AT CCP
 author: []
 publisher: {}
