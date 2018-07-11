@@ -1,13 +1,11 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-11T23:22:29.808Z'
-datePublished: '2018-07-11T23:22:31.280Z'
-title: Cinemalaya 16 Full-length Film Directors
+dateModified: '2018-07-11T23:23:53.797Z'
+datePublished: '2018-07-11T23:23:54.805Z'
+title: Cinemalaya 2018 Full-length Film Directors
 author: []
-publisher:
-  name: The Film Dream
-  url: 'http://thefilmdream.com'
+publisher: {}
 via: {}
 sourcePath: _posts/2018-07-11-press-release.md
 hasPage: true
@@ -26,7 +24,7 @@ July 1, 2018
 The Cultural Center of the Philippines and the Cinemalaya Foundation are set to roll out the red carpet for the 14th edition of the country's biggest independent film festival, the Cinemalaya Philippine Independent Film Festival, on August 3 to 12, 2018, at various venues of the CCP and selected Ayala Cinemas.
 
 The 2018 Cinemalaya Philippine Independent Film Festival promises to deliver the best visual storytelling to every film enthusiast. Judging by this year's line-up of full-length films and short features, there is something that will surely capture the audience's imagination.
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/661ed9af820ee23141fce10c0e2ed20c/croprotate.jpg?cropheight=5184&cropwidth=3458&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9c6a1fb6-da30-4af9-b7c6-3c43c13ec374.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1eef33cc1770a323334a16e8e334fd6954705abc.jpg)
 
 Following the theme "Wings of Vision," this year's Cinemalaya will screen 10 full-length films, all competing for the grand awards. The competing full-length entries are: "Distance" by Percival Intalan; "Kung Paano Hinihintay ang Dapithapon (Waiting for Sunset)" by Carlo Enciso Catu; "Kuya Wes" by James Robin Mayo; "Liway" by Kip Oebanda; "Mamang" by Denise O'Hara; "ML" by Benedicto Mique Jr.; "Musmos na Sumibol sa Gubat ng Digma (Unless the Water is Safer than the Land)" by Iar Lionel Arondaing; "Pan De Salawal (The Sweet taste of Salter Bread and Undies)" by Che Espiritu; "School Service" by Luisito Lagdameo Ignacio; and, "The Lookout" by Afi Africa.
 
