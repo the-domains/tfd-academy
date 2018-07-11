@@ -47,8 +47,8 @@ app_links:
     type: android
 isBasedOnUrl: 'http://www.clickthecity.com/movies/a/33136'
 title: Cinemalaya 2018 Finalists Named
-datePublished: '2018-07-02T04:15:34.244Z'
-dateModified: '2018-07-02T04:15:30.821Z'
+datePublished: '2018-07-11T23:02:51.638Z'
+dateModified: '2018-07-11T23:02:49.893Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-19-cinemalaya-2018-finalists-named.md
