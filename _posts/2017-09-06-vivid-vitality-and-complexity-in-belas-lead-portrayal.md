@@ -20,8 +20,8 @@ app_links: []
 isBasedOnUrl: >-
   http://entertainment.inquirer.net/240623/vivid-vitality-complexity-belas-lead-portrayal
 title: Vivid vitality and complexity in Bela's lead portrayal
-datePublished: '2018-07-02T04:15:34.268Z'
-dateModified: '2018-07-02T04:15:30.821Z'
+datePublished: '2018-07-11T23:02:51.724Z'
+dateModified: '2018-07-11T23:02:49.893Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-06-vivid-vitality-and-complexity-in-belas-lead-portrayal.md
