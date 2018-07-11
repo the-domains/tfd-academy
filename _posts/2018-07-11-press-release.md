@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-11T23:05:37.483Z'
-datePublished: '2018-07-11T23:05:38.597Z'
+dateModified: '2018-07-11T23:18:35.754Z'
+datePublished: '2018-07-11T23:18:37.003Z'
 title: ''
 author: []
 publisher: {}
@@ -22,6 +22,7 @@ July 1, 2018
 The Cultural Center of the Philippines and the Cinemalaya Foundation are set to roll out the red carpet for the 14th edition of the country's biggest independent film festival, the Cinemalaya Philippine Independent Film Festival, on August 3 to 12, 2018, at various venues of the CCP and selected Ayala Cinemas.
 
 The 2018 Cinemalaya Philippine Independent Film Festival promises to deliver the best visual storytelling to every film enthusiast. Judging by this year's line-up of full-length films and short features, there is something that will surely capture the audience's imagination.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c6a1fb6-da30-4af9-b7c6-3c43c13ec374.jpg)
 
 Following the theme "Wings of Vision," this year's Cinemalaya will screen 10 full-length films, all competing for the grand awards. The competing full-length entries are: "Distance" by Percival Intalan; "Kung Paano Hinihintay ang Dapithapon (Waiting for Sunset)" by Carlo Enciso Catu; "Kuya Wes" by James Robin Mayo; "Liway" by Kip Oebanda; "Mamang" by Denise O'Hara; "ML" by Benedicto Mique Jr.; "Musmos na Sumibol sa Gubat ng Digma (Unless the Water is Safer than the Land)" by Iar Lionel Arondaing; "Pan De Salawal (The Sweet taste of Salter Bread and Undies)" by Che Espiritu; "School Service" by Luisito Lagdameo Ignacio; and, "The Lookout" by Afi Africa.
 
