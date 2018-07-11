@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-11T23:25:31.870Z'
-datePublished: '2018-07-11T23:25:32.708Z'
+dateModified: '2018-07-11T23:26:23.670Z'
+datePublished: '2018-07-11T23:26:25.495Z'
 title: CCP PRESENTS THE 14TH CINEMALAYA THIS AUGUST
 author: []
 publisher: {}
@@ -20,11 +20,11 @@ _type: Article
 July 1, 2018
 
 # **CCP PRESENTS THE 14TH CINEMALAYA THIS AUGUST**
+![Photo courtesy of The Film Dream](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1eef33cc1770a323334a16e8e334fd6954705abc.jpg)
 
 The Cultural Center of the Philippines and the Cinemalaya Foundation are set to roll out the red carpet for the 14th edition of the country's biggest independent film festival, the Cinemalaya Philippine Independent Film Festival, on August 3 to 12, 2018, at various venues of the CCP and selected Ayala Cinemas.
 
 The 2018 Cinemalaya Philippine Independent Film Festival promises to deliver the best visual storytelling to every film enthusiast. Judging by this year's line-up of full-length films and short features, there is something that will surely capture the audience's imagination.
-![Photo courtesy of The Film Dream](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1eef33cc1770a323334a16e8e334fd6954705abc.jpg)
 
 Following the theme "Wings of Vision," this year's Cinemalaya will screen 10 full-length films, all competing for the grand awards. The competing full-length entries are: "Distance" by Percival Intalan; "Kung Paano Hinihintay ang Dapithapon (Waiting for Sunset)" by Carlo Enciso Catu; "Kuya Wes" by James Robin Mayo; "Liway" by Kip Oebanda; "Mamang" by Denise O'Hara; "ML" by Benedicto Mique Jr.; "Musmos na Sumibol sa Gubat ng Digma (Unless the Water is Safer than the Land)" by Iar Lionel Arondaing; "Pan De Salawal (The Sweet taste of Salter Bread and Undies)" by Che Espiritu; "School Service" by Luisito Lagdameo Ignacio; and, "The Lookout" by Afi Africa.
 
