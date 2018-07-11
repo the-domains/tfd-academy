@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-11T22:28:05.144Z'
-datePublished: '2018-07-11T22:28:05.949Z'
+dateModified: '2018-07-11T23:02:49.893Z'
+datePublished: '2018-07-11T23:02:51.675Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-07-11-press-release.md
 starred: false
 datePublishedOriginal: '2018-07-11T22:28:05.949Z'
-sourcePath: _posts/2018-07-11-press-release.md
 _type: Blurb
 
 ---
