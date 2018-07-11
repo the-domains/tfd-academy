@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-11T23:25:12.777Z'
-datePublished: '2018-07-11T23:25:15.121Z'
-title: Cinemalaya 2018 Full-length Film Directors
+dateModified: '2018-07-11T23:25:29.182Z'
+datePublished: '2018-07-11T23:25:30.311Z'
+title: CCP PRESENTS THE 14TH CINEMALAYA THIS AUGUST
 author: []
 publisher: {}
 via: {}
@@ -19,7 +19,7 @@ _type: Article
 
 July 1, 2018
 
-**CCP PRESENTS THE 14TH CINEMALAYA THIS AUGUST**
+# **CCP PRESENTS THE 14TH CINEMALAYA THIS AUGUST**
 
 The Cultural Center of the Philippines and the Cinemalaya Foundation are set to roll out the red carpet for the 14th edition of the country's biggest independent film festival, the Cinemalaya Philippine Independent Film Festival, on August 3 to 12, 2018, at various venues of the CCP and selected Ayala Cinemas.
 
