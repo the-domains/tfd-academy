@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-11T23:21:39.941Z'
-datePublished: '2018-07-11T23:21:41.273Z'
+dateModified: '2018-07-11T23:22:29.808Z'
+datePublished: '2018-07-11T23:22:31.280Z'
 title: Cinemalaya 16 Full-length Film Directors
 author: []
 publisher:
