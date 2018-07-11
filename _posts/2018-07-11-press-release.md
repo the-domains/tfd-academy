@@ -1,16 +1,20 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-11T23:18:35.754Z'
-datePublished: '2018-07-11T23:18:37.003Z'
-title: ''
+dateModified: '2018-07-11T23:21:05.973Z'
+datePublished: '2018-07-11T23:21:07.125Z'
+title: Cinemalaya 16 Full-length Film Directors
 author: []
-publisher: {}
+publisher:
+  name: The Film Dream
+  url: 'http://thefilmdream.com'
 via: {}
 sourcePath: _posts/2018-07-11-press-release.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-07-11T22:28:05.949Z'
-_type: Blurb
+url: cinemalaya-16-full-length-film-directors/index.html
+_type: Article
 
 ---
 **PRESS RELEASE**
