@@ -18,8 +18,8 @@ description: >-
   grants, and in store-games.
 app_links: []
 title: Power Mac Center's 'Cinemansanas' 2017
-datePublished: '2018-07-11T23:05:38.656Z'
-dateModified: '2018-07-11T23:05:37.483Z'
+datePublished: '2018-07-13T11:09:34.851Z'
+dateModified: '2018-07-13T11:09:32.547Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-24-power-mac-centers-cinemansanas-2017.md
