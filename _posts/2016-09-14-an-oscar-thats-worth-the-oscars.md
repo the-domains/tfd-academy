@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-07-11T23:03:59.105Z'
+datePublished: '2018-07-13T11:06:08.458Z'
 sourcePath: _posts/2016-09-14-an-oscar-thats-worth-the-oscars.md
 inFeed: true
 isBasedOnUrl: 'http://thefilmdream.com/an-oscar-that-s-worth-the-oscars-.html'
 author: []
 via: {}
-dateModified: '2018-07-11T23:03:57.064Z'
+dateModified: '2018-07-13T11:06:06.716Z'
 title: An Oscar That's Worth the Oscars?
 publisher:
   name: The Film Dream
