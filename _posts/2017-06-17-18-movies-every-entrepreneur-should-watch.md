@@ -27,8 +27,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.entrepreneur.com/article/279835'
 title: 18 Movies Every Entrepreneur Should Watch
-datePublished: '2018-07-13T11:06:08.471Z'
-dateModified: '2018-07-13T11:06:06.716Z'
+datePublished: '2018-07-13T11:08:03.946Z'
+dateModified: '2018-07-13T11:08:03.511Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-17-18-movies-every-entrepreneur-should-watch.md
