@@ -17,8 +17,8 @@ description: >-
   probably cost a lot less than Inception and Interstellar.
 app_links: []
 title: '''Dunkirk'' Review: Chris Nolan''s Best Movie Since ''The Dark Knight'''
-datePublished: '2018-07-13T11:08:04.014Z'
-dateModified: '2018-07-13T11:08:03.511Z'
+datePublished: '2018-07-13T15:11:21.817Z'
+dateModified: '2018-07-13T15:11:18.325Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-20-dunkirk-review-chris-nolans-best-movie-since-the-dark-k.md
