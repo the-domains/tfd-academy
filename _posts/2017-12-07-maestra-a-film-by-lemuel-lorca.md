@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://maestra-movie.com/'
 title: Maestra - a film by Lemuel Lorca
-datePublished: '2018-07-11T23:02:51.737Z'
-dateModified: '2018-07-11T23:02:49.893Z'
+datePublished: '2018-07-13T11:07:21.753Z'
+dateModified: '2018-07-13T11:07:21.301Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-12-07-maestra-a-film-by-lemuel-lorca.md
