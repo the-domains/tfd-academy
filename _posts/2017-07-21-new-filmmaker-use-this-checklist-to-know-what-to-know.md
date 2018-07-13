@@ -15,8 +15,8 @@ description: >-
   simple; it's knowing what to learn that is the real challenge.
 app_links: []
 title: New Filmmaker? Use This Checklist to Know What to Know
-datePublished: '2018-07-13T11:06:08.471Z'
-dateModified: '2018-07-13T11:06:06.716Z'
+datePublished: '2018-07-13T11:08:04.034Z'
+dateModified: '2018-07-13T11:08:03.511Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-21-new-filmmaker-use-this-checklist-to-know-what-to-know.md
