@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "PRESS RELEASE\_"
-dateModified: '2018-07-13T15:03:25.394Z'
-datePublished: '2018-07-13T15:03:26.540Z'
+dateModified: '2018-07-13T15:03:51.633Z'
+datePublished: '2018-07-13T15:03:52.588Z'
 title: POC’S YOUNG ARTISTS SERIES RETURNS WITH “T’AINT OPERA!” AT THE CCP
 author: []
 publisher: {}
@@ -18,6 +18,7 @@ _type: Blurb
 **July 11, 2018**
 
 # **POC'S YOUNG ARTISTS SERIES RETURNS WITH "T'AINT OPERA!" AT THE CCP**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fed2d46-b7c4-4de6-a9af-c89f8cfc80b5.jpg)
 
 THE Philippine Opera Company's Young Artists' Series (YAS) Season 2018-2019 in cooperation with the Cultural Center of the Philippines and The Friends of the Philippine Opera Foundation present the second offering for the season **"T'AINT OPERA!"** (Hits from the Weird and Wonderful World of OPERETTA!) on July 18, 7:00 pm at the lobby of Tanghalang Nicanor Abelardo (CCP Main Theater). The group is a CCP venue grantee. 
 
