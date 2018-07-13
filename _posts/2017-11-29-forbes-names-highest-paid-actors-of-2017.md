@@ -55,8 +55,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.cbsnews.com/pictures/forbes-highest-paid-actors-of-2017/'
 title: Forbes names highest-paid actors of 2017
-datePublished: '2018-07-13T11:06:53.247Z'
-dateModified: '2018-07-13T11:06:52.511Z'
+datePublished: '2018-07-13T15:11:21.827Z'
+dateModified: '2018-07-13T15:11:18.325Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-29-forbes-names-highest-paid-actors-of-2017.md
