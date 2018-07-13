@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   If you want your work as a starting filmmaker featured in our site, contact us
   at thefilmdream@icloud.com and danpascual@thefilmdream.com
-dateModified: '2018-07-13T11:08:03.511Z'
-datePublished: '2018-07-13T11:08:03.958Z'
+dateModified: '2018-07-13T15:11:18.325Z'
+datePublished: '2018-07-13T15:11:21.818Z'
 title: ''
 author: []
 publisher: {}
