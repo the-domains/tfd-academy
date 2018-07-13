@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-13T15:05:47.223Z'
-datePublished: '2018-07-13T15:05:48.659Z'
+dateModified: '2018-07-13T15:06:22.335Z'
+datePublished: '2018-07-13T15:06:23.026Z'
 title: "The 35th National Children’s Book Day\_"
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-07-13-the-35th-national-childrens-book-day.md
 starred: false
 datePublishedOriginal: '2018-07-13T15:05:48.659Z'
-sourcePath: _posts/2018-07-13-the-35th-national-childrens-book-day.md
 _type: Blurb
 
 ---
@@ -18,6 +18,7 @@ _type: Blurb
 **July 12, 2018**
 
 # **The 35th National Children's Book Day **
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c5d4c5d-9f64-4240-8734-c62625131831.jpg)
 
 CHILDREN of all ages are invited to the celebration of the 35th National Children's Book Day (NCBD) on July 17, 2018 (Tuesday) at the Main Theater Lobby of the Cultural Center of the Philippines from 9:00am to 5:00pm with the theme Sa Aklat May Laya.  
 
