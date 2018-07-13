@@ -21,8 +21,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.forbes.com/sites/natalierobehmed/2017/08/22/the-worlds-highest-paid-actors-2017-mark-wahlberg-leads-with-68-million/#1cc86a663f92
 title: 'The World''s Highest-Paid Actors 2017: Mark Wahlberg Leads With $68 Million'
-datePublished: '2018-07-11T23:02:51.749Z'
-dateModified: '2018-07-11T23:02:49.893Z'
+datePublished: '2018-07-13T11:06:53.259Z'
+dateModified: '2018-07-13T11:06:52.511Z'
 via: {}
 inFeed: true
 sourcePath: >-
