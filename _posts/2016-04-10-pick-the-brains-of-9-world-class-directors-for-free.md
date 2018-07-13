@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://cinesummit.com/'
 title: '"Pick the Brains" of 9 World-Class Directors.. for FREE'
-datePublished: '2018-07-13T11:06:08.412Z'
-dateModified: '2018-07-13T11:06:06.716Z'
+datePublished: '2018-07-13T11:09:34.962Z'
+dateModified: '2018-07-13T11:09:32.547Z'
 sourcePath: _posts/2016-04-10-pick-the-brains-of-9-world-class-directors-for-free.md
 via: {}
 inFeed: true
