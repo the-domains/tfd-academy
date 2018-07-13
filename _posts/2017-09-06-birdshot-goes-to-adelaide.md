@@ -14,8 +14,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://m.inquirer.net/entertainment/240757'
 title: '''Birdshot'' goes to Adelaide'
-datePublished: '2018-07-11T23:02:51.726Z'
-dateModified: '2018-07-11T23:02:49.893Z'
+datePublished: '2018-07-13T11:06:08.476Z'
+dateModified: '2018-07-13T11:06:06.716Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-06-birdshot-goes-to-adelaide.md
