@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: "PRESS RELEASE\_"
-dateModified: '2018-07-13T15:02:28.402Z'
-datePublished: '2018-07-13T15:02:29.215Z'
-title: ' POC’S YOUNG ARTISTS SERIES RETURNS WITH “T’AINT OPERA!” AT THE CCP'
+dateModified: '2018-07-13T15:02:57.988Z'
+datePublished: '2018-07-13T15:02:59.067Z'
+title: POC’S YOUNG ARTISTS SERIES RETURNS WITH “T’AINT OPERA!” AT THE CCP
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-07-13-pocs-young-artists-series-returns-with-taint-opera-at.md
 starred: false
 datePublishedOriginal: '2018-07-13T15:02:29.215Z'
-sourcePath: _posts/2018-07-13-pocs-young-artists-series-returns-with-taint-opera-at.md
 _type: Blurb
 
 ---
