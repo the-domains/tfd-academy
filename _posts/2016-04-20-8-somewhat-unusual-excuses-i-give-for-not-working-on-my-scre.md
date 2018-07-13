@@ -1,13 +1,13 @@
 ---
 description: ''
 author: []
-datePublished: '2018-07-11T23:02:51.678Z'
+datePublished: '2018-07-13T11:06:08.470Z'
 publisher:
   url: 'http://nofilmschool.com'
   name: No Film School
   favicon: 'http://nofilmschool.com/sites/all/themes/responsive/img/icons/favicon.ico'
   domain: nofilmschool.com
-dateModified: '2018-07-11T23:02:49.893Z'
+dateModified: '2018-07-13T11:06:06.716Z'
 title: 8 Somewhat Unusual Excuses I Give for Not Working on My Screenplay
 sourcePath: >-
   _posts/2016-04-20-8-somewhat-unusual-excuses-i-give-for-not-working-on-my-scre.md
