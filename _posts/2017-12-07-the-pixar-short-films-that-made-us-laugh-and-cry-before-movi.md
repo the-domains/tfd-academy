@@ -19,8 +19,8 @@ isBasedOnUrl: >-
 title: >-
   The Pixar Short Films That Made Us Laugh and Cry Before Movie Screenings -
   Preen
-datePublished: '2018-07-26T03:54:05.049Z'
-dateModified: '2018-07-26T03:54:03.546Z'
+datePublished: '2018-07-26T04:27:26.102Z'
+dateModified: '2018-07-26T04:27:24.458Z'
 via: {}
 inFeed: true
 sourcePath: >-
