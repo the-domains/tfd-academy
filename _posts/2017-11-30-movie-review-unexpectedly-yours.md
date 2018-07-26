@@ -18,8 +18,8 @@ app_links: []
 isBasedOnUrl: >-
   http://mymovieworld-coolman0304.blogspot.com/2017/11/two-former-high-school-friends-patty.html?m=1
 title: 'Movie Review: Unexpectedly Yours'
-datePublished: '2018-07-26T03:54:05.049Z'
-dateModified: '2018-07-26T03:54:03.546Z'
+datePublished: '2018-07-26T04:26:55.909Z'
+dateModified: '2018-07-26T04:26:55.265Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-30-movie-review-unexpectedly-yours.md
