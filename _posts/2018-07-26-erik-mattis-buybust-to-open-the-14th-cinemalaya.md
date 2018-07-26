@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-26T03:29:03.487Z'
-datePublished: '2018-07-26T03:29:05.554Z'
+dateModified: '2018-07-26T03:34:51.755Z'
+datePublished: '2018-07-26T03:34:54.288Z'
 title: ERIK MATTI’S BUYBUST TO OPEN THE 14TH CINEMALAYA
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ Directed by Erik Matti, the film follows rookie police officer Nina Manigan who 
 
 Co-produced by Reality Entertainment and Viva Films, "BuyBust" is deemed as one of the most ambitious first full-on action films in recent local cinema history. With a budget of over ₱80 million, the film employed more than 300 stuntmen and utilized over 250,000 grams of gunpowder.
 
-Production began in 2016, with the filming lasting 56 days starting in March 2017\. The film premiered on June 29, 2018 at the New York Asian Film Festival (NYAFF) and was the festival's closing feature film. 
+Production began in 2016, with the filming lasting 56 days starting in March 2017\. The film premiered on June 29, 2018 at the New York Asian Film Festival (NYAFF) and was the festival's closing feature film.
 
 The film is topbilled by actress Anne Curtis who played the lead role, and MMA fighter Brandon Vera. Completing the cast are Victor Neri, Arjo Atayde, Nonie Buencamino, Lao Rodriguez, Alex Calleja, Levi Ignacio, Ricky Pascua, Joross Gamboa, Sheenly Gener, Mara Lopez, AJ Muhlach, Tarek El Tayech, Maddie Martinez, Nafa Hilario, Ian Ignacio, and Mikey Alcaraz.
 
