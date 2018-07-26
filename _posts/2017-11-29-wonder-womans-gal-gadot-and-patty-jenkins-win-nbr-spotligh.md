@@ -20,8 +20,8 @@ app_links: []
 isBasedOnUrl: >-
   http://comicbook.com/dc/amp/2017/11/29/wonder-woman-national-board-of-review-patty-jenkins-gal-gadot/
 title: '''Wonder Woman''s Gal Gadot And Patty Jenkins Win NBR Spotlight Award'
-datePublished: '2018-07-13T15:11:21.822Z'
-dateModified: '2018-07-13T15:11:18.325Z'
+datePublished: '2018-07-26T03:54:05.052Z'
+dateModified: '2018-07-26T03:54:03.546Z'
 via: {}
 inFeed: true
 sourcePath: >-
