@@ -14,8 +14,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://m.inquirer.net/entertainment/240026'
 title: Lav Diaz joins Oliver Stone-led Busan jury
-datePublished: '2018-07-26T03:54:05.027Z'
-dateModified: '2018-07-26T03:54:03.546Z'
+datePublished: '2018-07-26T04:27:26.094Z'
+dateModified: '2018-07-26T04:27:24.458Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-28-lav-diaz-joins-oliver-stone-led-busan-jury.md
