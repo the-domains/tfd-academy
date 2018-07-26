@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-07-13T15:11:21.713Z'
-dateModified: '2018-07-13T15:11:18.325Z'
+datePublished: '2018-07-26T03:55:25.044Z'
+dateModified: '2018-07-26T03:55:18.949Z'
 via: {}
 description: >-
   Cinemalaya Foundation Incorporated in cooperation of Kaya ng Pinoy Inc. held
