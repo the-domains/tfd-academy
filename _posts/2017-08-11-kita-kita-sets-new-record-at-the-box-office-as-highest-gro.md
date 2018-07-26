@@ -40,8 +40,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.gmanetwork.com/news/showbiz/chikaminute/621394/kita-kita-sets-new-record-at-the-box-office-as-highest-grossing-indie-film/story/
 title: '''Kita Kita'' sets new record at the box office as highest grossing indie film'
-datePublished: '2018-07-26T03:55:25.085Z'
-dateModified: '2018-07-26T03:55:18.949Z'
+datePublished: '2018-07-26T04:29:00.884Z'
+dateModified: '2018-07-26T04:28:58.397Z'
 via: {}
 inFeed: true
 sourcePath: >-
