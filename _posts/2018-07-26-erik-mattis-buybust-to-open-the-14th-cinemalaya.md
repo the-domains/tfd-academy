@@ -1,11 +1,13 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-26T04:28:58.397Z'
-datePublished: '2018-07-26T04:29:00.836Z'
+dateModified: '2018-07-26T11:10:56.462Z'
+datePublished: '2018-07-26T11:10:59.982Z'
 title: ERIK MATTI’S BUYBUST TO OPEN THE 14TH CINEMALAYA
 author: []
-publisher: {}
+publisher:
+  name: Cultural Centre of the Philippines
+  url: 'http://www.culturalcenter.gov.ph'
 via: {}
 sourcePath: _posts/2018-07-26-erik-mattis-buybust-to-open-the-14th-cinemalaya.md
 starred: false
