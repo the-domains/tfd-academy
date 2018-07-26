@@ -1,10 +1,10 @@
 ---
 description: 5 Considerations for One-Light Setups | Videomaker.com
 author: []
-datePublished: '2018-07-26T03:55:25.120Z'
+datePublished: '2018-07-26T04:29:01.020Z'
 publisher: {}
 title: Lighting Tip for "no budget" indie filmmakers.
-dateModified: '2018-07-26T03:55:18.949Z'
+dateModified: '2018-07-26T04:28:58.397Z'
 sourcePath: _posts/2016-04-11-lighting-tip-for-no-budget-indie-filmmakers.md
 via: {}
 hasPage: true
