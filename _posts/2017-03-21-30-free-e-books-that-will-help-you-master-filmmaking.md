@@ -25,8 +25,8 @@ description: >-
 inLanguage: en
 app_links: []
 title: 30+ Free E-Books That Will Help You Master Filmmaking
-datePublished: '2018-07-13T15:11:21.779Z'
-dateModified: '2018-07-13T15:11:18.325Z'
+datePublished: '2018-07-26T03:55:25.127Z'
+dateModified: '2018-07-26T03:55:18.949Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-21-30-free-e-books-that-will-help-you-master-filmmaking.md
