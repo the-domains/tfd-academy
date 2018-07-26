@@ -22,8 +22,8 @@ app_links: []
 isBasedOnUrl: >-
   http://news.abs-cbn.com/entertainment/06/30/17/pista-ng-pelikulang-pilipino-full-list-of-films
 title: '''Pista ng Pelikulang Pilipino'': Full list of films'
-datePublished: '2018-07-26T03:55:25.045Z'
-dateModified: '2018-07-26T03:55:18.949Z'
+datePublished: '2018-07-26T04:29:00.882Z'
+dateModified: '2018-07-26T04:28:58.397Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-08-17-pista-ng-pelikulang-pilipino-full-list-of-films.md
