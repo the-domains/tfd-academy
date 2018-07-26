@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-26T04:16:44.124Z'
-datePublished: '2018-07-26T04:16:45.659Z'
+dateModified: '2018-07-26T04:25:21.376Z'
+datePublished: '2018-07-26T04:25:27.748Z'
 title: ERIK MATTI’S BUYBUST TO OPEN THE 14TH CINEMALAYA
 author: []
 publisher: {}
@@ -18,6 +18,7 @@ _type: Blurb
 **July 25, 2018**
 
 # **ERIK MATTI'S BUYBUST TO OPEN THE 14TH CINEMALAYA**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0d4054-1f52-4b46-8813-5732a748cafd.jpg)
 
 ACTION Thriller "BuyBust" will open the 14th Cinemalaya Philippine Independent Film Festival on August 3, at the CCP Tanghalang Nicanor Abelardo (Main Theater). The opening film will be screened at 7 p.m., following the opening program at 6 p.m.
 
