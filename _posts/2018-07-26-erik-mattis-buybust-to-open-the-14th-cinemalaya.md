@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-26T03:27:01.395Z'
-datePublished: '2018-07-26T03:27:02.582Z'
+dateModified: '2018-07-26T03:29:03.487Z'
+datePublished: '2018-07-26T03:29:05.406Z'
 title: ERIK MATTI’S BUYBUST TO OPEN THE 14TH CINEMALAYA
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-07-26-erik-mattis-buybust-to-open-the-14th-cinemalaya.md
 starred: false
 datePublishedOriginal: '2018-07-26T03:27:02.582Z'
-sourcePath: _posts/2018-07-26-erik-mattis-buybust-to-open-the-14th-cinemalaya.md
 _type: Blurb
 
 ---
