@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-07-28T07:18:19.114Z'
-datePublished: '2018-07-28T07:18:20.917Z'
+dateModified: '2018-07-28T07:18:55.404Z'
+datePublished: '2018-07-28T07:18:56.614Z'
 title: >-
   CINEMALAYA’S VISIONS OF ASIA PRESENTS AWARD-WINNING NETPAC AND ASIAN INDIE
   FILMS
