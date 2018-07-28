@@ -1,6 +1,6 @@
 ---
 app_links: []
-datePublished: '2018-07-28T07:16:21.487Z'
+datePublished: '2018-07-28T07:16:44.444Z'
 description: >-
   Even as the Filipino indie film trend continues to make waves locally and
   internationally, many of its best productions have a hard time reaching their
@@ -16,7 +16,7 @@ publisher:
   favicon: 'http://newsinfo.inquirer.net/landing2017/images/favicon2.ico'
   url: 'http://entertainment.inquirer.net'
   domain: entertainment.inquirer.net
-dateModified: '2018-07-28T07:16:17.602Z'
+dateModified: '2018-07-28T07:16:39.042Z'
 related: []
 sourcePath: _posts/2017-12-07-not-enough-filipino-film-buffs.md
 title: Not enough Filipino film buffs
