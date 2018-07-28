@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: "PRESS RELEASE\t"
-dateModified: '2018-07-28T07:10:38.746Z'
-datePublished: '2018-07-28T07:10:40.333Z'
+description: PRESS RELEASE
+dateModified: '2018-07-28T07:12:48.483Z'
+datePublished: '2018-07-28T07:12:51.820Z'
 title: >-
   CINEMALAYA’S VISIONS OF ASIA PRESENTS AWARD-WINNING NETPAC AND ASIAN INDIE
   FILMS
@@ -20,9 +20,9 @@ url: cinemalayas-visions-of-asia-presents-award-winning-netpac-a/index.html
 _type: Article
 
 ---
-**PRESS RELEASE **
+**PRESS RELEASE**
 
-**July 27, 2018**  
+**July 27, 2018**
 
 # **CINEMALAYA'S VISIONS OF ASIA PRESENTS AWARD-WINNING NETPAC AND ASIAN INDIE FILMS**
 
@@ -37,7 +37,7 @@ Directed and written by P. Sheshadri, "Beti" follows the story of Suleiman and h
 In "Goodbye, Grandpa!" by Yukihiro Morogaki, Yoshiko receives a phone call about her grandfather's death. On the day of the funeral, the family attended - a slovenly uncle, an angry aunt, a shut-in cousin and grandma with dementia. Yoshiko marvels that nobody cries, and she witnesses her family's adverse behavior like never before. The film, which stars Yukino Kishii, Ryo Iwamatsu, Ken Mitsuishi, Jun Miho, and Miki Mizuno, won the NETPAC Award at the Black Nights Film Festival held in Estonia in 2017\.
 
 Starring Russian actors Andrei Stoyanov, Elena Chekmazova, Nadezhda Ivanova, Danila Mozhaev and Larisa Morozova, "Nearest & Dearest" by Kseniya Zueva follows the story of a family who lives in a small apartment in Moscow. Each family member carries a baggage of problems that torments and requires relief. Each of them dreams of support and human warmth, but finds neither one nor the other. Life seems completely unbearable, and the defenseless old woman, living in a separate room, becomes a scapegoat. It won NETPAC Award -"Pacific Meridian" at the Vladivostok International Film Festival in 2017\.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24339e45-7c4a-4b7f-8596-8ea50752d5b2.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ecde9a184a25fad92b5b4115c086cf42/croprotate.jpg?cropheight=3300&cropwidth=2330&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F24339e45-7c4a-4b7f-8596-8ea50752d5b2.jpg&x=0&y=0)
 
 In "The Taste of Rice Flower," director Pengfei narrates the story of Ye Nan, a mother from the Dai minority who returns to her village in Yunnan after years of working in town. She wants to take care of her rebellious-teen aged daughter, who she had left behind. However, the road to rebuild their relationship and reconnect is met with challenges and struggles as they contend with social norms and cultural traditions.
 
@@ -52,7 +52,7 @@ Inspired by true events, "Bad Genius" by Nattawut Poonpiriya bis a story about L
 
 "Beti," "Goodbye Grandpa!," Nearest & Dearest," and "The Taste of Rice Flower" are curated by NETPAC (Network for the Promotion of Asia Pacific Cinema), a worldwide organization founded in 1990 to promote a greater understanding and appreciation of Asian films and filmmakers at a time when Asian cinema was just coming into its own but was relatively unknown regionally and internationally. In 2015, the NETPAC committee has decided to expand its geographical landscape up to the Pacific Region.
 
-"Of Love and Law" is in partnership with Eiga Sai, the Japanese film festival, through the Japan Foundation Manila and the Embassy of Japan in the Philippines. Meanwhile, the screening of "Bad Genius" is made possible through the partnership with the Embassy of Thailand. 
+"Of Love and Law" is in partnership with Eiga Sai, the Japanese film festival, through the Japan Foundation Manila and the Embassy of Japan in the Philippines. Meanwhile, the screening of "Bad Genius" is made possible through the partnership with the Embassy of Thailand.
 
 Visions of Asia is part of the Cinemalaya Independent Film Festival, a project of the Cinemalaya Foundation, Inc. and the Cultural Center of the Philippines. Established in 2005, Cinemalaya is an all-digital film festival and competition that aims to discover, encourage and honor cinematic works of Filipino filmmakers. This year's Cinemalaya will be held on August 3 to 12, at the CCP theaters and Ayala Malls Cinemas.
 
