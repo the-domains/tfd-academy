@@ -1,19 +1,21 @@
 ---
 inFeed: true
 description: "PRESS RELEASE\t"
-dateModified: '2018-07-28T07:05:23.242Z'
-datePublished: '2018-07-28T07:05:24.651Z'
-title: >
+dateModified: '2018-07-28T07:08:48.846Z'
+datePublished: '2018-07-28T07:08:49.694Z'
+title: >-
   CINEMALAYA’S VISIONS OF ASIA PRESENTS AWARD-WINNING NETPAC AND ASIAN INDIE
-  FILMS 
+  FILMS
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2018-07-28T07:05:24.651Z'
 sourcePath: >-
   _posts/2018-07-28-cinemalayas-visions-of-asia-presents-award-winning-netpac-a.md
-_type: Blurb
+hasPage: true
+starred: false
+datePublishedOriginal: '2018-07-28T07:05:24.651Z'
+url: cinemalayas-visions-of-asia-presents-award-winning-netpac-a/index.html
+_type: Article
 
 ---
 **PRESS RELEASE **
@@ -25,8 +27,10 @@ _type: Blurb
 THE Visions of Asia, one of the main components of Cinemalaya Philippine Independent Film Festival, presents seven award-winning Asian indie films from India, Japan, Russia, China, Thailand, and the Philippines, to be screened on August 3 to 12, 2018, at various CCP theaters.
 
 The featured films include: "Beti" by P. Sheshadri, "Goodbye, Grandpa!" by Yukihiro Morogaki, "Nearest & Dearest" by Kseniya Zueva, "The Taste Of Rice Flower" by Pengfei, "Of Love & Law" by Hikaru Toda, "Bad Genius" by Nattawut Poonpiriya, and "The Chanters" by James Robin Mayo.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c463344-cdf6-4719-96f9-0afa95d403c2.jpg)
 
 Directed and written by P. Sheshadri, "Beti" follows the story of Suleiman and his wife Juleka. While Suleiman had gone off to work overseas immediately after marriage, his wife Juleka gave birth to their daughter, Salma. But for fear of disappointment, Suleiman was made to believe that they had a son named Salman. For years, Suleiman was unable to visit Juleka and the child, so when the news came of Suleiman's impending return, the whole household is thrown into panic. The 101-minute long film won the NETPAC Award-Best Kannada Film at the 10th Bangaluru International Film Festival in 2018\.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be6bee35-f7f2-44db-8cf2-8c19cbf6b3df.jpg)
 
 In "Goodbye, Grandpa!" by Yukihiro Morogaki, Yoshiko receives a phone call about her grandfather's death. On the day of the funeral, the family attended - a slovenly uncle, an angry aunt, a shut-in cousin and grandma with dementia. Yoshiko marvels that nobody cries, and she witnesses her family's adverse behavior like never before. The film, which stars Yukino Kishii, Ryo Iwamatsu, Ken Mitsuishi, Jun Miho, and Miki Mizuno, won the NETPAC Award at the Black Nights Film Festival held in Estonia in 2017\.
 
