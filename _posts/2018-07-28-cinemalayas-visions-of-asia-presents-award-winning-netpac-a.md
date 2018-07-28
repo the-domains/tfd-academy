@@ -1,13 +1,15 @@
 ---
 inFeed: true
 description: "PRESS RELEASE\t"
-dateModified: '2018-07-28T07:08:44.096Z'
-datePublished: '2018-07-28T07:08:45.567Z'
+dateModified: '2018-07-28T07:09:31.214Z'
+datePublished: '2018-07-28T07:09:32.475Z'
 title: >-
   CINEMALAYA’S VISIONS OF ASIA PRESENTS AWARD-WINNING NETPAC AND ASIAN INDIE
   FILMS
 author: []
-publisher: {}
+publisher:
+  url: 'http://www.culturalcenter.gov.ph'
+  name: Cultural Center of the Philippines
 via: {}
 sourcePath: >-
   _posts/2018-07-28-cinemalayas-visions-of-asia-presents-award-winning-netpac-a.md
