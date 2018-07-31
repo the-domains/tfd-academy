@@ -2,13 +2,13 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-07-31T09:33:01.543Z'
+dateModified: '2018-07-31T09:33:58.354Z'
 via: {}
 description: PRESS RELEASE
 title: FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA’S DOKYU
 inFeed: true
 author: []
-datePublished: '2018-07-31T09:33:05.926Z'
+datePublished: '2018-07-31T09:34:00.615Z'
 sourcePath: _posts/2018-07-31-featured-documentary-films-at-the-cinemalayas-dokyu.md
 hasPage: true
 starred: true
@@ -37,6 +37,7 @@ The film captures the full scope of the organization's historical evolution, as 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbd9ecb2-6ff0-4709-9c8e-919be4d9ce25.jpg)
 
 Director-producer Jhett Tolentino shares his humble beginning from the slums of Iloilo City, Philippines to the glittery life on Broadway in "Life Is What You Make It." The 40-minute documentary follows Tolentino's journey as he shares his triumphant immigrant story and captures the special moments of his homecoming that is full of surprises, love, hope and inspiration.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ec322aa-655d-4479-a129-0661ed9dc438.jpg)
 
 "A Piece of Paradise" by Patrick Alcedo follows the everyday life of Norlyn, Em-Em, and Betsy who navigate living and working in Toronto while hoping they can visit the Philippines again. Their struggles are real but the women are resilient, knowing that their faith, community and their sense of humor will help them through the challenges. When your heart is torn between two places you love, how do you find your piece of paradise? The documentary won the National Bank Best First Feature Film and Centennial Best Canadian Film at the Toronto Reel Asian International Film Festival in 2017\.
 
