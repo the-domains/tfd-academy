@@ -2,13 +2,13 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-07-31T09:19:29.977Z'
+dateModified: '2018-07-31T09:22:50.134Z'
 via: {}
 description: PRESS RELEASE
 title: FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA’S DOKYU
 inFeed: true
 author: []
-datePublished: '2018-07-31T09:19:31.898Z'
+datePublished: '2018-07-31T09:22:54.586Z'
 sourcePath: _posts/2018-07-31-featured-documentary-films-at-the-cinemalayas-dokyu.md
 hasPage: true
 starred: true
@@ -24,11 +24,12 @@ _type: Article
 # **FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA'S DOKYU**
 
 ON its 14th edition, the Cinemalaya Philippine Independent Film Festival brings together a myriad of films in various genres, catering to different cinematic preferences and experiences. In Dokyu, its special documentary segment, the film festival curates six documentary films such as "Call Her Ganda," "50 Years Of Fabulous," "Life Is What You Make It," "A Piece Of Paradise," "Yield," and "Honor, The Legacy Of Jose Abad Santos."
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d17b818691bdd4ee84b2f75f06285341/croprotate.jpg?cropheight=3296&cropwidth=2202&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F36a8b1ad-3e90-461a-86ef-2d984aa2803d.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bddd3ddd15aa8a5bbd87d9984147620e54e111fa.jpg)
 
 In "Call Her Ganda," director PJ Raval documents the case of Jennifer Laude, the Filipino transwoman who was brutally murdered by a US Marine. Three women intimately invested in the case - Virgie Suarez who is an activist attorney, Meredith Talusan who is a transgender journalist, Julita Laude, the mother of the slain, galvanize a political uprising, pursuing justice and taking on hardened histories of U.S. imperialism.
 
 The documentary won the Grand Jury Award Outstanding Documentary at the Los Angeles Asian Pacific Film Festival, and the Best Documentary Audience Award at the Inside Out Toronto LGBT Film Festival.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58f566bb-fd12-4f29-881d-c676c662d8dc.jpg)
 
 Directed by Jethro Cuenca Patalinghug, "50 Years of Fabulous" recounts the rich history of the Imperial Council, the oldest LGBT charity organization in the world. Founded in San Francisco by renown activist, drag queen and performer Jose Sarria, the Council has helped shaped LGBT life and social history in San Francisco and beyond throughout the last five decades.
 
