@@ -1,16 +1,18 @@
 ---
-publisher: {}
-dateModified: '2018-07-31T09:18:04.727Z'
+publisher:
+  name: r of the Philippines
+  url: 'http://www.culturalcenter.gov.ph'
+dateModified: '2018-07-31T09:19:05.522Z'
 via: {}
 description: PRESS RELEASE
 title: FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA’S DOKYU
 inFeed: true
 author: []
-datePublished: '2018-07-31T09:18:06.109Z'
+datePublished: '2018-07-31T09:19:16.482Z'
 sourcePath: _posts/2018-07-31-featured-documentary-films-at-the-cinemalayas-dokyu.md
+hasPage: true
 starred: true
 datePublishedOriginal: '2018-07-31T05:15:44.713Z'
-hasPage: true
 url: featured-documentary-films-at-the-cinemalayas-dokyu/index.html
 _type: Article
 
@@ -22,6 +24,7 @@ _type: Article
 # **FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA'S DOKYU**
 
 ON its 14th edition, the Cinemalaya Philippine Independent Film Festival brings together a myriad of films in various genres, catering to different cinematic preferences and experiences. In Dokyu, its special documentary segment, the film festival curates six documentary films such as "Call Her Ganda," "50 Years Of Fabulous," "Life Is What You Make It," "A Piece Of Paradise," "Yield," and "Honor, The Legacy Of Jose Abad Santos."
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d17b818691bdd4ee84b2f75f06285341/croprotate.jpg?cropheight=3296&cropwidth=2202&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F36a8b1ad-3e90-461a-86ef-2d984aa2803d.jpg&x=0&y=0)
 
 In "Call Her Ganda," director PJ Raval documents the case of Jennifer Laude, the Filipino transwoman who was brutally murdered by a US Marine. Three women intimately invested in the case - Virgie Suarez who is an activist attorney, Meredith Talusan who is a transgender journalist, Julita Laude, the mother of the slain, galvanize a political uprising, pursuing justice and taking on hardened histories of U.S. imperialism.
 
@@ -42,7 +45,6 @@ Learn about the life and legacy of the greatest Filipino hero of World War II, C
 There will also be a special screening of "Journeyman Finds Home: The Simone Rota Story," a documentary by Albert Almendralejo and Maricel Cariaga. The film chronicles the fascinating life of Philippine Azkal football player Simone Rota. It will be screened on August 8, 3:30pm at the Tanghalang Manuel Conde.
 
 Catch these documentary films at the Cinemalaya, happening on August 3 to 12, at the CCP theaters. For more information, visit [www.cinemalaya.org][0] or [www.culturalcenter.gov.ph.][1] You may also call CCP Media Arts at 832-1125 local 1704 to 1705 and the CCP Box Office at 832-3704\. Or follow the Cinemalaya Facebook and Instagram accounts.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36a8b1ad-3e90-461a-86ef-2d984aa2803d.jpg)
 
 [0]: http://www.cinemalaya.org/
 [1]: http://www.culturalcenter.gov.ph./
