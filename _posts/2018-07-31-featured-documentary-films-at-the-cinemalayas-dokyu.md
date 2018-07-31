@@ -1,16 +1,18 @@
 ---
 publisher: {}
-dateModified: '2018-07-31T09:09:38.490Z'
+dateModified: '2018-07-31T09:18:04.727Z'
 via: {}
 description: PRESS RELEASE
 title: FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA’S DOKYU
 inFeed: true
 author: []
-datePublished: '2018-07-31T09:09:43.088Z'
+datePublished: '2018-07-31T09:18:06.109Z'
 sourcePath: _posts/2018-07-31-featured-documentary-films-at-the-cinemalayas-dokyu.md
 starred: true
 datePublishedOriginal: '2018-07-31T05:15:44.713Z'
-_type: Blurb
+hasPage: true
+url: featured-documentary-films-at-the-cinemalayas-dokyu/index.html
+_type: Article
 
 ---
 **PRESS RELEASE**
@@ -40,10 +42,7 @@ Learn about the life and legacy of the greatest Filipino hero of World War II, C
 There will also be a special screening of "Journeyman Finds Home: The Simone Rota Story," a documentary by Albert Almendralejo and Maricel Cariaga. The film chronicles the fascinating life of Philippine Azkal football player Simone Rota. It will be screened on August 8, 3:30pm at the Tanghalang Manuel Conde.
 
 Catch these documentary films at the Cinemalaya, happening on August 3 to 12, at the CCP theaters. For more information, visit [www.cinemalaya.org][0] or [www.culturalcenter.gov.ph.][1] You may also call CCP Media Arts at 832-1125 local 1704 to 1705 and the CCP Box Office at 832-3704\. Or follow the Cinemalaya Facebook and Instagram accounts.
-
-  
-  
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36a8b1ad-3e90-461a-86ef-2d984aa2803d.jpg)
 
 [0]: http://www.cinemalaya.org/
 [1]: http://www.culturalcenter.gov.ph./
