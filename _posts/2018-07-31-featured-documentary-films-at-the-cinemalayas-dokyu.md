@@ -2,13 +2,13 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-07-31T09:37:47.659Z'
+dateModified: '2018-07-31T09:39:47.550Z'
 via: {}
 description: PRESS RELEASE
 title: FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA’S DOKYU
 inFeed: true
 author: []
-datePublished: '2018-07-31T09:37:50.356Z'
+datePublished: '2018-07-31T09:39:49.313Z'
 sourcePath: _posts/2018-07-31-featured-documentary-films-at-the-cinemalayas-dokyu.md
 hasPage: true
 starred: true
@@ -40,9 +40,10 @@ Director-producer Jhett Tolentino shares his humble beginning from the slums of 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ec322aa-655d-4479-a129-0661ed9dc438.jpg)
 
 "A Piece of Paradise" by Patrick Alcedo follows the everyday life of Norlyn, Em-Em, and Betsy who navigate living and working in Toronto while hoping they can visit the Philippines again. Their struggles are real but the women are resilient, knowing that their faith, community and their sense of humor will help them through the challenges. When your heart is torn between two places you love, how do you find your piece of paradise? The documentary won the National Bank Best First Feature Film and Centennial Best Canadian Film at the Toronto Reel Asian International Film Festival in 2017\.
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8706dbb76e39000b913dbe534f6a8f3e/croprotate.jpg?cropheight=3300&cropwidth=2227&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5f521935-bd40-4071-9cfe-7208b31c89ae.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb656d7288bdf586cc3e95f5ea358a03fd9ce275.jpg)
 
 "Yield" is an ethnographic inquiry done by Toshihiko Uriu and Victor Delotavo Tagaro over a period of five years, documenting the lives of nine children living in dire Third World conditions. It was named Best Documentary at the 2018 URIAN Awards, and the Best Documentary Feature Film and Best Editing for Victor Tagaro at the 2018 FAMAS.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9545021c-4012-4cfe-b3d6-6eae4e89b3a2.jpg)
 
 Learn about the life and legacy of the greatest Filipino hero of World War II, Chief Justice Jose Abad Santos in "Honor, The Legacy of Jose Abad Santos." Directed by Bani Logroño, the 70-minute documentary weaved his life story with interviews from his descendants, top World War 2 Philippine historians, official documents, and excerpts from articles written by Abad Santos' son Pepito, who was with his father through his last days. Actors Dan Sheneill, Angeli Dione Gomez, Alex Medina, Marlon Mance, Marina Benipayo, and Ricardo Cepeda bring Abad's colorful life to the spotlight.
 
