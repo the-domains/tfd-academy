@@ -1,15 +1,15 @@
 ---
 publisher: {}
-dateModified: '2018-07-31T05:15:40.314Z'
+dateModified: '2018-07-31T09:09:38.490Z'
 via: {}
 description: PRESS RELEASE
 title: FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA’S DOKYU
 inFeed: true
 author: []
-datePublished: '2018-07-31T05:15:44.713Z'
+datePublished: '2018-07-31T09:09:43.088Z'
+sourcePath: _posts/2018-07-31-featured-documentary-films-at-the-cinemalayas-dokyu.md
 starred: true
 datePublishedOriginal: '2018-07-31T05:15:44.713Z'
-sourcePath: _posts/2018-07-31-featured-documentary-films-at-the-cinemalayas-dokyu.md
 _type: Blurb
 
 ---
