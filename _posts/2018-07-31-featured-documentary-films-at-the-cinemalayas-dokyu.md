@@ -2,13 +2,13 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-07-31T09:34:40.524Z'
+dateModified: '2018-07-31T09:37:12.117Z'
 via: {}
 description: PRESS RELEASE
 title: FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA’S DOKYU
 inFeed: true
 author: []
-datePublished: '2018-07-31T09:34:42.482Z'
+datePublished: '2018-07-31T09:37:13.631Z'
 sourcePath: _posts/2018-07-31-featured-documentary-films-at-the-cinemalayas-dokyu.md
 hasPage: true
 starred: true
@@ -40,6 +40,7 @@ Director-producer Jhett Tolentino shares his humble beginning from the slums of 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ec322aa-655d-4479-a129-0661ed9dc438.jpg)
 
 "A Piece of Paradise" by Patrick Alcedo follows the everyday life of Norlyn, Em-Em, and Betsy who navigate living and working in Toronto while hoping they can visit the Philippines again. Their struggles are real but the women are resilient, knowing that their faith, community and their sense of humor will help them through the challenges. When your heart is torn between two places you love, how do you find your piece of paradise? The documentary won the National Bank Best First Feature Film and Centennial Best Canadian Film at the Toronto Reel Asian International Film Festival in 2017\.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f521935-bd40-4071-9cfe-7208b31c89ae.jpg)
 
 "Yield" is an ethnographic inquiry done by Toshihiko Uriu and Victor Delotavo Tagaro over a period of five years, documenting the lives of nine children living in dire Third World conditions. It was named Best Documentary at the 2018 URIAN Awards, and the Best Documentary Feature Film and Best Editing for Victor Tagaro at the 2018 FAMAS.
 
