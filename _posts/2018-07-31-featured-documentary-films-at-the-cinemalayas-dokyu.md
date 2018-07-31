@@ -2,13 +2,13 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-07-31T09:22:50.134Z'
+dateModified: '2018-07-31T09:24:05.474Z'
 via: {}
 description: PRESS RELEASE
 title: FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA’S DOKYU
 inFeed: true
 author: []
-datePublished: '2018-07-31T09:22:54.586Z'
+datePublished: '2018-07-31T09:24:06.227Z'
 sourcePath: _posts/2018-07-31-featured-documentary-films-at-the-cinemalayas-dokyu.md
 hasPage: true
 starred: true
@@ -36,8 +36,10 @@ Directed by Jethro Cuenca Patalinghug, "50 Years of Fabulous" recounts the rich 
 The film captures the full scope of the organization's historical evolution, as well as its contemporary struggle in finding relevance - both in the wake of the social progress it has helped foster and in light of a recently empowered political coalition committed to rolling back a half-century of civil rights achievements. The documentary premiered at the 11th Annual QDoc Film Festival in Portland.
 
 Director-producer Jhett Tolentino shares his humble beginning from the slums of Iloilo City, Philippines to the glittery life on Broadway in "Life Is What You Make It." The 40-minute documentary follows Tolentino's journey as he shares his triumphant immigrant story and captures the special moments of his homecoming that is full of surprises, love, hope and inspiration.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34b81e33-b8b0-4d59-93c0-ba2fbcf3d72e.jpg)
 
 "A Piece of Paradise" by Patrick Alcedo follows the everyday life of Norlyn, Em-Em, and Betsy who navigate living and working in Toronto while hoping they can visit the Philippines again. Their struggles are real but the women are resilient, knowing that their faith, community and their sense of humor will help them through the challenges. When your heart is torn between two places you love, how do you find your piece of paradise? The documentary won the National Bank Best First Feature Film and Centennial Best Canadian Film at the Toronto Reel Asian International Film Festival in 2017\.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0977704-fb39-4b66-80ac-6eaf0e5c9225.jpg)
 
 "Yield" is an ethnographic inquiry done by Toshihiko Uriu and Victor Delotavo Tagaro over a period of five years, documenting the lives of nine children living in dire Third World conditions. It was named Best Documentary at the 2018 URIAN Awards, and the Best Documentary Feature Film and Best Editing for Victor Tagaro at the 2018 FAMAS.
 
