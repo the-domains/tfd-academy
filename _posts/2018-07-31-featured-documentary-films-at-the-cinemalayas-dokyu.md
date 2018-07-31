@@ -2,13 +2,13 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-07-31T09:27:05.083Z'
+dateModified: '2018-07-31T09:29:29.173Z'
 via: {}
 description: PRESS RELEASE
 title: FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA’S DOKYU
 inFeed: true
 author: []
-datePublished: '2018-07-31T09:27:08.385Z'
+datePublished: '2018-07-31T09:29:32.463Z'
 sourcePath: _posts/2018-07-31-featured-documentary-films-at-the-cinemalayas-dokyu.md
 hasPage: true
 starred: true
@@ -34,6 +34,7 @@ The documentary won the Grand Jury Award Outstanding Documentary at the Los Ange
 Directed by Jethro Cuenca Patalinghug, "50 Years of Fabulous" recounts the rich history of the Imperial Council, the oldest LGBT charity organization in the world. Founded in San Francisco by renown activist, drag queen and performer Jose Sarria, the Council has helped shaped LGBT life and social history in San Francisco and beyond throughout the last five decades.
 
 The film captures the full scope of the organization's historical evolution, as well as its contemporary struggle in finding relevance - both in the wake of the social progress it has helped foster and in light of a recently empowered political coalition committed to rolling back a half-century of civil rights achievements. The documentary premiered at the 11th Annual QDoc Film Festival in Portland.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbd9ecb2-6ff0-4709-9c8e-919be4d9ce25.jpg)
 
 Director-producer Jhett Tolentino shares his humble beginning from the slums of Iloilo City, Philippines to the glittery life on Broadway in "Life Is What You Make It." The 40-minute documentary follows Tolentino's journey as he shares his triumphant immigrant story and captures the special moments of his homecoming that is full of surprises, love, hope and inspiration.
 
