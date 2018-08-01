@@ -18,8 +18,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.google.com/amp/amp.usatoday.com/story/102378172/'
 title: 13 indie films to curb your superhero fatigue this summer
-datePublished: '2018-07-31T09:09:43.255Z'
-dateModified: '2018-07-31T09:09:38.490Z'
+datePublished: '2018-08-01T13:26:51.851Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-26-13-indie-films-to-curb-your-superhero-fatigue-this-summer.md
