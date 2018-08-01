@@ -62,13 +62,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=LtJ60u7SUSw&feature=share'
 title: Darkest Hour - Official International Trailer (Universal Pictures) HD
-datePublished: '2018-03-22T06:43:01.369Z'
-dateModified: '2018-03-22T06:42:46.008Z'
-datePublishedOriginal: '2018-03-22T06:43:01.369Z'
+datePublished: '2018-08-01T13:26:52.052Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-03-22-darkest-hour-official-international-trailer-universal-pic.md
+starred: false
+datePublishedOriginal: '2018-03-22T06:43:01.369Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
