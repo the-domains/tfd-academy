@@ -1,6 +1,8 @@
 ---
-publisher: {}
-dateModified: '2018-08-01T13:33:39.395Z'
+publisher:
+  name: Cultural Center of the Philippines
+  url: 'http://www.culturalcenter.gov.ph'
+dateModified: '2018-08-01T13:35:47.854Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -8,7 +10,7 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-01T13:33:40.926Z'
+datePublished: '2018-08-01T13:35:49.163Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 starred: true
@@ -25,6 +27,7 @@ _type: Blurb
 THE Cinemalaya's special section Indie Nation will let film enthusiasts cross out the indie films which they may have missed on their regular screening at the cinema from their must-watch checklist. This component of the Cinemalaya Philippine Independent Film Festival features seven indie films that made buzz and gained international recognition.
 
 The featured indie films include: "Citizen Jake" by Mike de Leon; "Chedeng & Apple" by Rae Red and Fatrick Tabada; "Delia And Sammy" by Therese Cayaba; "Gusto Kita With All My Hypothalamus" by Dwein Baltazar; "Mga Mister Ni Rosario" by Alpha Habon; "Smaller And Smaller Circles" by Raya Martin; "Nervous Translation" by Shireen Seno; "Manggagarab (Man With Sickle)" by Kyle Fermindoza; and, "Bomba (The Bomb)" by Ralston Gonzales Jover.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf2db0ef-a61e-4459-9f95-4839efe17203.jpg)
 
 Directed by Mike De Leon, "Citizen Jake" is a personal saga of a Filipino and his struggles with the contradictions within his own social class and the demands of a dysfunctional political family in a Third World nation. The film features actors Cherie Gil, Dina Bonnevie, Luis Alandy, Gabby Eigenmann, Max Collins, Teroy Guzman, and Nonie Buencamino, with journalist Atom Araullo as Citizen Jake.
 
