@@ -8,7 +8,7 @@ purpose:
     url: 'mailto:thefilmdream@icloud.com'
     label: Let's collaborate!
 github: true
-description: Unleash the Storyteller Within You!
+description: Unleash the Filmmaker Within You!
 author:
   name: The Film Dream
   url: 'http://www.thefilmdream.com'
@@ -51,14 +51,14 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - id: a6d4f0bf-181a-4cda-ad38-82587aa385c8
-    name: About us
+  - name: About us
+    id: a6d4f0bf-181a-4cda-ad38-82587aa385c8
     type: content
-  - id: 5cd0fa33-4eac-43c2-8c93-1458332b7332
-    name: Spotlight
+  - name: Spotlight
+    id: 5cd0fa33-4eac-43c2-8c93-1458332b7332
     type: content
-  - id: 1708e7ec-c485-4578-a381-02b522942b8f
-    name: Indie 101
+  - name: Indie 101
+    id: 1708e7ec-c485-4578-a381-02b522942b8f
     type: content
 layout_spectrum: 0.15773106976227816
 color:
