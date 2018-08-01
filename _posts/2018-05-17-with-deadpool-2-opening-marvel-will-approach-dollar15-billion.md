@@ -24,14 +24,14 @@ isBasedOnUrl: >-
 title: >-
   With 'Deadpool 2' Opening, Marvel Will Approach $1.5 Billion and Continue
   Grinding 2018 Box Office Into Dust
-datePublished: '2018-05-17T06:49:50.451Z'
-dateModified: '2018-05-17T06:49:41.375Z'
-datePublishedOriginal: '2018-05-17T06:49:50.451Z'
+datePublished: '2018-08-01T13:26:52.016Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-05-17-with-deadpool-2-opening-marvel-will-approach-dollar15-billion.md
+starred: false
+datePublishedOriginal: '2018-05-17T06:49:50.451Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
