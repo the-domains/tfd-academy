@@ -2,7 +2,7 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-01T13:38:02.199Z'
+dateModified: '2018-08-01T13:38:11.476Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -10,12 +10,14 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-01T13:38:04.372Z'
+datePublished: '2018-08-01T13:38:12.919Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 starred: true
 datePublishedOriginal: '2018-08-01T03:42:56.639Z'
-_type: Blurb
+hasPage: true
+url: cinemalaya-features-citizen-jake-smaller-and-smaller-circle/index.html
+_type: Article
 
 ---
 **PRESS RELEASE**
@@ -47,6 +49,7 @@ Director Shireen Seno gives voice to eight-year-old Yael who prefers to be by he
 Directed by Kyle Fermindoza, "Manggagarab" tells about father Gabriel and daughter Celie who has been living peacefully in the mountains. Even though he struggles to provide for his daughter, everything seems normal until the past starts crawling in and devouring Gabriel.
 
 In "Bomba," actor Allen Dizon plays a deaf-mute in his 40s who is having an affair with a 16-year-old girl (played by Angeli Nicole Sanoy). Director Ralston Gonzales Jover captures the deafening silent existence that is dying to explode.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e3a5e5-c033-4146-bd45-8b8e7cdf238c.jpg)
 
 Watch all these indie films at the Cinemalaya, happening on August 3 to 12, at the CCP theaters. For more information, visit [www.cinemalaya.org][0] or [www.culturalcenter.gov.ph.][1] You may also call CCP Media Arts at 832-1125 local 1704 to 1705 and the CCP Box Office at 832-3704\. Or follow the Cinemalaya Facebook and Instagram accounts.
 
