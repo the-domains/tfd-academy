@@ -24,14 +24,14 @@ isBasedOnUrl: >-
 title: >-
   Major Studios Released a Historically Low Amount of LGBTQ-Inclusive Films in
   2017 - Report
-datePublished: '2018-05-23T12:37:03.998Z'
-dateModified: '2018-05-23T12:36:41.256Z'
-datePublishedOriginal: '2018-05-23T12:37:03.998Z'
+datePublished: '2018-08-01T13:26:51.987Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-05-23-major-studios-released-a-historically-low-amount-of-lgbtq-in.md
+starred: false
+datePublishedOriginal: '2018-05-23T12:37:03.998Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
