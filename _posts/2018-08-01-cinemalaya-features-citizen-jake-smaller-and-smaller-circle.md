@@ -2,7 +2,7 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-01T14:08:33.085Z'
+dateModified: '2018-08-01T14:09:56.779Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -10,7 +10,7 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-01T14:08:34.354Z'
+datePublished: '2018-08-01T14:09:59.975Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 hasPage: true
@@ -38,6 +38,7 @@ Directed by Mike De Leon, "Citizen Jake" is a personal saga of a Filipino and hi
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e3a5e5-c033-4146-bd45-8b8e7cdf238c.jpg)
 
 When she learns about her terminal illness, faded and forgotten actress Delia has to find family to take care and leave her difficult husband Sammy with, before she dies in comedy-drama film "Delia and Sammy." Directed by Therese Cayaba, the film features Rosemarie Gil, Jaime Fabregas, and Nico Antonio.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/955dd008-9844-4e20-850a-93f0111f3637.jpg)
 
 In "Gusto Kita With All My Hypothalamus," director Dwein Baltazar explores the intertwined fate of four men, who all long for a mysterious girl named Aileen. Actors Nicco Manalo, Dylan Ray Talon, Soliman Cruz and Anthony Falcon bring this romantic film to life.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fed4bbf1-2b50-4d1d-ba8f-b7e85fcf0893.jpg)
