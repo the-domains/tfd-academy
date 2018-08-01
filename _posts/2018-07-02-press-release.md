@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'PRESS RELEASE '
-dateModified: '2018-08-01T13:26:45.791Z'
-datePublished: '2018-08-01T13:26:51.753Z'
+dateModified: '2018-08-01T14:22:57.056Z'
+datePublished: '2018-08-01T14:22:57.578Z'
 title: PIANIST CLEMENT ACEVEDO OPENS CCP SPECIAL CONCERT SERIES IN JULY
 author: []
 publisher: {}
