@@ -30,13 +30,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://io9.gizmodo.com/solo-is-a-damn-fine-star-wars-story-1825971193'
 title: Solo Is a Damn Fine Star Wars Story
-datePublished: '2018-05-31T09:08:15.826Z'
-dateModified: '2018-05-31T09:07:48.637Z'
-datePublishedOriginal: '2018-05-31T09:08:15.826Z'
+datePublished: '2018-08-01T13:26:51.985Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-31-solo-is-a-damn-fine-star-wars-story.md
+starred: false
+datePublishedOriginal: '2018-05-31T09:08:15.826Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
