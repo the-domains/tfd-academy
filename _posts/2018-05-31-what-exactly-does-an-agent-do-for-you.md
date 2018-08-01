@@ -16,13 +16,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://nofilmschool.com/2018/05/how-changing-role-agents-affecting-filmmakers'
 title: What Exactly Does an Agent Do For You?
-datePublished: '2018-05-31T02:09:24.309Z'
-dateModified: '2018-05-23T13:00:32.006Z'
-datePublishedOriginal: '2018-05-31T02:09:24.309Z'
+datePublished: '2018-08-01T13:26:51.956Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-31-what-exactly-does-an-agent-do-for-you.md
+starred: false
+datePublishedOriginal: '2018-05-31T02:09:24.309Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
