@@ -1,5 +1,6 @@
 name: The Film Dream Academy
-analytics: {}
+analytics:
+  google: UA-64070424-1
 purpose:
   - type: external
     url: 'http://thefilmdream.com'
