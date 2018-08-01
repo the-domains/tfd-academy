@@ -44,13 +44,13 @@ app_links:
     type: android
 isBasedOnUrl: 'http://www.clickthecity.com/movies/a/34758'
 title: Citizen Jake Poster Reveal
-datePublished: '2018-05-07T22:52:15.964Z'
-dateModified: '2018-05-07T22:52:05.687Z'
-datePublishedOriginal: '2018-05-07T22:52:15.964Z'
+datePublished: '2018-08-01T13:26:51.988Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-07-citizen-jake-poster-reveal.md
+starred: false
+datePublishedOriginal: '2018-05-07T22:52:15.964Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
