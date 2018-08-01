@@ -18,13 +18,13 @@ isBasedOnUrl: >-
 title: >-
   What's Tone? It's Basically the Difference Between 1978 Superman and 2013
   Superman
-datePublished: '2018-05-31T02:09:51.119Z'
-dateModified: '2018-05-23T12:39:18.980Z'
-datePublishedOriginal: '2018-05-31T02:09:51.119Z'
+datePublished: '2018-08-01T13:26:51.986Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-31-whats-tone-its-basically-the-difference-between-1978-supe.md
+starred: false
+datePublishedOriginal: '2018-05-31T02:09:51.119Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
