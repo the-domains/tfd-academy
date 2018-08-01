@@ -23,13 +23,13 @@ isBasedOnUrl: >-
 title: >-
   J.J. Abrams Drops 'Overlord' Footage at CinemaCon, Promises 'It's Not a
   "Cloverfield" Movie'
-datePublished: '2018-04-26T04:34:04.412Z'
-dateModified: '2018-04-26T04:33:51.214Z'
-datePublishedOriginal: '2018-04-26T04:34:04.412Z'
+datePublished: '2018-08-01T13:26:52.051Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-04-26-jj-abrams-drops-overlord-footage-at-cinemacon-promises.md
+starred: false
+datePublishedOriginal: '2018-04-26T04:34:04.412Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
