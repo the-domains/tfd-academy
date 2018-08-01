@@ -2,7 +2,7 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-01T13:53:44.024Z'
+dateModified: '2018-08-01T13:54:43.756Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -10,7 +10,7 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-01T13:53:48.093Z'
+datePublished: '2018-08-01T13:54:45.488Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 hasPage: true
@@ -53,6 +53,7 @@ Director Shireen Seno gives voice to eight-year-old Yael who prefers to be by he
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f26bd42-dcb7-4788-a96f-c1f93d0089fd.jpg)
 
 Directed by Kyle Fermindoza, "Manggagarab" tells about father Gabriel and daughter Celie who has been living peacefully in the mountains. Even though he struggles to provide for his daughter, everything seems normal until the past starts crawling in and devouring Gabriel.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ba0e4be-ad8a-4fa8-9bd5-4797385e8c1e.jpg)
 
 In "Bomba," actor Allen Dizon plays a deaf-mute in his 40s who is having an affair with a 16-year-old girl (played by Angeli Nicole Sanoy). Director Ralston Gonzales Jover captures the deafening silent existence that is dying to explode.
 
