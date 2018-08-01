@@ -20,14 +20,14 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://cinemabravo.com/2018/05/05/cinemalaya-2018-short-films/'
 title: Cinemalaya announces 2018 short film finalists; grand prize winner gets P150k
-datePublished: '2018-05-31T09:45:59.296Z'
-dateModified: '2018-05-31T09:45:50.013Z'
-datePublishedOriginal: '2018-05-31T09:45:59.296Z'
+datePublished: '2018-08-01T13:26:51.963Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-05-31-cinemalaya-announces-2018-short-film-finalists-grand-prize.md
+starred: false
+datePublishedOriginal: '2018-05-31T09:45:59.296Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
