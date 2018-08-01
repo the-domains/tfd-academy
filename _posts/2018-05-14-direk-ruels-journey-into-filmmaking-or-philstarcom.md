@@ -18,13 +18,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.philstar.com/entertainment/2018/05/13/1814634/direk-ruels-journey-filmmaking
 title: Direk Ruel's journey into filmmaking | Philstar.com
-datePublished: '2018-05-14T12:49:15.538Z'
-dateModified: '2018-05-14T12:49:03.123Z'
-datePublishedOriginal: '2018-05-14T12:49:15.538Z'
+datePublished: '2018-08-01T13:26:51.988Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-14-direk-ruels-journey-into-filmmaking-or-philstarcom.md
+starred: false
+datePublishedOriginal: '2018-05-14T12:49:15.538Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
