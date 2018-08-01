@@ -16,14 +16,14 @@ app_links: []
 isBasedOnUrl: >-
   https://nofilmschool.com/2016/07/download-these-7-storyboard-templates-free-studiobinder
 title: Download These 7 Storyboard Templates for Free from StudioBinder
-datePublished: '2018-05-31T02:09:48.334Z'
-dateModified: '2018-05-23T12:45:51.689Z'
-datePublishedOriginal: '2018-05-31T02:09:48.334Z'
+datePublished: '2018-08-01T13:26:51.956Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-05-31-download-these-7-storyboard-templates-for-free-from-studiobi.md
+starred: false
+datePublishedOriginal: '2018-05-31T02:09:48.334Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
