@@ -49,13 +49,13 @@ app_links:
 isBasedOnUrl: >-
   https://www.rappler.com/life-and-style/specials/mmff/193944-gandarrapido-the-revenger-squad-tops-metro-manila-2017-box-office
 title: '''Gandarrapido: The Revenger Squad'' tops MMFF 2017 box office'
-datePublished: '2018-01-18T12:56:24.447Z'
-dateModified: '2018-01-18T12:56:06.829Z'
-datePublishedOriginal: '2018-01-18T12:56:24.447Z'
+datePublished: '2018-08-01T13:26:52.065Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-01-18-gandarrapido-the-revenger-squad-tops-mmff-2017-box-office.md
+starred: false
+datePublishedOriginal: '2018-01-18T12:56:24.447Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
