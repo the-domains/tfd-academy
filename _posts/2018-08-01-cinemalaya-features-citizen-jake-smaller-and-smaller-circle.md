@@ -2,7 +2,7 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-01T13:36:18.440Z'
+dateModified: '2018-08-01T13:37:26.221Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -10,7 +10,7 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-01T13:36:19.797Z'
+datePublished: '2018-08-01T13:37:27.589Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 starred: true
@@ -30,6 +30,7 @@ The featured indie films include: "Citizen Jake" by Mike de Leon; "Chedeng & App
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf2db0ef-a61e-4459-9f95-4839efe17203.jpg)
 
 Directed by Mike De Leon, "Citizen Jake" is a personal saga of a Filipino and his struggles with the contradictions within his own social class and the demands of a dysfunctional political family in a Third World nation. The film features actors Cherie Gil, Dina Bonnevie, Luis Alandy, Gabby Eigenmann, Max Collins, Teroy Guzman, and Nonie Buencamino, with journalist Atom Araullo as Citizen Jake.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a42514e-d778-439d-bf99-6bf6452cdd13.jpg)
 
 "Chedeng & Apple," which is co-directed by Rae Red and Fatrick Tabada, is a comic film about two friends who are both in their 60s. In the wake of her husband's death, 66-yeard-old Chedeng decides to come out of the closet, while her 63-year-old best friend Apple beheads her live-in partner in a fit of rage. With a severed head placed inside a Louis Vuitton bag, the two elderly women together set off an adventure to find Chedeng's ex-girlfriend. It stars Gloria Diaz, Elizabeth Oropesa and Anthony Falcon.
 
