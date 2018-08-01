@@ -47,14 +47,14 @@ app_links:
     type: android
 isBasedOnUrl: 'http://www.clickthecity.com/movies/a/34006'
 title: 'Oscars 2018: Full List of the 90th Academy Awards Nominations'
-datePublished: '2018-01-24T15:44:01.505Z'
-dateModified: '2018-01-24T15:43:48.219Z'
-datePublishedOriginal: '2018-01-24T15:44:01.505Z'
+datePublished: '2018-08-01T13:26:52.059Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-01-24-oscars-2018-full-list-of-the-90th-academy-awards-nomination.md
+starred: false
+datePublishedOriginal: '2018-01-24T15:44:01.505Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
