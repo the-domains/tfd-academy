@@ -1,12 +1,12 @@
 ---
 publisher: {}
-dateModified: '2018-08-01T13:26:45.791Z'
+dateModified: '2018-08-01T14:22:57.056Z'
 via: {}
 description: PRESS RELEASE
 title: PPO YOUTH CONCERT AT CCP
 inFeed: true
 author: []
-datePublished: '2018-08-01T13:26:51.776Z'
+datePublished: '2018-08-01T14:22:57.761Z'
 sourcePath: _posts/2018-07-13-ppo-youth-concert-at-ccp.md
 starred: true
 datePublishedOriginal: '2018-07-13T11:00:58.736Z'
