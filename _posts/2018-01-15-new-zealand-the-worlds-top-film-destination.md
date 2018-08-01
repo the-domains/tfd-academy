@@ -18,13 +18,13 @@ app_links: []
 isBasedOnUrl: >-
   http://beta.philstar.com/entertainment/2017/12/27/1772386/new-zealand-worlds-top-film-destination
 title: 'New Zealand, the world''s top film destination'
-datePublished: '2018-01-15T08:43:46.105Z'
-dateModified: '2018-01-15T08:43:35.628Z'
-datePublishedOriginal: '2018-01-15T08:43:46.105Z'
+datePublished: '2018-08-01T13:26:52.065Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-01-15-new-zealand-the-worlds-top-film-destination.md
+starred: false
+datePublishedOriginal: '2018-01-15T08:43:46.105Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
