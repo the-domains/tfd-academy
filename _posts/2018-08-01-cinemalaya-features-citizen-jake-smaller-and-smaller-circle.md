@@ -2,7 +2,7 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-01T13:41:58.163Z'
+dateModified: '2018-08-01T13:45:24.368Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -10,7 +10,7 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-01T13:41:59.221Z'
+datePublished: '2018-08-01T13:45:25.995Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 hasPage: true
@@ -43,6 +43,7 @@ When she learns about her terminal illness, faded and forgotten actress Delia ha
 In "Gusto Kita With All My Hypothalamus," director Dwein Baltazar explores the intertwined fate of four men, who all long for a mysterious girl named Aileen. Actors Nicco Manalo, Dylan Ray Talon, Soliman Cruz and Anthony Falcon bring this romantic film to life.
 
 "Mga Mister ni Rosario" by Alpha Habon is about Yogi Juan, the Philippine Showbiz's Golden Boy who takes every role seriously, and his devoted housewife Sari who supports him and role-plays along. But what will happen when Yogi takes the role is a serial killer, can Sari revise the morbid fate that awaits her? he film stars Joross Gamboa, Kate Alejandrino, Kim Molina, Dax Carnay, Rap Robes, and Kiki Baento.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/593f55f3-920c-471e-9a54-e30a8d12048b.jpg)
 
 In "Smaller and Smaller Circles" by Raya Martin, a serial killer in Payatas leaves the bodies of young boys in the dump as two Jesuit priests try to solve the murders. Adapted from the award-winning novel of F.H. Batacan, it features Nonie Buencamino, Sid Lucero, Carla Humphries, Gladys Reyes, Raffy Tejada, Bembol Rocco, and TJ Trinidad.
 
