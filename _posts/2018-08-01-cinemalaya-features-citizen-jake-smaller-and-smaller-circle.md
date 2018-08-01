@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2018-08-01T13:26:45.791Z'
+dateModified: '2018-08-01T13:33:39.395Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -8,7 +8,7 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-01T13:26:51.775Z'
+datePublished: '2018-08-01T13:33:40.926Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 starred: true
