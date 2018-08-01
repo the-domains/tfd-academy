@@ -18,8 +18,8 @@ app_links: []
 title: >-
   From 'Following' to 'Dunkirk': Christopher Nolan's Filmography Is a Lesson in
   Cinematic Magic
-datePublished: '2018-07-31T09:09:43.334Z'
-dateModified: '2018-07-31T09:09:38.490Z'
+datePublished: '2018-08-01T13:26:51.890Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-21-from-following-to-dunkirk-christopher-nolans-filmograp.md
