@@ -18,13 +18,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://villagepipol.com/myphone-hold-techsummit-2018-january/'
 title: MyPhone to Hold TechSummit 2018 on January - Village Pipol
-datePublished: '2017-12-12T05:48:01.345Z'
-dateModified: '2017-12-12T05:47:32.908Z'
-datePublishedOriginal: '2017-12-12T05:48:01.345Z'
+datePublished: '2018-08-01T13:26:52.066Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-12-12-myphone-to-hold-techsummit-2018-on-january-village-pipol.md
+starred: false
+datePublishedOriginal: '2017-12-12T05:48:01.345Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
