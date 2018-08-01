@@ -44,13 +44,13 @@ app_links:
 isBasedOnUrl: >-
   https://www.rappler.com/entertainment/movies/199870-black-panther-surpasses-titanic-box-office
 title: '''Black Panther'' surpasses ''Titanic'' at US box office'
-datePublished: '2018-04-10T11:25:38.935Z'
-dateModified: '2018-04-10T11:25:14.407Z'
-datePublishedOriginal: '2018-04-10T11:25:38.935Z'
+datePublished: '2018-08-01T13:26:52.050Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-04-10-black-panther-surpasses-titanic-at-us-box-office.md
+starred: false
+datePublishedOriginal: '2018-04-10T11:25:38.935Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
