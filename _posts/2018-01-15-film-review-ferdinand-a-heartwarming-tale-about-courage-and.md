@@ -18,14 +18,14 @@ app_links: []
 isBasedOnUrl: >-
   http://beta.philstar.com/entertainment/2018/01/13/1777114/film-review-ferdinand-heartwarming-tale-about-courage-compassion
 title: 'Film review: Ferdinand; A heartwarming tale about courage & compassion'
-datePublished: '2018-01-15T08:35:37.049Z'
-dateModified: '2018-01-15T08:35:27.307Z'
-datePublishedOriginal: '2018-01-15T08:35:37.049Z'
+datePublished: '2018-08-01T13:26:52.066Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-01-15-film-review-ferdinand-a-heartwarming-tale-about-courage-and.md
+starred: false
+datePublishedOriginal: '2018-01-15T08:35:37.049Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
