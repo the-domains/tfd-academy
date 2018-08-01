@@ -16,14 +16,14 @@ app_links: []
 isBasedOnUrl: >-
   https://nofilmschool.com/2018/04/discover-notable-filmmakers-time-100-list-2018
 title: Discover the Notable Filmmakers on the Time 100 List of 2018
-datePublished: '2018-04-24T06:52:58.376Z'
-dateModified: '2018-04-24T06:52:37.853Z'
-datePublishedOriginal: '2018-04-24T06:52:58.376Z'
+datePublished: '2018-08-01T13:26:52.020Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-04-24-discover-the-notable-filmmakers-on-the-time-100-list-of-2018.md
+starred: false
+datePublishedOriginal: '2018-04-24T06:52:58.376Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
