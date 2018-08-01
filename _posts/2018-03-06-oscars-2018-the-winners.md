@@ -51,13 +51,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://mobile.nytimes.com/2018/03/04/arts/oscar-winners.amp.html'
 title: 'Oscars 2018: The Winners'
-datePublished: '2018-03-06T10:12:39.486Z'
-dateModified: '2018-03-06T10:12:24.526Z'
-datePublishedOriginal: '2018-03-06T10:12:39.486Z'
+datePublished: '2018-08-01T13:26:52.053Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-03-06-oscars-2018-the-winners.md
+starred: false
+datePublishedOriginal: '2018-03-06T10:12:39.486Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
