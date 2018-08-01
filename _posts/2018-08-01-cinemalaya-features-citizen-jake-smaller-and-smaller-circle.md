@@ -2,7 +2,7 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-01T13:50:50.866Z'
+dateModified: '2018-08-01T13:51:54.789Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -10,7 +10,7 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-01T13:50:52.412Z'
+datePublished: '2018-08-01T13:51:56.616Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 hasPage: true
@@ -41,6 +41,7 @@ When she learns about her terminal illness, faded and forgotten actress Delia ha
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56238d9b-62d1-45d7-a117-29a473f13d06.jpg)
 
 In "Gusto Kita With All My Hypothalamus," director Dwein Baltazar explores the intertwined fate of four men, who all long for a mysterious girl named Aileen. Actors Nicco Manalo, Dylan Ray Talon, Soliman Cruz and Anthony Falcon bring this romantic film to life.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fed4bbf1-2b50-4d1d-ba8f-b7e85fcf0893.jpg)
 
 "Mga Mister ni Rosario" by Alpha Habon is about Yogi Juan, the Philippine Showbiz's Golden Boy who takes every role seriously, and his devoted housewife Sari who supports him and role-plays along. But what will happen when Yogi takes the role is a serial killer, can Sari revise the morbid fate that awaits her? he film stars Joross Gamboa, Kate Alejandrino, Kim Molina, Dax Carnay, Rap Robes, and Kiki Baento.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/593f55f3-920c-471e-9a54-e30a8d12048b.jpg)
