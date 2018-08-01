@@ -19,13 +19,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://remezcla.com/lists/film/10-filipino-film-makers-you-should-know/'
 title: 10 Filipino Filmmakers You Should Know
-datePublished: '2018-04-28T13:26:44.667Z'
-dateModified: '2018-04-28T13:26:20.349Z'
-datePublishedOriginal: '2018-04-28T13:26:44.667Z'
+datePublished: '2018-08-01T13:26:52.019Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-04-28-10-filipino-filmmakers-you-should-know.md
+starred: false
+datePublishedOriginal: '2018-04-28T13:26:44.667Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
