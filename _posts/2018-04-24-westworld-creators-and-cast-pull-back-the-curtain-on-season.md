@@ -14,14 +14,14 @@ app_links: []
 isBasedOnUrl: >-
   https://nofilmschool.com/2018/04/westworld-creators-and-cast-season-2-revelations-tribeca
 title: '''Westworld'' Creators & Cast Pull Back the Curtain on Season 2'
-datePublished: '2018-04-24T03:44:47.513Z'
-dateModified: '2018-04-24T03:44:27.436Z'
-datePublishedOriginal: '2018-04-24T03:44:47.513Z'
+datePublished: '2018-08-01T13:26:52.050Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-04-24-westworld-creators-and-cast-pull-back-the-curtain-on-season.md
+starred: false
+datePublishedOriginal: '2018-04-24T03:44:47.513Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
