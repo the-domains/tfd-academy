@@ -2,7 +2,7 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-01T14:06:58.762Z'
+dateModified: '2018-08-01T14:07:21.015Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -10,7 +10,7 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-01T14:07:01.749Z'
+datePublished: '2018-08-01T14:07:24.663Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 hasPage: true
@@ -38,7 +38,6 @@ Directed by Mike De Leon, "Citizen Jake" is a personal saga of a Filipino and hi
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e3a5e5-c033-4146-bd45-8b8e7cdf238c.jpg)
 
 When she learns about her terminal illness, faded and forgotten actress Delia has to find family to take care and leave her difficult husband Sammy with, before she dies in comedy-drama film "Delia and Sammy." Directed by Therese Cayaba, the film features Rosemarie Gil, Jaime Fabregas, and Nico Antonio.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56238d9b-62d1-45d7-a117-29a473f13d06.jpg)
 
 In "Gusto Kita With All My Hypothalamus," director Dwein Baltazar explores the intertwined fate of four men, who all long for a mysterious girl named Aileen. Actors Nicco Manalo, Dylan Ray Talon, Soliman Cruz and Anthony Falcon bring this romantic film to life.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fed4bbf1-2b50-4d1d-ba8f-b7e85fcf0893.jpg)
@@ -58,6 +57,7 @@ Directed by Kyle Fermindoza, "Manggagarab" tells about father Gabriel and daught
 In "Bomba," actor Allen Dizon plays a deaf-mute in his 40s who is having an affair with a 16-year-old girl (played by Angeli Nicole Sanoy). Director Ralston Gonzales Jover captures the deafening silent existence that is dying to explode.
 
 Watch all these indie films at the Cinemalaya, happening on August 3 to 12, at the CCP theaters. For more information, visit [www.cinemalaya.org][0] or [www.culturalcenter.gov.ph.][1] You may also call CCP Media Arts at 832-1125 local 1704 to 1705 and the CCP Box Office at 832-3704\. Or follow the Cinemalaya Facebook and Instagram accounts.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adaeba38-1796-487d-b643-c715d30d6017.jpg)
 
 [0]: http://www.cinemalaya.org/
 [1]: http://www.culturalcenter.gov.ph./
