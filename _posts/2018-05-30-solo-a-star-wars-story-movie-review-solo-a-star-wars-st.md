@@ -49,13 +49,13 @@ isBasedOnUrl: 'http://www.clickthecity.com/movies/a/34852'
 title: >-
   Solo: A Star Wars Story Movie Review - 'Solo: A Star Wars Story' Can Stand On
   Its Own
-datePublished: '2018-05-30T04:18:59.009Z'
-dateModified: '2018-05-30T04:18:51.422Z'
-datePublishedOriginal: '2018-05-30T04:18:59.009Z'
+datePublished: '2018-08-01T13:26:51.986Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-30-solo-a-star-wars-story-movie-review-solo-a-star-wars-st.md
+starred: false
+datePublishedOriginal: '2018-05-30T04:18:59.009Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
