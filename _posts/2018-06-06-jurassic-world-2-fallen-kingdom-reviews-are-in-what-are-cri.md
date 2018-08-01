@@ -20,14 +20,14 @@ app_links: []
 isBasedOnUrl: >-
   https://www.express.co.uk/entertainment/films/969930/Jurassic-World-2-Fallen-Kingdom-reviews-Rotten-Tomatoes/amp
 title: 'Jurassic World 2 Fallen Kingdom REVIEWS are in: What are critics saying?'
-datePublished: '2018-06-06T07:19:47.855Z'
-dateModified: '2018-06-06T07:19:35.834Z'
-datePublishedOriginal: '2018-06-06T07:19:47.855Z'
+datePublished: '2018-08-01T13:26:51.922Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-06-06-jurassic-world-2-fallen-kingdom-reviews-are-in-what-are-cri.md
+starred: false
+datePublishedOriginal: '2018-06-06T07:19:47.855Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
