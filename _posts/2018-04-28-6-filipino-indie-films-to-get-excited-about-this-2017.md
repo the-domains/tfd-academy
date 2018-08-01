@@ -21,13 +21,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.esquiremag.ph/culture/arts-and-entertainment/6-filipino-indie-films-to-get-excited-about-this-2017-a1926-20170707
 title: 6 Filipino Indie Films to Get Excited About This 2017
-datePublished: '2018-04-28T13:31:26.620Z'
-dateModified: '2018-04-28T13:31:00.018Z'
-datePublishedOriginal: '2018-04-28T13:31:26.620Z'
+datePublished: '2018-08-01T13:26:52.018Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-04-28-6-filipino-indie-films-to-get-excited-about-this-2017.md
+starred: false
+datePublishedOriginal: '2018-04-28T13:31:26.620Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
