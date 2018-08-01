@@ -2,7 +2,7 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-01T13:47:00.733Z'
+dateModified: '2018-08-01T13:48:32.962Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -10,7 +10,7 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-01T13:47:10.312Z'
+datePublished: '2018-08-01T13:48:34.310Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 hasPage: true
@@ -46,16 +46,16 @@ In "Gusto Kita With All My Hypothalamus," director Dwein Baltazar explores the i
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/593f55f3-920c-471e-9a54-e30a8d12048b.jpg)
 
 In "Smaller and Smaller Circles" by Raya Martin, a serial killer in Payatas leaves the bodies of young boys in the dump as two Jesuit priests try to solve the murders. Adapted from the award-winning novel of F.H. Batacan, it features Nonie Buencamino, Sid Lucero, Carla Humphries, Gladys Reyes, Raffy Tejada, Bembol Rocco, and TJ Trinidad.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/347a3a74-2a39-4021-957b-c5ad0d2defb7.jpg)
 
 Director Shireen Seno gives voice to eight-year-old Yael who prefers to be by herself, yet deeep down longs to be heard in "Nervous Translation." In the film, the shy young girl prefers writing letters instead of performing dances. When she hears an advertisement for a pen that will give her a wonderful life, she decides to spend all her savings to buy it.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f26bd42-dcb7-4788-a96f-c1f93d0089fd.jpg)
 
 Directed by Kyle Fermindoza, "Manggagarab" tells about father Gabriel and daughter Celie who has been living peacefully in the mountains. Even though he struggles to provide for his daughter, everything seems normal until the past starts crawling in and devouring Gabriel.
 
 In "Bomba," actor Allen Dizon plays a deaf-mute in his 40s who is having an affair with a 16-year-old girl (played by Angeli Nicole Sanoy). Director Ralston Gonzales Jover captures the deafening silent existence that is dying to explode.
 
 Watch all these indie films at the Cinemalaya, happening on August 3 to 12, at the CCP theaters. For more information, visit [www.cinemalaya.org][0] or [www.culturalcenter.gov.ph.][1] You may also call CCP Media Arts at 832-1125 local 1704 to 1705 and the CCP Box Office at 832-3704\. Or follow the Cinemalaya Facebook and Instagram accounts.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa1bcc68-bcd2-42e3-8e66-5fd9cab78d21.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/347a3a74-2a39-4021-957b-c5ad0d2defb7.jpg)
 
 [0]: http://www.cinemalaya.org/
 [1]: http://www.culturalcenter.gov.ph./
