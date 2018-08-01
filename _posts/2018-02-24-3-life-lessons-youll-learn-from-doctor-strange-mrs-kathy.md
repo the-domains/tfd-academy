@@ -19,13 +19,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.mrskathyking.com/3-life-lessons-youll-learn-doctor-strange/'
 title: 3 Life Lessons You'll Learn From Doctor Strange - Mrs. Kathy King
-datePublished: '2018-02-24T12:20:23.205Z'
-dateModified: '2018-02-24T12:20:00.214Z'
-datePublishedOriginal: '2018-02-24T12:20:23.205Z'
+datePublished: '2018-08-01T13:26:52.053Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-02-24-3-life-lessons-youll-learn-from-doctor-strange-mrs-kathy.md
+starred: false
+datePublishedOriginal: '2018-02-24T12:20:23.205Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
