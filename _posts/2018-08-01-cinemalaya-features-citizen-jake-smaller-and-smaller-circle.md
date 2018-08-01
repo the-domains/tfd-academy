@@ -2,7 +2,7 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-01T13:45:24.368Z'
+dateModified: '2018-08-01T13:47:00.733Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -10,7 +10,7 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-01T13:45:25.995Z'
+datePublished: '2018-08-01T13:47:10.312Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 hasPage: true
@@ -54,6 +54,8 @@ Directed by Kyle Fermindoza, "Manggagarab" tells about father Gabriel and daught
 In "Bomba," actor Allen Dizon plays a deaf-mute in his 40s who is having an affair with a 16-year-old girl (played by Angeli Nicole Sanoy). Director Ralston Gonzales Jover captures the deafening silent existence that is dying to explode.
 
 Watch all these indie films at the Cinemalaya, happening on August 3 to 12, at the CCP theaters. For more information, visit [www.cinemalaya.org][0] or [www.culturalcenter.gov.ph.][1] You may also call CCP Media Arts at 832-1125 local 1704 to 1705 and the CCP Box Office at 832-3704\. Or follow the Cinemalaya Facebook and Instagram accounts.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa1bcc68-bcd2-42e3-8e66-5fd9cab78d21.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/347a3a74-2a39-4021-957b-c5ad0d2defb7.jpg)
 
 [0]: http://www.cinemalaya.org/
 [1]: http://www.culturalcenter.gov.ph./
