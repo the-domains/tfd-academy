@@ -19,13 +19,13 @@ app_links: []
 isBasedOnUrl: >-
   http://entertainment.inquirer.net/278437/garfield-wins-best-leading-play-actor-tony-award
 title: Garfield wins best leading play actor Tony Award
-datePublished: '2018-06-11T04:02:51.772Z'
-dateModified: '2018-06-11T04:02:41.858Z'
-datePublishedOriginal: '2018-06-11T04:02:51.772Z'
+datePublished: '2018-08-01T13:26:51.921Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-06-11-garfield-wins-best-leading-play-actor-tony-award.md
+starred: false
+datePublishedOriginal: '2018-06-11T04:02:51.772Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
