@@ -19,14 +19,14 @@ app_links: []
 isBasedOnUrl: >-
   https://www.philstar.com/entertainment/2018/01/02/1773731/2017-filipino-artists-shine-international-film-festivals
 title: '2017: Filipino artists shine in international film festivals | Philstar.com'
-datePublished: '2018-04-10T11:20:58.648Z'
-dateModified: '2018-04-10T11:20:48.682Z'
-datePublishedOriginal: '2018-04-10T11:20:58.648Z'
+datePublished: '2018-08-01T13:26:52.054Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-04-10-2017-filipino-artists-shine-in-international-film-festivals.md
+starred: false
+datePublishedOriginal: '2018-04-10T11:20:58.648Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
