@@ -62,13 +62,13 @@ app_links:
 isBasedOnUrl: >-
   https://www.theguardian.com/film/2017/dec/12/star-wars-the-last-jedi-review-episode-viii-rian-johnson
 title: 'Star Wars: The Last Jedi review - a thrill-ride of galactic proportions'
-datePublished: '2017-12-13T14:13:49.952Z'
-dateModified: '2017-12-13T14:13:32.076Z'
-datePublishedOriginal: '2017-12-13T14:13:49.952Z'
+datePublished: '2018-08-01T13:26:52.064Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-12-13-star-wars-the-last-jedi-review-a-thrill-ride-of-galactic.md
+starred: false
+datePublishedOriginal: '2017-12-13T14:13:49.952Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
