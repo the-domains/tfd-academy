@@ -16,13 +16,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.bbc.com/news/world-asia-24427927'
 title: Indie films stake Philippine cinema claim
-datePublished: '2018-04-28T13:18:53.902Z'
-dateModified: '2018-04-28T13:18:31.002Z'
-datePublishedOriginal: '2018-04-28T13:18:53.902Z'
+datePublished: '2018-08-01T13:26:52.019Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-04-28-indie-films-stake-philippine-cinema-claim.md
+starred: false
+datePublishedOriginal: '2018-04-28T13:18:53.902Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
