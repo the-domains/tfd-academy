@@ -49,13 +49,13 @@ isBasedOnUrl: 'http://www.clickthecity.com/movies/a/34900'
 title: >-
   Ang Panahon ng Halimaw Movie Review - 'Ang Panahon ng Halimaw': A Discordant
   Message of the Times
-datePublished: '2018-05-30T04:19:57.522Z'
-dateModified: '2018-05-30T04:19:52.522Z'
-datePublishedOriginal: '2018-05-30T04:19:57.522Z'
+datePublished: '2018-08-01T13:26:51.986Z'
+dateModified: '2018-08-01T13:26:45.791Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-05-30-ang-panahon-ng-halimaw-movie-review-ang-panahon-ng-halima.md
+starred: false
+datePublishedOriginal: '2018-05-30T04:19:57.522Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
