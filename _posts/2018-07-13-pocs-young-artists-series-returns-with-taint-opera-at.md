@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "PRESS RELEASE\_"
-dateModified: '2018-08-03T03:37:30.907Z'
-datePublished: '2018-08-03T03:37:32.103Z'
+dateModified: '2018-08-03T05:30:54.490Z'
+datePublished: '2018-08-03T05:30:54.959Z'
 title: POC’S YOUNG ARTISTS SERIES RETURNS WITH “T’AINT OPERA!” AT THE CCP
 author: []
 publisher: {}
