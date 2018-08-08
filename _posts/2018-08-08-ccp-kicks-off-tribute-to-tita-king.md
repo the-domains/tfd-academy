@@ -2,16 +2,16 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-08T21:05:07.354Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 description: PRESS RELEASE
 title: CCP KICKS OFF TRIBUTE TO TITA KING
 inFeed: true
 author: []
-datePublished: '2018-08-08T21:05:43.033Z'
+datePublished: '2018-08-08T21:12:35.372Z'
+sourcePath: _posts/2018-08-08-ccp-kicks-off-tribute-to-tita-king.md
 starred: true
 datePublishedOriginal: '2018-08-08T21:05:43.033Z'
-sourcePath: _posts/2018-08-08-ccp-kicks-off-tribute-to-tita-king.md
 _type: Blurb
 
 ---
