@@ -19,8 +19,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://entertainment.inquirer.net/274128/joross-gamboa-makes-directorial-debut'
 title: Joross Gamboa makes directorial debut
-datePublished: '2018-08-01T13:26:52.017Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.146Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-11-joross-gamboa-makes-directorial-debut.md
