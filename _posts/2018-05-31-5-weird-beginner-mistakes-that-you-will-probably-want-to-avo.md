@@ -16,8 +16,8 @@ app_links: []
 isBasedOnUrl: >-
   https://nofilmschool.com/2018/05/5-weird-beginner-mistakes-you-will-probably-want-avoid-making
 title: 5 Weird Beginner Mistakes That You Will Probably Want to Avoid Making
-datePublished: '2018-08-01T13:26:51.987Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.088Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: >-
