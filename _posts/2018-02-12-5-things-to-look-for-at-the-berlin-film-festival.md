@@ -22,8 +22,8 @@ app_links: []
 isBasedOnUrl: >-
   http://news.abs-cbn.com/entertainment/02/12/18/5-things-to-look-for-at-the-berlin-film-festival
 title: 5 things to look for at the Berlin film festival
-datePublished: '2018-08-01T13:26:52.065Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.291Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-02-12-5-things-to-look-for-at-the-berlin-film-festival.md
