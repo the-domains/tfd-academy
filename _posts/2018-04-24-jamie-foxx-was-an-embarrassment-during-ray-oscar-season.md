@@ -23,8 +23,8 @@ isBasedOnUrl: >-
 title: >-
   Jamie Foxx Was an 'Embarrassment' During 'Ray' Oscar Season, Until Oprah and
   Sidney Poitier Intervened - Tribeca
-datePublished: '2018-08-01T13:26:52.028Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.234Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-04-24-jamie-foxx-was-an-embarrassment-during-ray-oscar-season.md
