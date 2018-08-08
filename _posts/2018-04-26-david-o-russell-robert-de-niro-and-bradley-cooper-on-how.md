@@ -19,8 +19,8 @@ isBasedOnUrl: >-
 title: >-
   David O. Russell, Robert De Niro, and Bradley Cooper on How to Capture
   Unexpected Emotional Moments
-datePublished: '2018-08-01T13:26:52.018Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.235Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-04-26-david-o-russell-robert-de-niro-and-bradley-cooper-on-how.md
