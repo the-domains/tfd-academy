@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://news.abs-cbn.com/life/03/11/18/movie-review-citizen-jake-is-mike-de-leon-at-his-angriest-bravest
 title: 'Movie review: ''Citizen Jake'' is Mike de Leon at his angriest, bravest'
-datePublished: '2018-08-01T13:26:51.986Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.083Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-30-movie-review-citizen-jake-is-mike-de-leon-at-his-angriest.md
