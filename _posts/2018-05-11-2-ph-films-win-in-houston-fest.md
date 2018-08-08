@@ -19,8 +19,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://entertainment.inquirer.net/273028/2-ph-films-win-houston-fest'
 title: 2 PH films win in Houston fest
-datePublished: '2018-08-01T13:26:51.988Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.110Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-11-2-ph-films-win-in-houston-fest.md
