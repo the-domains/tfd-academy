@@ -65,8 +65,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=KJVuqYkI2jQ&feature=share'
 title: 'Lincoln Official Trailer #1 (2012) Steven Spielberg Movie HD'
-datePublished: '2018-08-01T13:26:52.052Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.288Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-22-lincoln-official-trailer-1-2012-steven-spielberg-movie-hd.md
