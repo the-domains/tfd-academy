@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-08-01T13:26:51.848Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:35.630Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 description: >-
   The Philippines faced various issues from the past and had always been
