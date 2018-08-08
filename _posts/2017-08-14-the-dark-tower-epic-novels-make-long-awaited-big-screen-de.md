@@ -46,8 +46,8 @@ app_links:
     type: android
 isBasedOnUrl: 'http://www.clickthecity.com/movies/a/33052'
 title: '"The Dark Tower" Epic Novels Make Long-Awaited Big-Screen Debut'
-datePublished: '2018-08-01T13:26:51.890Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:35.766Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: >-
