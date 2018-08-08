@@ -23,8 +23,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.spot.ph/entertainment/movies-music-tv/69288/pinoy-indie-films-streaming-2017-edition-a00001-20170215-lfrm
 title: 10 Pinoy Indie Films You Can Stream Now (2017 Edition)
-datePublished: '2018-08-01T13:26:52.019Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.111Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-04-28-10-pinoy-indie-films-you-can-stream-now-2017-edition.md
