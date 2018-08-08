@@ -15,8 +15,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://m.philstar.com/314196/show/191f2b54e85ba64dd9d9268d26bf6f27/?'
 title: Entertainment | Philstar Mobile
-datePublished: '2018-08-01T13:26:52.055Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.319Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-12-26-entertainment-or-philstar-mobile.md
