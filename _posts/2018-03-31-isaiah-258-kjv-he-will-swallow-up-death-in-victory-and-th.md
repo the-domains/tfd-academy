@@ -17,8 +17,8 @@ title: >-
   Isaiah 25:8 KJV; He will swallow up death in victory; and the Lord God will
   wipe away tears from off all faces; and the rebuke of his people shall he take
   away from off all the earth: for the Lord hath spoken it.
-datePublished: '2018-08-01T13:26:52.050Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.238Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-31-isaiah-258-kjv-he-will-swallow-up-death-in-victory-and-th.md
