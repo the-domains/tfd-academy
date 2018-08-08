@@ -17,8 +17,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://nofilmschool.com/2017/01/tiff-2017-lineup-announcement'
 title: 'TIFF 2017 Lineup: New Films from Aronofsky, del Toro, Malick, and More'
-datePublished: '2018-08-01T13:26:51.851Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:35.632Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-07-27-tiff-2017-lineup-new-films-from-aronofsky-del-toro-malick.md
