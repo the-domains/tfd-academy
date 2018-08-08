@@ -15,8 +15,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.rogerebert.com/reviews/amp/a-quiet-place-2018'
 title: A Quiet Place Movie Review & Film Summary (2018) | Roger Ebert
-datePublished: '2018-08-01T13:26:51.988Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.152Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: >-
