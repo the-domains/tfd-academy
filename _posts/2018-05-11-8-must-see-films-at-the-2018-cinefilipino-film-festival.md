@@ -19,8 +19,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.spot.ph/entertainment/movies-music-tv/8-must-see-films-2018-CFFF-adv-con
 title: 8 Must-See Films at the 2018 CineFilipino Film Festival
-datePublished: '2018-08-01T13:26:51.995Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.147Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-11-8-must-see-films-at-the-2018-cinefilipino-film-festival.md
