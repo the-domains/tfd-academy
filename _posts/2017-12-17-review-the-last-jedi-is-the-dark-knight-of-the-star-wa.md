@@ -21,8 +21,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.forbes.com/sites/scottmendelson/2017/12/12/star-wars-the-last-jedi-review-the-force-is-incredibly-strong-with-this-one/
 title: 'Review: ''The Last Jedi'' Is ''The Dark Knight'' Of The ''Star Wars'' Saga'
-datePublished: '2018-08-01T13:26:52.064Z'
-dateModified: '2018-08-01T13:26:45.791Z'
+datePublished: '2018-08-08T21:12:36.321Z'
+dateModified: '2018-08-08T21:12:28.620Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-12-17-review-the-last-jedi-is-the-dark-knight-of-the-star-wa.md
