@@ -16,8 +16,8 @@ app_links: []
 isBasedOnUrl: >-
   https://nofilmschool.com/2015/10/this-might-be-biggest-mistake-youre-making-new-filmmaker
 title: This Might Be the Biggest Mistake You're Making as a New Filmmaker
-datePublished: '2018-08-08T21:12:36.087Z'
-dateModified: '2018-08-08T21:12:28.620Z'
+datePublished: '2018-08-16T04:21:30.519Z'
+dateModified: '2018-08-16T04:21:24.599Z'
 via: {}
 inFeed: true
 sourcePath: >-
