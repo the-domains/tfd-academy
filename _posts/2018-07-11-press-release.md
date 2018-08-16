@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-08-16T04:22:50.435Z'
-datePublished: '2018-08-16T04:22:52.018Z'
+dateModified: '2018-08-16T04:23:19.244Z'
+datePublished: '2018-08-16T04:23:20.389Z'
 title: CCP PRESENTS THE 14TH CINEMALAYA THIS AUGUST
 author: []
 publisher: {}
