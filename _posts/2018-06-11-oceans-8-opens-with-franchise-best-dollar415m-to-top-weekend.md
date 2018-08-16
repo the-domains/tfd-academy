@@ -16,8 +16,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.philstar.com/entertainment/2018/06/11/1823642/oceans-8-opens-franchise-best-415m-top-weekend
 title: '''Ocean''s 8'' opens with franchise-best $41.5M to top weekend | Philstar.com'
-datePublished: '2018-08-08T21:12:36.082Z'
-dateModified: '2018-08-08T21:12:28.620Z'
+datePublished: '2018-08-16T04:21:30.517Z'
+dateModified: '2018-08-16T04:21:24.599Z'
 via: {}
 inFeed: true
 sourcePath: >-
