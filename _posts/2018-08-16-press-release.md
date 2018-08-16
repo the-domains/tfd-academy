@@ -1,11 +1,13 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-08-16T04:18:26.783Z'
-datePublished: '2018-08-16T04:18:28.250Z'
+dateModified: '2018-08-16T04:19:23.700Z'
+datePublished: '2018-08-16T04:19:24.902Z'
 title: “Kung Paano Hinihintay ang Dapithapon” named Best Film in the 14th Cinemalaya
 author: []
-publisher: {}
+publisher:
+  name: Cultural Center of the Philippines
+  url: 'http://www.culturalcenter.gov.ph'
 via: {}
 sourcePath: _posts/2018-08-16-press-release.md
 hasPage: true
@@ -20,7 +22,7 @@ _type: Article
 **August 12, 2018**
 
 # **"Kung Paano Hinihintay ang Dapithapon" named Best Film in the 14th Cinemalaya**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91298a7b-c961-4fd2-a5ea-1f78f494cb67.jpg)
+![(Photo by Orly Daquipil)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91298a7b-c961-4fd2-a5ea-1f78f494cb67.jpg)
 ![(Photo by Kiko Cabuena) ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a6c06be-667d-4a48-9457-6197af37d095.jpg)
 
 **Eddie Garcia and Ai Ai Delas Alas win Best Actor and Actress**
