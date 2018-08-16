@@ -23,8 +23,8 @@ isBasedOnUrl: >-
 title: >-
   'White Boy Rick' Trailer: Matthew McConaughey's Teenage Kid Scores Big - For A
   While
-datePublished: '2018-08-08T21:12:36.032Z'
-dateModified: '2018-08-08T21:12:28.620Z'
+datePublished: '2018-08-16T04:21:30.432Z'
+dateModified: '2018-08-16T04:21:24.599Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-06-05-white-boy-rick-trailer-matthew-mcconaugheys-teenage-kid.md
