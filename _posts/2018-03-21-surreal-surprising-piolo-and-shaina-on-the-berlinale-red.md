@@ -20,8 +20,8 @@ app_links: []
 isBasedOnUrl: >-
   http://entertainment.inquirer.net/266400/surreal-surprising-piolo-shaina-berlinale-red-carpet/amp
 title: '''Surreal, surprising'': Piolo and Shaina on the Berlinale red carpet'
-datePublished: '2018-08-08T21:12:36.290Z'
-dateModified: '2018-08-08T21:12:28.620Z'
+datePublished: '2018-08-16T04:20:24.272Z'
+dateModified: '2018-08-16T04:20:22.896Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-03-21-surreal-surprising-piolo-and-shaina-on-the-berlinale-red.md
