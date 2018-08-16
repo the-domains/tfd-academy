@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://primer.com.ph/blog/2017/01/02/mainstream-and-indie-the-philippines-film-industry/
 title: 'Mainstream and Indie: The Philippines'' Film Industry'
-datePublished: '2018-08-08T21:12:36.153Z'
-dateModified: '2018-08-08T21:12:28.620Z'
+datePublished: '2018-08-16T04:20:41.494Z'
+dateModified: '2018-08-16T04:20:40.729Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-04-28-mainstream-and-indie-the-philippines-film-industry.md
