@@ -2,13 +2,13 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-16T04:22:50.435Z'
+dateModified: '2018-08-16T04:23:19.244Z'
 via: {}
 description: PRESS RELEASE
 title: FEATURED DOCUMENTARY FILMS AT THE CINEMALAYA’S DOKYU
 inFeed: true
 author: []
-datePublished: '2018-08-16T04:22:52.201Z'
+datePublished: '2018-08-16T04:23:20.270Z'
 sourcePath: _posts/2018-07-31-featured-documentary-films-at-the-cinemalayas-dokyu.md
 hasPage: true
 starred: true
