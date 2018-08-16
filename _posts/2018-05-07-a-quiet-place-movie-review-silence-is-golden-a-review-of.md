@@ -47,8 +47,8 @@ app_links:
     type: android
 isBasedOnUrl: 'http://www.clickthecity.com/movies/a/34562'
 title: 'A Quiet Place Movie Review - Silence is Golden: A Review of ''A Quiet Place'''
-datePublished: '2018-08-08T21:12:36.152Z'
-dateModified: '2018-08-08T21:12:28.620Z'
+datePublished: '2018-08-16T04:20:58.480Z'
+dateModified: '2018-08-16T04:20:57.953Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-05-07-a-quiet-place-movie-review-silence-is-golden-a-review-of.md
