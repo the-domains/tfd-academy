@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-08-16T04:23:19.244Z'
-datePublished: '2018-08-16T04:23:20.400Z'
+dateModified: '2018-08-16T04:25:05.774Z'
+datePublished: '2018-08-16T04:25:07.135Z'
 title: “Kung Paano Hinihintay ang Dapithapon” named Best Film in the 14th Cinemalaya
 author: []
 publisher:
@@ -26,6 +26,7 @@ _type: Article
 ![(Photo by Kiko Cabuena) ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a6c06be-667d-4a48-9457-6197af37d095.jpg)
 
 **Eddie Garcia and Ai Ai Delas Alas win Best Actor and Actress**
+![(Photo by Kiko Cabuena)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e588f02b-707e-4cc3-a4c9-27cdb6b25010.jpg)
 
 CARLO ENCISO CATU's **Kung Paano Hinihintay ang Dapithapon (Waiting for Sunset)** was named Best Film at the 14th Cinemalaya Philippine Independent Film Festival Awards night held on August 12, 2018 at the CCP Main Theater.
 
@@ -60,7 +61,7 @@ Actress, host and comedian Ai Ai Delas Alas garnered the Best Actress award for 
 
 Therese Malvar tied with herself for the Best Supporting Actress award for her performances in two films, **School Service** and Percival Intalan's **Distance**, while Ketchup Eusebio won the Best Supporting Actor for his role in Denise O'Hara's **Mamang**.
 
-The Best Editing award went to ML (Mikael Pestano) while Best Sound went to Wild Sound for its work in Iar Lionel Arondaing's **Musmos Na Sumibol Sa Gubat Ng Digma****(Unless the Water is Safer than the Land)**.
+The Best Editing award went to ML (Mikael Pestano) while Best Sound went to Wild Sound for its work in Iar Lionel Arondaing's **Musmos Na Sumibol Sa Gubat Ng Digma(Unless the Water is Safer than the Land)**.
 
 In the short feature category, Carlo Francisco Manatad's **Jodilerks De La Cruz, Employee of the Month** was named Best Film while Special Jury Prize went to **Si Astri Maka Si Tambulah** by Xeph Suarez, who also won for Best Direction. Best Short Film winner **Jodilerks De La Cruz, Employee of the Month** won Php150,000 cash award, the Cinemalaya Balanghai trophy, a Canon camera, and full color-grading services from Optima Digital worth Php360,000\. As Special Jury Prize winner, **Si Astri Maka Si Tambulah** earned Php50,000 and a Balanghai trophy.
 
