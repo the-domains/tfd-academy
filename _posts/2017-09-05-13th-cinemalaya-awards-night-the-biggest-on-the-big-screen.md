@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2018-08-16T04:21:24.599Z'
+dateModified: '2018-08-16T04:22:50.435Z'
 via: {}
 description: >-
   The most awaited night for this year’s Cinemalaya 13: See the Big Picture has
@@ -9,7 +9,7 @@ description: >-
 title: '13th Cinemalaya Awards Night: the Biggest on the Big Screen'
 inFeed: true
 author: []
-datePublished: '2018-08-16T04:21:30.262Z'
+datePublished: '2018-08-16T04:22:52.217Z'
 sourcePath: >-
   _posts/2017-09-05-13th-cinemalaya-awards-night-the-biggest-on-the-big-screen.md
 starred: true
