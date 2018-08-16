@@ -19,8 +19,8 @@ app_links: []
 isBasedOnUrl: >-
   https://variety.com/2018/film/in-contention/dark-knight-changed-movies-christopher-nolan-1202874041/amp/
 title: 'Christopher Nolan''s ''Dark Knight'' Changed Movies, and the Oscars, Forever'
-datePublished: '2018-08-08T21:12:36.085Z'
-dateModified: '2018-08-08T21:12:28.620Z'
+datePublished: '2018-08-16T04:21:30.433Z'
+dateModified: '2018-08-16T04:21:24.599Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-07-18-christopher-nolans-dark-knight-changed-movies-and-the-os.md
