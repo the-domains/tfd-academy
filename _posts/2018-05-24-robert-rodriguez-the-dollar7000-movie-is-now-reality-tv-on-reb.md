@@ -22,8 +22,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.indiewire.com/2018/03/robert-rodriguez-el-mariachi-reality-tv-rebel-without-a-crew-1201941225/
 title: 'Robert Rodriguez: The $7,000 Movie Is Now Reality TV on ''Rebel Without a Crew'''
-datePublished: '2018-08-08T21:12:36.149Z'
-dateModified: '2018-08-08T21:12:28.620Z'
+datePublished: '2018-08-16T04:21:30.528Z'
+dateModified: '2018-08-16T04:21:24.599Z'
 via: {}
 inFeed: true
 sourcePath: >-
