@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-08-16T04:08:27.104Z'
-datePublished: '2018-08-16T04:08:28.801Z'
+dateModified: '2018-08-16T04:10:38.014Z'
+datePublished: '2018-08-16T04:10:39.329Z'
 title: “Kung Paano Hinihintay ang Dapithapon” named Best Film in the 14th Cinemalaya
 author: []
 publisher: {}
@@ -21,7 +21,6 @@ _type: Blurb
 
 **Eddie Garcia and Ai Ai Delas Alas win Best Actor and Actress**
 
-  
 CARLO ENCISO CATU's **Kung Paano Hinihintay ang Dapithapon (Waiting for Sunset)** was named Best Film at the 14th Cinemalaya Philippine Independent Film Festival Awards night held on August 12, 2018 at the CCP Main Theater.
 
 Catu's film about love, companionship and forgiveness in the twilight years of an unlikely trio --- an unmarried couple and the woman's estranged husband --- also won the prizes for Best Production Design (Marielle Hizon), Best Cinematography (Neil Daza), and Best Screenplay (John Carlo Pacala).
