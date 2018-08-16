@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2018-08-08T21:12:28.620Z'
+dateModified: '2018-08-16T04:21:24.599Z'
 via: {}
 description: >-
   For the 13th time, Cinemalaya featured the independence and freedom of
@@ -9,7 +9,7 @@ description: >-
 title: 'Cinemalaya 13: See it BIG'
 inFeed: true
 author: []
-datePublished: '2018-08-08T21:12:35.562Z'
+datePublished: '2018-08-16T04:21:30.219Z'
 sourcePath: _posts/2017-09-06-cinemalaya-13-see-it-big.md
 starred: true
 datePublishedOriginal: '2017-09-06T09:53:06.613Z'
