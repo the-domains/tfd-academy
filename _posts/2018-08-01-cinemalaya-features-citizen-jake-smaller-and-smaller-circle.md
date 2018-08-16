@@ -2,7 +2,7 @@
 publisher:
   name: Cultural Center of the Philippines
   url: 'http://www.culturalcenter.gov.ph'
-dateModified: '2018-08-16T04:21:24.599Z'
+dateModified: '2018-08-16T04:22:50.435Z'
 via: {}
 description: PRESS RELEASE
 title: >-
@@ -10,7 +10,7 @@ title: >-
   INDIE NATION
 inFeed: true
 author: []
-datePublished: '2018-08-16T04:21:30.204Z'
+datePublished: '2018-08-16T04:22:52.019Z'
 sourcePath: >-
   _posts/2018-08-01-cinemalaya-features-citizen-jake-smaller-and-smaller-circle.md
 hasPage: true
