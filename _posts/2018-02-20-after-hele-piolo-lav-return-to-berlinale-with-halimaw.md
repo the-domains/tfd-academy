@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://news.abs-cbn.com/entertainment/02/19/18/after-hele-piolo-lav-return-to-berlinale-with-halimaw
 title: 'After ''Hele,'' Piolo, Lav return to Berlinale with ''Halimaw'''
-datePublished: '2018-08-08T21:12:36.263Z'
-dateModified: '2018-08-08T21:12:28.620Z'
+datePublished: '2018-08-16T04:20:24.287Z'
+dateModified: '2018-08-16T04:20:22.896Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-02-20-after-hele-piolo-lav-return-to-berlinale-with-halimaw.md
