@@ -15,8 +15,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://nofilmschool.com/2018/04/10-youtube-tips-creators-should-know-about'
 title: 10 Ways to Harness the Power of Your YouTube Videos
-datePublished: '2018-08-08T21:12:36.233Z'
-dateModified: '2018-08-08T21:12:28.620Z'
+datePublished: '2018-08-16T04:20:41.590Z'
+dateModified: '2018-08-16T04:20:40.729Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-04-24-10-ways-to-harness-the-power-of-your-youtube-videos.md
