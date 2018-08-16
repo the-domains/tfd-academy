@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-08-16T04:15:28.121Z'
-datePublished: '2018-08-16T04:15:30.492Z'
+dateModified: '2018-08-16T04:16:42.290Z'
+datePublished: '2018-08-16T04:16:43.578Z'
 title: “Kung Paano Hinihintay ang Dapithapon” named Best Film in the 14th Cinemalaya
 author: []
 publisher: {}
@@ -39,6 +39,7 @@ Pan de Salawal was lauded "For its vibrancy and vigor, its sense of wonder and p
 Pan de Salawal also earned the Best Original Musical Score award (Len Calvo) and Special Jury citations for the young actors in its cast.
 
 Child actors Miel Espinosa (Pan de Salawal), JM Salvado (Pan de Salawal and Musmos na Sumibol sa Gubat ng Digma), and Kenken Nuyda (Liway and School Service) all earned Special Jury Citations for their outstanding performances.
+![(Photo by Kiko Cabuena)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a2dd17e-60c9-4984-b432-9b970395419e.jpg)
 
 The Cinemalaya Board of Jurors said that strong performances of children have distinguished a number of movies in this year's Cinemalaya festival.
 
