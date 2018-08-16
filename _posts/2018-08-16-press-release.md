@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: PRESS RELEASE
-dateModified: '2018-08-16T04:14:14.863Z'
-datePublished: '2018-08-16T04:14:17.854Z'
+dateModified: '2018-08-16T04:15:28.121Z'
+datePublished: '2018-08-16T04:15:30.492Z'
 title: “Kung Paano Hinihintay ang Dapithapon” named Best Film in the 14th Cinemalaya
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-08-16-press-release.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-08-16T04:12:03.783Z'
-hasPage: true
 url: kung-paano-hinihintay-ang-dapithapon-named-best-film-in-th/index.html
 _type: Article
 
@@ -20,6 +20,7 @@ _type: Article
 **August 12, 2018**
 
 # **"Kung Paano Hinihintay ang Dapithapon" named Best Film in the 14th Cinemalaya**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a6c06be-667d-4a48-9457-6197af37d095.jpg)
 
 **Eddie Garcia and Ai Ai Delas Alas win Best Actor and Actress**
 
@@ -66,7 +67,6 @@ For the **Nespresso Vertical Shorts 2018 Competition**, the Best Film went to **
 Now on its 14th year, Cinemalaya has supported and promoted the production of full feature independent films and short films. Many of these films have won awards in local and international competitions and festivals.
 
 Through the annual festival, Cinemalaya has showcased over 1,000 works by independent filmmakers including full feature films, shorts, documentaries, Filipino film classics, and art films.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a6c06be-667d-4a48-9457-6197af37d095.jpg)
 
 Cinemalaya this year was held at the CCP and in selected Ayala Malls cinemas.
 
