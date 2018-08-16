@@ -19,8 +19,8 @@ description: 'For the year 2017, I was able to watch 54 Filipino films (up from 
 app_links: []
 isBasedOnUrl: 'http://news.abs-cbn.com/life/12/31/17/rewind-20-best-filipino-films-of-2017'
 title: 'REWIND: 20 best Filipino films of 2017'
-datePublished: '2018-08-08T21:12:36.295Z'
-dateModified: '2018-08-08T21:12:28.620Z'
+datePublished: '2018-08-16T04:20:24.333Z'
+dateModified: '2018-08-16T04:20:22.896Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2018-01-02-rewind-20-best-filipino-films-of-2017.md
